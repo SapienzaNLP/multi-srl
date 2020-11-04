@@ -49,3 +49,11 @@ This project currently depends on:
 * PyTorch 1.5
 * PyTorch Lightning 0.8.5
 We are in the process of updating the code to PyTorch 1.7 and PyTorch Lightning 1.0.
+
+## Cite this work
+    @inproceedings{conia-and-navigli-2020-multilingual-srl,
+      title     = {Bridging the Gap in Multilingual {S}emantic {R}ole {L}abeling: {A} Language-Agnostic Approach},
+      author    = {Conia, Simone and Navigli, Roberto},
+      booktitle = {Proceedings of the 28th International Conference on Computational Linguistics, COLING 2020},
+      year      = {2020}
+    }
