@@ -24,6 +24,12 @@ You can download a copy of all the files in this repository by cloning the
 
 or [download a zip archive](https://github.com/SapienzaNLP/multi-srl/archive/master.zip).
 
+### Model Checkpoints
+Coming soon!
+
+### Training/Validation Logs
+Coming soon!
+
 
 ## Dependencies
 You'll need a working Python environment to run the code.
