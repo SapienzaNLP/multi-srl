@@ -48,6 +48,7 @@ dependencies in it:
 This project currently depends on:
 * PyTorch 1.5
 * PyTorch Lightning 0.8.5
+
 We are in the process of updating the code to PyTorch 1.7 and PyTorch Lightning 1.0.
 
 ## Cite this work
