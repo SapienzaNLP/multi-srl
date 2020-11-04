@@ -1,0 +1,13 @@
+*.txt
+*.tsv
+*.json
+*.bin
+*.vec
+
+.DS_Store
+
+.vscode/
+
+lightning_logs/
+checkpoints/*/*ckpt
+
