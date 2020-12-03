@@ -10,7 +10,7 @@
 
 ## Description
 This is the repository for the paper [*Bridging the Gap in Multilingual Semantic Role Labeling: a Language-Agnostic Approach*](https://www.aclweb.org/anthology/2020.coling-main.120/),
-to be presented at COLING 2020 by Simone Conia and Roberto Navigli.
+presented at COLING 2020 by Simone Conia and Roberto Navigli.
 
 
 ## Abstract
