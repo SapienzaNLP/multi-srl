@@ -2,13 +2,14 @@
  
 # Bridging the Gap in Multilingual Semantic Role Labeling: a Language-Agnostic Approach     
 
+[![Paper](http://img.shields.io/badge/paper-ACL--anthology-B31B1B.svg)](https://www.aclweb.org/anthology/2020.coling-main.120/)
 [![Conference](http://img.shields.io/badge/COLING-2020-4b44ce.svg)](https://coling2020.org/)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 </div>
 
 ## Description
-This is the repository for the paper *Bridging the Gap in Multilingual Semantic Role Labeling: a Language-Agnostic Approach*,
+This is the repository for the paper [*Bridging the Gap in Multilingual Semantic Role Labeling: a Language-Agnostic Approach*](https://www.aclweb.org/anthology/2020.coling-main.120/),
 to be presented at COLING 2020 by Simone Conia and Roberto Navigli.
 
 
