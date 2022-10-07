@@ -1,8 +1,7 @@
 import logging
-from typing import Any, Dict, List, Optional, Sequence, Tuple, TypeVar, Union
-
 import math
-import numpy
+from typing import List, Optional
+
 import torch
 
 logger = logging.getLogger(__name__)
@@ -14,6 +13,7 @@ def viterbi_decode(
     allowed_start_transitions: torch.Tensor = None,
     allowed_end_transitions: torch.Tensor = None,
     top_k: int = None,
+    device: torch.device = None,
 ):
     """
     Perform Viterbi decoding in log space over a sequence given a transition matrix
@@ -70,21 +70,21 @@ def viterbi_decode(
     if has_start_end_restrictions:
 
         if allowed_end_transitions is None:
-            allowed_end_transitions = torch.zeros(num_tags)
+            allowed_end_transitions = torch.zeros(num_tags).to(device)
         if allowed_start_transitions is None:
-            allowed_start_transitions = torch.zeros(num_tags)
+            allowed_start_transitions = torch.zeros(num_tags).to(device)
 
         num_tags = num_tags + 2
-        new_transition_matrix = torch.zeros(num_tags, num_tags)
+        new_transition_matrix = torch.zeros(num_tags, num_tags).to(device)
         new_transition_matrix[:-2, :-2] = transition_matrix
 
         # Start and end transitions are fully defined, but cannot transition between each other.
 
         allowed_start_transitions = torch.cat(
-            [allowed_start_transitions, torch.tensor([-math.inf, -math.inf])]
+            [allowed_start_transitions, torch.tensor([-math.inf, -math.inf]).to(device)]
         )
         allowed_end_transitions = torch.cat(
-            [allowed_end_transitions, torch.tensor([-math.inf, -math.inf])]
+            [allowed_end_transitions, torch.tensor([-math.inf, -math.inf]).to(device)]
         )
 
         # First define how we may transition FROM the start and end tags.
@@ -111,8 +111,8 @@ def viterbi_decode(
 
     if has_start_end_restrictions:
         tag_observations = [num_tags - 2] + tag_observations + [num_tags - 1]
-        zero_sentinel = torch.zeros(1, num_tags)
-        extra_tags_sentinel = torch.ones(sequence_length, 2) * -math.inf
+        zero_sentinel = torch.zeros(1, num_tags).to(device)
+        extra_tags_sentinel = torch.ones(sequence_length, 2).to(device) * -math.inf
         tag_sequence = torch.cat([tag_sequence, extra_tags_sentinel], -1)
         tag_sequence = torch.cat([zero_sentinel, tag_sequence, zero_sentinel], 0)
         sequence_length = tag_sequence.size(0)
@@ -121,7 +121,7 @@ def viterbi_decode(
     path_indices = []
 
     if tag_observations[0] != -1:
-        one_hot = torch.zeros(num_tags)
+        one_hot = torch.zeros(num_tags).to(device)
         one_hot[tag_observations[0]] = 100000.0
         path_scores.append(one_hot.unsqueeze(0))
     else:
@@ -150,7 +150,7 @@ def viterbi_decode(
                     "or transition potentials!"
                 )
         if observation != -1:
-            one_hot = torch.zeros(num_tags)
+            one_hot = torch.zeros(num_tags).to(device)
             one_hot[observation] = 100000.0
             path_scores.append(one_hot.unsqueeze(0))
         else:

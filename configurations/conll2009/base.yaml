@@ -1,0 +1,239 @@
+
+# Set to an int to run seed_everything with this value before classes instantiation (type: Union[int, null], default: 313)
+seed_everything: 313
+
+# Customize every aspect of training via flags
+trainer:
+
+  # Logger (or iterable collection of loggers) for experiment tracking. A ``True`` value uses
+  # the default ``TensorBoardLogger``. ``False`` will disable logging. If multiple loggers are
+  # provided and the `save_dir` property of that logger is not set, local files (checkpoints,
+  # profiler traces, etc.) are saved in ``default_root_dir`` rather than in the ``log_dir`` of any
+  # of the individual loggers.
+  # Default: ``True``. (type: Union[LightningLoggerBase, Iterable[LightningLoggerBase], bool], default: True, known subclasses: pytorch_lightning.loggers.LoggerCollection, pytorch_lightning.loggers.base.DummyLogger, pytorch_lightning.loggers.CSVLogger, pytorch_lightning.loggers.TensorBoardLogger, pytorch_lightning.loggers.CometLogger, pytorch_lightning.loggers.MLFlowLogger, pytorch_lightning.loggers.NeptuneLogger, pytorch_lightning.loggers.TestTubeLogger, pytorch_lightning.loggers.WandbLogger)
+  logger: true
+
+  # If ``True``, enable checkpointing.
+  # It will configure a default ModelCheckpoint callback if there is no user-defined ModelCheckpoint in
+  # :paramref:`~pytorch_lightning.trainer.trainer.Trainer.callbacks`.
+  # Default: ``True``. (type: bool, default: True)
+  enable_checkpointing: true
+
+  # Add a callback or list of callbacks.
+  # Default: ``None``. (type: Union[List[Callback], Callback, null], default: null, known subclasses: pytorch_lightning.Callback, pytorch_lightning.callbacks.DeviceStatsMonitor, pytorch_lightning.callbacks.EarlyStopping, pytorch_lightning.callbacks.BaseFinetuning, pytorch_lightning.callbacks.BackboneFinetuning, pytorch_lightning.callbacks.GPUStatsMonitor, pytorch_lightning.callbacks.GradientAccumulationScheduler, pytorch_lightning.callbacks.LambdaCallback, pytorch_lightning.callbacks.LearningRateMonitor, pytorch_lightning.callbacks.ModelCheckpoint, pytorch_lightning.callbacks.ModelSummary, pytorch_lightning.callbacks.RichModelSummary, pytorch_lightning.callbacks.BasePredictionWriter, pytorch_lightning.callbacks.ProgressBarBase, pytorch_lightning.callbacks.TQDMProgressBar, pytorch_lightning.callbacks.ProgressBar, pytorch_lightning.callbacks.RichProgressBar, pytorch_lightning.callbacks.Timer, pytorch_lightning.callbacks.ModelPruning, pytorch_lightning.callbacks.QuantizationAwareTraining, pytorch_lightning.callbacks.StochasticWeightAveraging, pytorch_lightning.callbacks.XLAStatsMonitor, pytorch_lightning.utilities.cli.SaveConfigCallback)
+  callbacks:
+    - class_path: pytorch_lightning.callbacks.ModelCheckpoint
+      init_args:
+        monitor: val/overall_f1
+        mode: max
+        save_top_k: 3
+        filename: "epoch={epoch:02d}-f1={val/overall_f1:.4f}"
+        auto_insert_metric_name: false
+    - class_path: pytorch_lightning.callbacks.EarlyStopping
+      init_args:
+        monitor: val/overall_f1
+        mode: max
+        patience: 10
+    - class_path: pytorch_lightning.callbacks.LearningRateMonitor
+      init_args:
+        logging_interval: step
+    - class_path: pytorch_lightning.callbacks.RichProgressBar
+
+  # The value at which to clip gradients. Passing ``gradient_clip_val=None`` disables
+  # gradient clipping. If using Automatic Mixed Precision (AMP), the gradients will be unscaled before.
+  # Default: ``None``. (type: Union[int, float, null], default: null)
+  gradient_clip_val: 1.0
+
+  # The gradient clipping algorithm to use. Pass ``gradient_clip_algorithm="value"``
+  # to clip by value, and ``gradient_clip_algorithm="norm"`` to clip by norm. By default it will
+  # be set to ``"norm"``. (type: Union[str, null], default: null)
+  gradient_clip_algorithm: norm
+
+  # Number of GPUs to train on (int) or which GPUs to train on (list or str) applied per node
+  # Default: ``None``. (type: Union[List[int], str, int, null], default: null)
+  accelerator: gpu
+  devices: 1
+
+  # Runs n if set to ``n`` (int) else 1 if set to ``True`` batch(es)
+  # of train, val and test to find any bugs (ie: a sort of unit test).
+  # Default: ``False``. (type: Union[int, bool], default: False)
+  fast_dev_run: false
+
+  # Accumulates grads every k batches or as set up in the dict.
+  # Default: ``None``. (type: Union[int, Dict[int, int], null], default: null)
+  accumulate_grad_batches: 1
+
+  # Stop training after this number of steps. Disabled by default (-1). If ``max_steps = -1``
+  # and ``max_epochs = None``, will default to ``max_epochs = 1000``. To enable infinite training, set
+  # ``max_epochs`` to ``-1``. (type: int, default: -1)
+  max_steps: 500000
+
+  # How often to log within steps.
+  # Default: ``50``. (type: int, default: 50)
+  log_every_n_steps: 100
+
+  # Double precision (64), full precision (32), half precision (16) or bfloat16 precision (bf16).
+  # Can be used on CPU, GPU, TPUs, HPUs or IPUs.
+  # Default: ``32``. (type: Union[int, str], default: 32)
+  precision: 16
+
+  # Whether to enable model summarization by default.
+  # Default: ``True``. (type: bool, default: True)
+  enable_model_summary: true
+
+  # Sanity check runs n validation batches before starting the training routine.
+  # Set it to `-1` to run all batches in all validation dataloaders.
+  # Default: ``2``. (type: int, default: 2)
+  num_sanity_val_steps: 2
+
+  # If ``True``, sets whether PyTorch operations must use deterministic algorithms.
+  # If not set, defaults to ``False``.
+  # Default: ``None``. (type: Union[bool, null], default: null)
+  deterministic: false
+
+  # How to loop over the datasets when there are multiple train loaders.
+  # In 'max_size_cycle' mode, the trainer ends one epoch when the largest dataset is traversed,
+  # and smaller datasets reload when running out of their data. In 'min_size' mode, all the datasets
+  # reload when reaching the minimum length of datasets.
+  # Default: ``"max_size_cycle"``. (type: str, default: max_size_cycle)
+  multiple_trainloader_mode: max_size_cycle
+
+# <class 'srl.model.srl_parser.SrlParser'>
+model:
+
+  #   (type: bool, default: False)
+  language_model_fine_tuning: false
+
+  #   (type: int, default: 512)
+  word_encoding_size: 512
+
+  #   (type: str, default: swish)
+  word_encoding_activation: swish
+
+  #   (type: float, default: 0.1)
+  word_encoding_dropout: 0.2
+
+  #   (type: int, default: 32)
+  predicate_encoding_size: 128
+
+  #   (type: str, default: swish)
+  predicate_encoding_activation: swish
+
+  #   (type: float, default: 0.1)
+  predicate_encoding_dropout: 0.5
+
+  #   (type: int, default: 256)
+  sense_encoding_size: 512
+
+  #   (type: str, default: swish)
+  sense_encoding_activation: swish
+
+  #   (type: float, default: 0.2)
+  sense_encoding_dropout: 0.5
+
+  #   (type: int, default: 512)
+  role_encoding_size: 512
+
+  #   (type: str, default: swish)
+  role_encoding_activation: swish
+
+  #   (type: float, default: 0.2)
+  role_encoding_dropout: 0.2
+
+  #   (type: int, default: 512)
+  predicate_timestep_encoding_size: 512
+
+  #   (type: str, default: swish)
+  predicate_timestep_encoding_activation: swish
+
+  #   (type: float, default: 0.1)
+  predicate_timestep_encoding_dropout: 0.1
+
+  #   (type: int, default: 512)
+  argument_timestep_encoding_size: 512
+
+  #   (type: str, default: swish)
+  argument_timestep_encoding_activation: swish
+
+  #   (type: float, default: 0.1)
+  argument_timestep_encoding_dropout: 0.1
+
+  #   (type: str, default: connected_lstm)
+  word_sequence_encoder_type: connected_lstm
+
+  #   (type: int, default: 512)
+  word_sequence_encoder_hidden_size: 256
+
+  #   (type: int, default: 1)
+  word_sequence_encoder_layers: 2
+
+  #   (type: float, default: 0.2)
+  word_sequence_encoder_dropout: 0.1
+
+  #   (type: str, default: connected_lstm)
+  argument_sequence_encoder_type: connected_lstm
+
+  #   (type: int, default: 512)
+  argument_sequence_encoder_hidden_size: 256
+
+  #   (type: int, default: 1)
+  argument_sequence_encoder_layers: 2
+
+  #   (type: float, default: 0.2)
+  argument_sequence_encoder_dropout: 0.1
+
+  #   (type: float, default: 0.001)
+  learning_rate: 1.0e-03
+
+  #   (type: float, default: 0.0001)
+  weight_decay: 1.0e-02
+
+  #   (type: float, default: 5e-05)
+  language_model_learning_rate: 1.0e-05
+
+  #   (type: float, default: 0.01)
+  language_model_weight_decay: 1.0e-02
+
+  #   (type: int, default: -1)
+  padding_label_id: -1
+
+  #   (type: bool, default: False)
+  use_viterbi_decoding: false
+
+  #   (type: bool, default: False)
+  use_sense_candidates: true
+
+  #   (type: str, default: None)
+  predictions_path:
+
+# <class 'srl.data.dependency_srl_data_module.DependencySrlDataModule'>
+data:
+
+  #   (type: str)
+  vocabulary_path: data/preprocessed/conll2009/en/vocabulary.json
+
+  #   (type: Union[str, null], default: null)
+  train_path: data/preprocessed/conll2009/en/CoNLL2009_train.json
+
+  #   (type: Union[str, null], default: null)
+  dev_path: data/preprocessed/conll2009/en/CoNLL2009_dev.json
+
+  #   (type: Union[str, null], default: null)
+  test_path: data/preprocessed/conll2009/en/CoNLL2009_test.json
+
+  #   (type: str, default: bert-base-cased)
+  language_model_name: bert-base-cased
+
+  #   (type: int, default: 32)
+  batch_size: 32
+
+  #   (type: int, default: 8)
+  num_workers: 8
+
+  #   (type: int, default: -1)
+  padding_label_id: -1
+
+# Path/URL of the checkpoint from which training is resumed. If there is
+# no checkpoint file at the path, an exception is raised. If resuming from mid-epoch checkpoint,
+# training will start from the beginning of the next epoch. (type: Union[str, null], default: null)
+ckpt_path:

@@ -1,0 +1,11334 @@
+{
+  "candidates": {
+    "abandon": [
+      "CHANGE_SWITCH",
+      "DISCARD"
+    ],
+    "abate": [
+      "REDUCE_DIMINISH"
+    ],
+    "abdicate": [
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "abet": [
+      "INCITE_INDUCE"
+    ],
+    "abide": [
+      "OBEY"
+    ],
+    "abolish": [
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "abort": [
+      "STOP"
+    ],
+    "abound": [
+      "EXIST-WITH-FEATURE"
+    ],
+    "absolve": [
+      "PARDON"
+    ],
+    "absorb": [
+      "ABSORB"
+    ],
+    "abstain": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "abuse": [
+      "SPEAK"
+    ],
+    "accede": [
+      "AGREE_ACCEPT"
+    ],
+    "accelerate": [
+      "SPEED-UP"
+    ],
+    "accept": [
+      "AGREE_ACCEPT"
+    ],
+    "access": [
+      "ENTER"
+    ],
+    "acclaim": [
+      "APPROVE_PRAISE"
+    ],
+    "accommodate": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "accompany": [
+      "ACCOMPANY"
+    ],
+    "accomplish": [
+      "ACHIEVE"
+    ],
+    "accord": [
+      "GIVE_GIFT"
+    ],
+    "account": [
+      "AMELIORATE"
+    ],
+    "accounting": [
+      "AMELIORATE"
+    ],
+    "accrete": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "accrue": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "accrues": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "accumulate": [
+      "AMASS"
+    ],
+    "accuse": [
+      "ACCUSE"
+    ],
+    "accustom": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "ache": [
+      "HURT_HARM_ACHE"
+    ],
+    "achieve": [
+      "ACHIEVE"
+    ],
+    "acidify": [
+      "CONVERT"
+    ],
+    "acknowledge": [
+      "RECOGNIZE_ADMIT_IDENTIFY"
+    ],
+    "acquaint": [
+      "KNOW"
+    ],
+    "acquiesce": [
+      "AGREE_ACCEPT"
+    ],
+    "acquire": [
+      "OBTAIN"
+    ],
+    "acquit": [
+      "SUBJECTIVE-JUDGING"
+    ],
+    "act": [
+      "BEHAVE",
+      "CARRY-OUT-ACTION"
+    ],
+    "acting": [
+      "CARRY-OUT-ACTION"
+    ],
+    "activate": [
+      "OPERATE"
+    ],
+    "adapt": [
+      "ADJUST_CORRECT"
+    ],
+    "add": [
+      "ADD",
+      "REACH",
+      "SPEAK"
+    ],
+    "address": [
+      "FOCUS",
+      "SPEAK"
+    ],
+    "adhere": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "adjourn": [
+      "FINISH_CONCLUDE_END"
+    ],
+    "adjust": [
+      "ADJUST_CORRECT"
+    ],
+    "administer": [
+      "GIVE_GIFT"
+    ],
+    "admire": [
+      "LIKE"
+    ],
+    "admit": [
+      "AUTHORIZE_ADMIT",
+      "RECOGNIZE_ADMIT_IDENTIFY"
+    ],
+    "admonish": [
+      "WARN"
+    ],
+    "adopt": [
+      "LEARN"
+    ],
+    "adorn": [
+      "EMBELLISH"
+    ],
+    "advance": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "advanced": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "advertise": [
+      "PUBLICIZE"
+    ],
+    "advertising": [
+      "PUBLICIZE"
+    ],
+    "advise": [
+      "INFORM"
+    ],
+    "advocate": [
+      "PROPOSE"
+    ],
+    "affect": [
+      "AFFECT",
+      "DECEIVE"
+    ],
+    "affiliate": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "affirm": [
+      "PROVE"
+    ],
+    "afflict": [
+      "HURT_HARM_ACHE"
+    ],
+    "afford": [
+      "EXIST-WITH-FEATURE",
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "age": [
+      "DEVELOP_AGE"
+    ],
+    "aggravate": [
+      "WORSEN"
+    ],
+    "agitate": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "agonize": [
+      "HURT_HARM_ACHE"
+    ],
+    "agree": [
+      "AGREE_ACCEPT"
+    ],
+    "aid": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "ail": [
+      "HURT_HARM_ACHE"
+    ],
+    "aim": [
+      "DIRECT_AIM_MANEUVER",
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "air": [
+      "TRANSMIT"
+    ],
+    "airlift": [
+      "CARRY_TRANSPORT"
+    ],
+    "airs": [
+      "TRANSMIT"
+    ],
+    "alarm": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "alert": [
+      "WARN"
+    ],
+    "alienate": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "align": [
+      "ADJUST_CORRECT"
+    ],
+    "allay": [
+      "WEAKEN"
+    ],
+    "allege": [
+      "AFFIRM"
+    ],
+    "alleviate": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "allocate": [
+      "GIVE_GIFT"
+    ],
+    "allow": [
+      "AUTHORIZE_ADMIT",
+      "RECOGNIZE_ADMIT_IDENTIFY"
+    ],
+    "allude": [
+      "CITE"
+    ],
+    "ally": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "alter": [
+      "CHANGE_SWITCH"
+    ],
+    "alternate": [
+      "ALTERNATE"
+    ],
+    "amalgamate": [
+      "COMBINE_MIX_UNITE"
+    ],
+    "amass": [
+      "AMASS"
+    ],
+    "amaze": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "amble": [
+      "MOVE-ONESELF"
+    ],
+    "ambush": [
+      "ATTACK_BOMB"
+    ],
+    "amend": [
+      "ADJUST_CORRECT"
+    ],
+    "americanize": [
+      "CHANGE-APPEARANCE/STATE"
+    ],
+    "amortize": [
+      "PAY"
+    ],
+    "amount": [
+      "MEAN",
+      "REACH"
+    ],
+    "amplify": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "amuse": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "analyze": [
+      "ANALYZE"
+    ],
+    "anchor": [
+      "ATTACH"
+    ],
+    "anger": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "animate": [
+      "CHANGE-APPEARANCE/STATE"
+    ],
+    "announce": [
+      "DECREE_DECLARE"
+    ],
+    "annoy": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "anointing": [
+      "GIVE_GIFT"
+    ],
+    "answer": [
+      "ANSWER"
+    ],
+    "answering": [
+      "ANSWER"
+    ],
+    "antagonize": [
+      "FACE_CHALLENGE"
+    ],
+    "anticipate": [
+      "GUESS",
+      "PRECEDE"
+    ],
+    "apologize": [
+      "JUSTIFY_EXCUSE"
+    ],
+    "appal": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "appeal": [
+      "ASK_REQUEST",
+      "LIKE"
+    ],
+    "appear": [
+      "APPEAR",
+      "SEEM"
+    ],
+    "appease": [
+      "MAKE-RELAX"
+    ],
+    "append": [
+      "ATTACH"
+    ],
+    "applaud": [
+      "APPROVE_PRAISE"
+    ],
+    "apply": [
+      "ASK_REQUEST",
+      "PUT_APPLY_PLACE_PAVE",
+      "USE"
+    ],
+    "appoint": [
+      "ASSIGN-smt-to-smn"
+    ],
+    "appraise": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "appreciate": [
+      "INCREASE_ENLARGE_MULTIPLY",
+      "LIKE"
+    ],
+    "apprise": [
+      "INFORM"
+    ],
+    "approach": [
+      "GO-FORWARD",
+      "LEARN"
+    ],
+    "appropriate": [
+      "STEAL_DEPRIVE"
+    ],
+    "approve": [
+      "APPROVE_PRAISE"
+    ],
+    "arbitrate": [
+      "NEGOTIATE"
+    ],
+    "arch": [
+      "BEND"
+    ],
+    "argue": [
+      "SPEAK"
+    ],
+    "arise": [
+      "BEGIN"
+    ],
+    "arises": [
+      "BEGIN"
+    ],
+    "arm": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "arouse": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "arrange": [
+      "ORGANIZE"
+    ],
+    "arrest": [
+      "CAGE_IMPRISON",
+      "STOP"
+    ],
+    "arrive": [
+      "ARRIVE"
+    ],
+    "articulate": [
+      "EXPLAIN"
+    ],
+    "ascend": [
+      "RAISE"
+    ],
+    "ascribe": [
+      "ASCRIBE"
+    ],
+    "ask": [
+      "ASK_REQUEST",
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "aspire": [
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "assail": [
+      "ATTACK_BOMB"
+    ],
+    "assassinate": [
+      "KILL"
+    ],
+    "assemble": [
+      "GROUP",
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "assert": [
+      "AFFIRM"
+    ],
+    "assess": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "assign": [
+      "ASCRIBE"
+    ],
+    "assimilate": [
+      "CO-OPT"
+    ],
+    "assist": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "associate": [
+      "CORRELATE"
+    ],
+    "assuage": [
+      "MAKE-RELAX"
+    ],
+    "assume": [
+      "PAY",
+      "SUPPOSE"
+    ],
+    "assure": [
+      "GUARANTEE_ENSURE_PROMISE"
+    ],
+    "astound": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "ate": [
+      "EAT_BITE"
+    ],
+    "atone": [
+      "JUSTIFY_EXCUSE"
+    ],
+    "attach": [
+      "ATTACH"
+    ],
+    "attack": [
+      "CRITICIZE"
+    ],
+    "attain": [
+      "ACHIEVE"
+    ],
+    "attempt": [
+      "TRY"
+    ],
+    "attend": [
+      "ATTEND"
+    ],
+    "attest": [
+      "VERIFY"
+    ],
+    "attract": [
+      "ATTRACT_SUCK"
+    ],
+    "attribute": [
+      "ASCRIBE"
+    ],
+    "auction": [
+      "SELL"
+    ],
+    "audit": [
+      "VERIFY"
+    ],
+    "audition": [
+      "TRY"
+    ],
+    "augment": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "author": [
+      "CREATE_MATERIALIZE"
+    ],
+    "authorize": [
+      "AUTHORIZE_ADMIT"
+    ],
+    "autograph": [
+      "WRITE"
+    ],
+    "automate": [
+      "AUTOMATIZE"
+    ],
+    "aver": [
+      "AFFIRM"
+    ],
+    "average": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "avert": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "avoid": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "avoids": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "await": [
+      "WAIT"
+    ],
+    "awake": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "awaken": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "award": [
+      "GIVE_GIFT"
+    ],
+    "back": [
+      "BORDER",
+      "COPY",
+      "FOLLOW_SUPPORT_SPONSOR_FUND",
+      "HELP_HEAL_CARE_CURE",
+      "MOVE-BACK",
+      "STOP"
+    ],
+    "backfire": [
+      "MOVE-BACK"
+    ],
+    "backfires": [
+      "MOVE-BACK"
+    ],
+    "backing": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "backpedal": [
+      "ADJUST_CORRECT"
+    ],
+    "bail": [
+      "GIVE-UP_ABOLISH_ABANDON",
+      "LIBERATE_ALLOW_AFFORD"
+    ],
+    "balance": [
+      "COMPENSATE"
+    ],
+    "balk": [
+      "REFUSE"
+    ],
+    "balloon": [
+      "INCREASE_ENLARGE_MULTIPLY",
+      "MOVE-BY-MEANS-OF"
+    ],
+    "ballooning": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "ballyhoo": [
+      "PUBLICIZE"
+    ],
+    "ban": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "band": [
+      "SECURE_FASTEN_TIE"
+    ],
+    "bandy": [
+      "DISCUSS"
+    ],
+    "bang": [
+      "HIT"
+    ],
+    "banish": [
+      "DRIVE-BACK"
+    ],
+    "bank": [
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "banking": [
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "bankroll": [
+      "PAY"
+    ],
+    "bankrupt": [
+      "FAIL_LOSE"
+    ],
+    "bar": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "bargain": [
+      "NEGOTIATE"
+    ],
+    "barge": [
+      "CARRY_TRANSPORT"
+    ],
+    "baring": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "barreling": [
+      "RUN"
+    ],
+    "barter": [
+      "CHANGE-HANDS"
+    ],
+    "base": [
+      "BE-LOCATED_BASE",
+      "GROUND_BASE_FOUND"
+    ],
+    "bash": [
+      "HIT"
+    ],
+    "batter": [
+      "HIT"
+    ],
+    "battle": [
+      "FIGHT"
+    ],
+    "beam": [
+      "LAUGH",
+      "TRANSMIT"
+    ],
+    "bear": [
+      "CORRELATE",
+      "GIVE-BIRTH",
+      "STRENGTHEN_MAKE-RESISTANT",
+      "TOLERATE"
+    ],
+    "beat": [
+      "DEFEAT",
+      "HIT",
+      "PERFORM"
+    ],
+    "become": [
+      "CHANGE_SWITCH"
+    ],
+    "bedevil": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "beef": [
+      "STRENGTHEN_MAKE-RESISTANT"
+    ],
+    "beeping": [
+      "MAKE-A-SOUND"
+    ],
+    "befall": [
+      "HAPPEN_OCCUR"
+    ],
+    "befriend": [
+      "BEFRIEND"
+    ],
+    "beg": [
+      "ASK_REQUEST"
+    ],
+    "begin": [
+      "BEGIN"
+    ],
+    "beginning": [
+      "BEGIN"
+    ],
+    "behave": [
+      "BEHAVE"
+    ],
+    "behead": [
+      "KILL"
+    ],
+    "belie": [
+      "SHOW"
+    ],
+    "believe": [
+      "BELIEVE"
+    ],
+    "bellow": [
+      "SHOUT"
+    ],
+    "belly": [
+      "FAIL_LOSE"
+    ],
+    "belong": [
+      "POSSESS"
+    ],
+    "bemoan": [
+      "REGRET_SORRY"
+    ],
+    "bend": [
+      "BEND",
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "benefit": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "bequeath": [
+      "GIVE_GIFT"
+    ],
+    "berate": [
+      "REPRIMAND"
+    ],
+    "beset": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "besiege": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "best": [
+      "DEFEAT"
+    ],
+    "bestow": [
+      "GIVE_GIFT"
+    ],
+    "bet": [
+      "GUESS"
+    ],
+    "betray": [
+      "BETRAY"
+    ],
+    "beware": [
+      "WATCH_LOOK-OUT"
+    ],
+    "bewilder": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "bewitch": [
+      "ATTRACT_SUCK"
+    ],
+    "bicker": [
+      "ARGUE-IN-DEFENSE"
+    ],
+    "bickering": [
+      "ARGUE-IN-DEFENSE"
+    ],
+    "bid": [
+      "OFFER"
+    ],
+    "bidding": [
+      "OFFER"
+    ],
+    "biking": [
+      "MOVE-BY-MEANS-OF"
+    ],
+    "bill": [
+      "CHARGE",
+      "PUBLICIZE"
+    ],
+    "billow": [
+      "RAISE"
+    ],
+    "bind": [
+      "SECURE_FASTEN_TIE"
+    ],
+    "bite": [
+      "EAT_BITE"
+    ],
+    "bitten": [
+      "EAT_BITE"
+    ],
+    "black": [
+      "COLOR"
+    ],
+    "blacken": [
+      "COLOR"
+    ],
+    "blackmail": [
+      "INFLUENCE"
+    ],
+    "blame": [
+      "ACCUSE"
+    ],
+    "blanket": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "blare": [
+      "MAKE-A-SOUND"
+    ],
+    "blast": [
+      "CRITICIZE",
+      "THROW"
+    ],
+    "blaze": [
+      "BURN"
+    ],
+    "bleed": [
+      "CAUSE-MENTAL-STATE",
+      "EXCRETE",
+      "STEAL_DEPRIVE"
+    ],
+    "blend": [
+      "COMBINE_MIX_UNITE"
+    ],
+    "bless": [
+      "COMMUNE"
+    ],
+    "blindfold": [
+      "BLIND"
+    ],
+    "blink": [
+      "FACIAL-EXPRESSION"
+    ],
+    "block": [
+      "STOP"
+    ],
+    "bloody": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "bloom": [
+      "GROW_PLOW"
+    ],
+    "blossom": [
+      "GROW_PLOW"
+    ],
+    "blot": [
+      "DIRTY"
+    ],
+    "blow": [
+      "AIR",
+      "BREATH_BLOW",
+      "EXPLODE",
+      "MESS",
+      "PERFORM"
+    ],
+    "bludgeon": [
+      "HIT"
+    ],
+    "blunder": [
+      "GO-FORWARD",
+      "MISTAKE"
+    ],
+    "blunt": [
+      "WEAKEN"
+    ],
+    "blur": [
+      "DIM"
+    ],
+    "blurt": [
+      "SPEAK"
+    ],
+    "board": [
+      "CATCH_EMBARK"
+    ],
+    "boast": [
+      "BEHAVE"
+    ],
+    "boat": [
+      "MOVE-BY-MEANS-OF"
+    ],
+    "bode": [
+      "SIGNAL_INDICATE"
+    ],
+    "bog": [
+      "STOP"
+    ],
+    "bogging": [
+      "STOP"
+    ],
+    "bolster": [
+      "STRENGTHEN_MAKE-RESISTANT"
+    ],
+    "bolt": [
+      "LEAVE_DEPART_RUN-AWAY",
+      "SECURE_FASTEN_TIE"
+    ],
+    "bomb": [
+      "ATTACK_BOMB"
+    ],
+    "bombard": [
+      "ATTACK_BOMB"
+    ],
+    "bond": [
+      "GUARANTEE_ENSURE_PROMISE"
+    ],
+    "bone": [
+      "STUDY"
+    ],
+    "book": [
+      "RECORD"
+    ],
+    "booking": [
+      "RECORD"
+    ],
+    "boom": [
+      "INCREASE_ENLARGE_MULTIPLY",
+      "MAKE-A-SOUND"
+    ],
+    "boost": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "bootleg": [
+      "SELL"
+    ],
+    "border": [
+      "BORDER"
+    ],
+    "bore": [
+      "CAUSE-MENTAL-STATE",
+      "HOLE_PIERCE",
+      "TOLERATE"
+    ],
+    "borrow": [
+      "TAKE-A-SERVICE_RENT"
+    ],
+    "borrowing": [
+      "TAKE-A-SERVICE_RENT"
+    ],
+    "botch": [
+      "MESS"
+    ],
+    "bother": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "bottle": [
+      "PUT_APPLY_PLACE_PAVE",
+      "STOP"
+    ],
+    "bottling": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "bottom": [
+      "FALL_SLIDE-DOWN"
+    ],
+    "bounce": [
+      "MOVE-BACK",
+      "RESTORE-TO-PREVIOUS/INITIAL-STATE_UNDO_UNWIND"
+    ],
+    "bound": [
+      "GO-FORWARD",
+      "OBLIGE_FORCE",
+      "PLAN_SCHEDULE",
+      "SECURE_FASTEN_TIE"
+    ],
+    "bounds": [
+      "GO-FORWARD"
+    ],
+    "bow": [
+      "BEND",
+      "FAIL_LOSE",
+      "LOWER",
+      "RESIGN_RETIRE"
+    ],
+    "bowl": [
+      "PLAY_SPORT/GAME"
+    ],
+    "boycott": [
+      "REFUSE"
+    ],
+    "brace": [
+      "PREPARE"
+    ],
+    "brag": [
+      "BEHAVE"
+    ],
+    "branch": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "brand": [
+      "NAME"
+    ],
+    "brave": [
+      "FACE_CHALLENGE"
+    ],
+    "brazen": [
+      "FACE_CHALLENGE"
+    ],
+    "breach": [
+      "VIOLATE"
+    ],
+    "bread": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "break": [
+      "APPEAR",
+      "BREAK_DETERIORATE",
+      "COMPENSATE",
+      "LEAVE_DEPART_RUN-AWAY",
+      "SEPARATE_FILTER_DETACH",
+      "STOP",
+      "VIOLATE"
+    ],
+    "breathe": [
+      "BREATH_BLOW"
+    ],
+    "breed": [
+      "GIVE-BIRTH"
+    ],
+    "breeding": [
+      "GIVE-BIRTH"
+    ],
+    "brew": [
+      "PREPARE"
+    ],
+    "brewing": [
+      "PREPARE"
+    ],
+    "bribe": [
+      "CORRUPT"
+    ],
+    "bridge": [
+      "JOIN_CONNECT"
+    ],
+    "brief": [
+      "TEACH"
+    ],
+    "brighten": [
+      "LIGHTEN"
+    ],
+    "brim": [
+      "FILL"
+    ],
+    "bring": [
+      "ACCOMPANY",
+      "BRING",
+      "HAPPEN_OCCUR",
+      "LOWER",
+      "RAISE"
+    ],
+    "bristle": [
+      "REACT"
+    ],
+    "broadcast": [
+      "TRANSMIT"
+    ],
+    "broadcasting": [
+      "TRANSMIT"
+    ],
+    "broaden": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "browbeat": [
+      "SUBJUGATE"
+    ],
+    "bruise": [
+      "BREAK_DETERIORATE"
+    ],
+    "brush": [
+      "EMBELLISH",
+      "REMOVE_TAKE-AWAY_KIDNAP",
+      "TOUCH"
+    ],
+    "buck": [
+      "RESIST"
+    ],
+    "buckle": [
+      "LOWER",
+      "PREPARE",
+      "SECURE_FASTEN_TIE"
+    ],
+    "bud": [
+      "BEGIN"
+    ],
+    "budding": [
+      "BEGIN"
+    ],
+    "budge": [
+      "MOVE-ONESELF"
+    ],
+    "budget": [
+      "GIVE_GIFT"
+    ],
+    "buffer": [
+      "PROTECT"
+    ],
+    "buffet": [
+      "HIT"
+    ],
+    "build": [
+      "INCLUDE-AS",
+      "INCREASE_ENLARGE_MULTIPLY",
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "building": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "bulge": [
+      "FILL"
+    ],
+    "bulldoze": [
+      "FLATTEN_SMOOTHEN"
+    ],
+    "bully": [
+      "OBLIGE_FORCE"
+    ],
+    "bumble": [
+      "SPEAK"
+    ],
+    "bump": [
+      "HIT",
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "bundle": [
+      "DRESS_WEAR"
+    ],
+    "bungle": [
+      "MESS"
+    ],
+    "buoy": [
+      "CARRY_TRANSPORT"
+    ],
+    "burbles": [
+      "SPEAK"
+    ],
+    "burden": [
+      "BURDEN_BEAR"
+    ],
+    "burgeon": [
+      "AMELIORATE"
+    ],
+    "burglarize": [
+      "STEAL_DEPRIVE"
+    ],
+    "burn": [
+      "BURN",
+      "FINISH_CONCLUDE_END"
+    ],
+    "burnish": [
+      "WASH_CLEAN"
+    ],
+    "burnt": [
+      "BURN"
+    ],
+    "burst": [
+      "APPEAR",
+      "EXPLODE"
+    ],
+    "bury": [
+      "BURY_PLANT"
+    ],
+    "bust": [
+      "CATCH",
+      "DESTROY"
+    ],
+    "butt": [
+      "VIOLATE"
+    ],
+    "buttress": [
+      "STRENGTHEN_MAKE-RESISTANT"
+    ],
+    "buy": [
+      "BUY"
+    ],
+    "buying": [
+      "BUY"
+    ],
+    "buzz": [
+      "LEAVE_DEPART_RUN-AWAY",
+      "MAKE-A-SOUND",
+      "VISIT"
+    ],
+    "bypass": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "cadge": [
+      "ASK_REQUEST"
+    ],
+    "cake": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "calculate": [
+      "SUBJECTIVE-JUDGING"
+    ],
+    "calibrate": [
+      "ADJUST_CORRECT"
+    ],
+    "call": [
+      "ASK_REQUEST",
+      "CANCEL_ELIMINATE",
+      "FACE_CHALLENGE",
+      "GUESS",
+      "LEAD_GOVERN",
+      "NAME",
+      "SPEAK",
+      "SUMMON"
+    ],
+    "called": [
+      "ASK_REQUEST",
+      "NAME",
+      "SUMMON"
+    ],
+    "calm": [
+      "MAKE-RELAX"
+    ],
+    "camouflage": [
+      "CLOUD_SHADOW_HIDE"
+    ],
+    "campaign": [
+      "WORK"
+    ],
+    "campaigning": [
+      "WORK"
+    ],
+    "cancel": [
+      "CANCEL_ELIMINATE"
+    ],
+    "canned": [
+      "PRESERVE"
+    ],
+    "canning": [
+      "PRESERVE"
+    ],
+    "canvass": [
+      "ANALYZE"
+    ],
+    "cap": [
+      "COVER_SPREAD_SURMOUNT",
+      "FINISH_CONCLUDE_END"
+    ],
+    "capitalize": [
+      "BENEFIT_EXPLOIT",
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "capitulate": [
+      "FAIL_LOSE"
+    ],
+    "captain": [
+      "LEAD_GOVERN"
+    ],
+    "captivate": [
+      "LURE_ENTICE"
+    ],
+    "capture": [
+      "STEAL_DEPRIVE"
+    ],
+    "care": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "careen": [
+      "GO-FORWARD"
+    ],
+    "caricature": [
+      "JOKE"
+    ],
+    "carp": [
+      "CRITICIZE"
+    ],
+    "carry": [
+      "CARRY-OUT-ACTION",
+      "CARRY_TRANSPORT",
+      "CONTINUE"
+    ],
+    "cart": [
+      "CARRY_TRANSPORT",
+      "PULL"
+    ],
+    "carve": [
+      "CAVE_CARVE"
+    ],
+    "cash": [
+      "BENEFIT_EXPLOIT",
+      "CHANGE_SWITCH"
+    ],
+    "cast": [
+      "CHOOSE",
+      "CREATE_MATERIALIZE",
+      "THROW"
+    ],
+    "castigate": [
+      "REPRIMAND"
+    ],
+    "castling": [
+      "PLAY_SPORT/GAME"
+    ],
+    "catalog": [
+      "SORT_CLASSIFY_ARRANGE"
+    ],
+    "catapult": [
+      "SHOOT_LAUNCH_PROPEL"
+    ],
+    "catch": [
+      "CATCH",
+      "FIND",
+      "HUNT",
+      "LEARN",
+      "UNDERSTAND"
+    ],
+    "categorize": [
+      "SORT_CLASSIFY_ARRANGE"
+    ],
+    "cater": [
+      "NOURISH_FEED"
+    ],
+    "caters": [
+      "NOURISH_FEED"
+    ],
+    "cause": [
+      "CAUSE-SMT"
+    ],
+    "caution": [
+      "WARN"
+    ],
+    "cave": [
+      "BREAK_DETERIORATE"
+    ],
+    "cease": [
+      "FINISH_CONCLUDE_END"
+    ],
+    "cede": [
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "celebrate": [
+      "APPROVE_PRAISE",
+      "CELEBRATE_PARTY"
+    ],
+    "cement": [
+      "ATTACH"
+    ],
+    "censor": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "center": [
+      "FOCUS"
+    ],
+    "centralize": [
+      "AMASS"
+    ],
+    "certify": [
+      "GUARANTEE_ENSURE_PROMISE"
+    ],
+    "chafe": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "chain": [
+      "SECURE_FASTEN_TIE"
+    ],
+    "chair": [
+      "LEAD_GOVERN"
+    ],
+    "chalk": [
+      "RECORD"
+    ],
+    "challenge": [
+      "FACE_CHALLENGE"
+    ],
+    "champion": [
+      "FIGHT"
+    ],
+    "chance": [
+      "RISK"
+    ],
+    "change": [
+      "CHANGE_SWITCH",
+      "REPLACE"
+    ],
+    "channel": [
+      "DIRECT_AIM_MANEUVER"
+    ],
+    "chant": [
+      "PERFORM"
+    ],
+    "char": [
+      "BURN"
+    ],
+    "characterize": [
+      "REPRESENT"
+    ],
+    "charge": [
+      "ACCUSE",
+      "CHARGE",
+      "LEND",
+      "PAY",
+      "RUN"
+    ],
+    "chart": [
+      "REPRESENT"
+    ],
+    "charter": [
+      "TAKE-A-SERVICE_RENT"
+    ],
+    "chase": [
+      "CHASE"
+    ],
+    "chastise": [
+      "REPRIMAND"
+    ],
+    "chat": [
+      "SPEAK"
+    ],
+    "chauffeur": [
+      "CARRY_TRANSPORT"
+    ],
+    "cheapen": [
+      "DEBASE_ADULTERATE"
+    ],
+    "cheat": [
+      "DECEIVE",
+      "STEAL_DEPRIVE"
+    ],
+    "check": [
+      "PROVE",
+      "VERIFY"
+    ],
+    "cheer": [
+      "APPROVE_PRAISE",
+      "CAUSE-MENTAL-STATE"
+    ],
+    "cherish": [
+      "LIKE"
+    ],
+    "chew": [
+      "EAT_BITE"
+    ],
+    "chide": [
+      "REPRIMAND"
+    ],
+    "chill": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "chilling": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "chime": [
+      "SPEAK"
+    ],
+    "chip": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "chisel": [
+      "CAVE_CARVE"
+    ],
+    "choke": [
+      "HURT_HARM_ACHE",
+      "STOP",
+      "WEAKEN"
+    ],
+    "choose": [
+      "CHOOSE"
+    ],
+    "chop": [
+      "CUT"
+    ],
+    "chortle": [
+      "LAUGH"
+    ],
+    "chronicle": [
+      "RECORD"
+    ],
+    "chuck": [
+      "DISCARD"
+    ],
+    "chuckle": [
+      "LAUGH"
+    ],
+    "churn": [
+      "MOVE-ONESELF"
+    ],
+    "cinch": [
+      "VERIFY"
+    ],
+    "circle": [
+      "ENCLOSE_WRAP",
+      "MOVE-ONESELF"
+    ],
+    "circuit": [
+      "TRAVEL"
+    ],
+    "circulate": [
+      "CIRCULATE_SPREAD_DISTRIBUTE"
+    ],
+    "circumvent": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "cite": [
+      "CITE",
+      "SUMMON"
+    ],
+    "clad": [
+      "DRESS_WEAR"
+    ],
+    "claim": [
+      "AFFIRM",
+      "ASK_REQUEST"
+    ],
+    "clamber": [
+      "RAISE"
+    ],
+    "clamp": [
+      "SECURE_FASTEN_TIE"
+    ],
+    "clanging": [
+      "MAKE-A-SOUND"
+    ],
+    "clank": [
+      "MAKE-A-SOUND"
+    ],
+    "clarify": [
+      "EXPLAIN"
+    ],
+    "clash": [
+      "QUARREL_POLEMICIZE"
+    ],
+    "classify": [
+      "RESTRAIN",
+      "SORT_CLASSIFY_ARRANGE"
+    ],
+    "clean": [
+      "EMPTY_UNLOAD",
+      "WASH_CLEAN"
+    ],
+    "cleanse": [
+      "WASH_CLEAN"
+    ],
+    "clear": [
+      "APPROVE_PRAISE",
+      "AUTHORIZE_ADMIT",
+      "REMOVE_TAKE-AWAY_KIDNAP",
+      "WASH_CLEAN"
+    ],
+    "clearing": [
+      "AUTHORIZE_ADMIT"
+    ],
+    "climb": [
+      "INCREASE_ENLARGE_MULTIPLY",
+      "RAISE"
+    ],
+    "clinch": [
+      "SETTLE_CONCILIATE"
+    ],
+    "cling": [
+      "ATTACH"
+    ],
+    "clip": [
+      "CUT"
+    ],
+    "cloak": [
+      "CLOUD_SHADOW_HIDE"
+    ],
+    "clobber": [
+      "HIT"
+    ],
+    "clocks": [
+      "MEASURE_EVALUATE"
+    ],
+    "clog": [
+      "STOP"
+    ],
+    "clogging": [
+      "STOP"
+    ],
+    "clone": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "close": [
+      "CLOSE",
+      "FINISH_CONCLUDE_END",
+      "GO-FORWARD",
+      "ISOLATE",
+      "REACH",
+      "SETTLE_CONCILIATE"
+    ],
+    "closed": [
+      "CLOSE"
+    ],
+    "closing": [
+      "FINISH_CONCLUDE_END"
+    ],
+    "clothe": [
+      "DRESS_WEAR"
+    ],
+    "cloud": [
+      "CLOUD_SHADOW_HIDE"
+    ],
+    "club": [
+      "HIT"
+    ],
+    "cluster": [
+      "AMASS"
+    ],
+    "clutch": [
+      "CATCH"
+    ],
+    "clutter": [
+      "FILL"
+    ],
+    "co": [
+      "CREATE_MATERIALIZE",
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "coach": [
+      "TEACH"
+    ],
+    "coast": [
+      "MOVE-ONESELF"
+    ],
+    "coat": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "coax": [
+      "PERSUADE"
+    ],
+    "cobble": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "coddle": [
+      "TREAT"
+    ],
+    "code": [
+      "CONVERT",
+      "CREATE_MATERIALIZE"
+    ],
+    "codify": [
+      "SORT_CLASSIFY_ARRANGE"
+    ],
+    "cohere": [
+      "COMBINE_MIX_UNITE"
+    ],
+    "coin": [
+      "CREATE_MATERIALIZE"
+    ],
+    "coincide": [
+      "HAPPEN_OCCUR"
+    ],
+    "collaborate": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "collapse": [
+      "BREAK_DETERIORATE",
+      "FAIL_LOSE"
+    ],
+    "collect": [
+      "AMASS"
+    ],
+    "color": [
+      "COLOR"
+    ],
+    "colored": [
+      "COLOR"
+    ],
+    "comb": [
+      "SEARCH"
+    ],
+    "combat": [
+      "FIGHT"
+    ],
+    "combine": [
+      "COMBINE_MIX_UNITE"
+    ],
+    "come": [
+      "ACHIEVE",
+      "APPEAR",
+      "ARRIVE",
+      "BRING",
+      "COME-FROM",
+      "FIND",
+      "FOLLOW-IN-SPACE",
+      "GO-FORWARD",
+      "HAPPEN_OCCUR",
+      "REACH",
+      "REFER",
+      "RESULT_CONSEQUENCE",
+      "SEEM",
+      "UNDERSTAND"
+    ],
+    "comfort": [
+      "MAKE-RELAX"
+    ],
+    "coming": [
+      "ARRIVE"
+    ],
+    "command": [
+      "COST",
+      "ORDER"
+    ],
+    "commanding": [
+      "ORDER"
+    ],
+    "commemorate": [
+      "CELEBRATE_PARTY"
+    ],
+    "commence": [
+      "BEGIN"
+    ],
+    "commend": [
+      "APPROVE_PRAISE"
+    ],
+    "comment": [
+      "EXPLAIN"
+    ],
+    "commercialize": [
+      "SELL"
+    ],
+    "commission": [
+      "ASK_REQUEST"
+    ],
+    "commissioning": [
+      "ASK_REQUEST"
+    ],
+    "commit": [
+      "GIVE_GIFT",
+      "VIOLATE"
+    ],
+    "communicate": [
+      "INFORM"
+    ],
+    "commute": [
+      "GO-FORWARD"
+    ],
+    "compact": [
+      "PRESS_PUSH_FOLD"
+    ],
+    "compare": [
+      "COMPARE"
+    ],
+    "compel": [
+      "OBLIGE_FORCE"
+    ],
+    "compensate": [
+      "PAY"
+    ],
+    "compete": [
+      "COMPETE"
+    ],
+    "compile": [
+      "AMASS"
+    ],
+    "complain": [
+      "SPEAK"
+    ],
+    "complement": [
+      "AMELIORATE"
+    ],
+    "complete": [
+      "FINISH_CONCLUDE_END"
+    ],
+    "complicate": [
+      "WORSEN"
+    ],
+    "compliment": [
+      "APPROVE_PRAISE"
+    ],
+    "comply": [
+      "OBEY"
+    ],
+    "compose": [
+      "REPRESENT"
+    ],
+    "compound": [
+      "COMBINE_MIX_UNITE"
+    ],
+    "compress": [
+      "PRESS_PUSH_FOLD"
+    ],
+    "comprise": [
+      "INCLUDE-AS"
+    ],
+    "compromise": [
+      "ENDANGER",
+      "SETTLE_CONCILIATE"
+    ],
+    "compute": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "computerize": [
+      "AUTOMATIZE"
+    ],
+    "con": [
+      "JOKE"
+    ],
+    "conceal": [
+      "CLOUD_SHADOW_HIDE"
+    ],
+    "concede": [
+      "RECOGNIZE_ADMIT_IDENTIFY"
+    ],
+    "conceive": [
+      "CREATE_MATERIALIZE",
+      "SUBJECTIVE-JUDGING"
+    ],
+    "concentrate": [
+      "FOCUS"
+    ],
+    "concentrated": [
+      "CHANGE-APPEARANCE/STATE",
+      "FOCUS"
+    ],
+    "concern": [
+      "CAUSE-MENTAL-STATE",
+      "REFER"
+    ],
+    "concerned": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "conclude": [
+      "DECIDE_DETERMINE",
+      "FINISH_CONCLUDE_END"
+    ],
+    "concoct": [
+      "CREATE_MATERIALIZE"
+    ],
+    "concur": [
+      "AGREE_ACCEPT"
+    ],
+    "condemn": [
+      "OBLIGE_FORCE"
+    ],
+    "condition": [
+      "CAUSE-MENTAL-STATE",
+      "OBLIGE_FORCE"
+    ],
+    "condone": [
+      "JUSTIFY_EXCUSE"
+    ],
+    "conduct": [
+      "CIRCULATE_SPREAD_DISTRIBUTE"
+    ],
+    "confer": [
+      "DISCUSS",
+      "GIVE_GIFT"
+    ],
+    "confess": [
+      "RECOGNIZE_ADMIT_IDENTIFY"
+    ],
+    "confide": [
+      "REVEAL"
+    ],
+    "confine": [
+      "CAGE_IMPRISON"
+    ],
+    "confirm": [
+      "AFFIRM"
+    ],
+    "confiscate": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "conflicting": [
+      "DISTINGUISH_DIFFER"
+    ],
+    "conform": [
+      "ADJUST_CORRECT"
+    ],
+    "confront": [
+      "FACE_CHALLENGE"
+    ],
+    "confuse": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "congratulate": [
+      "APPROVE_PRAISE"
+    ],
+    "conjure": [
+      "CREATE_MATERIALIZE"
+    ],
+    "connect": [
+      "JOIN_CONNECT"
+    ],
+    "connote": [
+      "MEAN"
+    ],
+    "conquer": [
+      "LEAD_GOVERN"
+    ],
+    "consent": [
+      "AGREE_ACCEPT"
+    ],
+    "conserve": [
+      "PRESERVE"
+    ],
+    "consider": [
+      "CONSIDER",
+      "SUBJECTIVE-JUDGING"
+    ],
+    "consign": [
+      "SEND"
+    ],
+    "consist": [
+      "EXIST-WITH-FEATURE"
+    ],
+    "console": [
+      "MAKE-RELAX"
+    ],
+    "consolidate": [
+      "COMBINE_MIX_UNITE"
+    ],
+    "consort": [
+      "ACCOMPANY"
+    ],
+    "conspire": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "constitute": [
+      "INCLUDE-AS"
+    ],
+    "constrain": [
+      "RESTRAIN"
+    ],
+    "constrict": [
+      "PRESS_PUSH_FOLD"
+    ],
+    "construct": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "construe": [
+      "INTERPRET"
+    ],
+    "consult": [
+      "DISCUSS"
+    ],
+    "consulting": [
+      "DISCUSS"
+    ],
+    "consume": [
+      "CONSUME_SPEND"
+    ],
+    "consummate": [
+      "AMELIORATE"
+    ],
+    "contact": [
+      "COMMUNICATE_CONTACT"
+    ],
+    "contain": [
+      "CONTAIN"
+    ],
+    "contaminate": [
+      "DIRTY"
+    ],
+    "contemplate": [
+      "TAKE-INTO-ACCOUNT_CONSIDER"
+    ],
+    "contemporize": [
+      "AMELIORATE"
+    ],
+    "contend": [
+      "AFFIRM",
+      "COMPETE"
+    ],
+    "content": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "contest": [
+      "CRITICIZE"
+    ],
+    "continue": [
+      "CONTINUE",
+      "SPEAK"
+    ],
+    "contract": [
+      "CONTRACT-AN-ILLNESS_INFECT",
+      "HIRE",
+      "REDUCE_DIMINISH"
+    ],
+    "contradict": [
+      "REFUSE"
+    ],
+    "contrast": [
+      "DISTINGUISH_DIFFER"
+    ],
+    "contravene": [
+      "VIOLATE"
+    ],
+    "contribute": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "control": [
+      "MANAGE"
+    ],
+    "convene": [
+      "SUMMON"
+    ],
+    "converge": [
+      "GO-FORWARD"
+    ],
+    "convert": [
+      "CONVERT"
+    ],
+    "convey": [
+      "INFORM"
+    ],
+    "conveys": [
+      "INFORM"
+    ],
+    "convict": [
+      "DECREE_DECLARE"
+    ],
+    "convicts": [
+      "DECREE_DECLARE"
+    ],
+    "convince": [
+      "PERSUADE"
+    ],
+    "convoluted": [
+      "DECEIVE"
+    ],
+    "cook": [
+      "COOK",
+      "HAPPEN_OCCUR"
+    ],
+    "cool": [
+      "COOL"
+    ],
+    "cooperate": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "coordinate": [
+      "ORGANIZE"
+    ],
+    "cope": [
+      "FACE_CHALLENGE"
+    ],
+    "copy": [
+      "COPY"
+    ],
+    "copyright": [
+      "PROTECT"
+    ],
+    "corner": [
+      "MANAGE"
+    ],
+    "corral": [
+      "ENCLOSE_WRAP"
+    ],
+    "correct": [
+      "ADJUST_CORRECT"
+    ],
+    "correspond": [
+      "MATCH"
+    ],
+    "corroborate": [
+      "PROVE"
+    ],
+    "cost": [
+      "COST"
+    ],
+    "costs": [
+      "COST"
+    ],
+    "costume": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "couch": [
+      "SPEAK"
+    ],
+    "cough": [
+      "EXCRETE",
+      "GIVE_GIFT"
+    ],
+    "counsel": [
+      "WARN"
+    ],
+    "count": [
+      "COUNT",
+      "EXIST-WITH-FEATURE",
+      "INCLUDE-AS",
+      "RELY"
+    ],
+    "countenance": [
+      "AUTHORIZE_ADMIT"
+    ],
+    "counter": [
+      "REACT"
+    ],
+    "counteract": [
+      "OPPOSE_REBEL_DISSENT"
+    ],
+    "countervail": [
+      "COMPENSATE"
+    ],
+    "couple": [
+      "JOIN_CONNECT"
+    ],
+    "course": [
+      "TRAVEL"
+    ],
+    "court": [
+      "COURT"
+    ],
+    "cover": [
+      "CLOUD_SHADOW_HIDE",
+      "COVER_SPREAD_SURMOUNT",
+      "INCLUDE-AS",
+      "TRANSMIT"
+    ],
+    "covering": [
+      "TRANSMIT"
+    ],
+    "covet": [
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "cower": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "crack": [
+      "BREAK_DETERIORATE"
+    ],
+    "crackle": [
+      "MAKE-A-SOUND"
+    ],
+    "craft": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "cram": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "crane": [
+      "EXTEND"
+    ],
+    "crank": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "crash": [
+      "BREAK_DETERIORATE",
+      "ESTABLISH",
+      "VIOLATE"
+    ],
+    "crave": [
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "crawl": [
+      "TRAVEL"
+    ],
+    "creak": [
+      "MAKE-A-SOUND"
+    ],
+    "create": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "credit": [
+      "ADD",
+      "ASCRIBE"
+    ],
+    "crediting": [
+      "ASCRIBE"
+    ],
+    "credits": [
+      "ADD"
+    ],
+    "creep": [
+      "MOVE-ONESELF",
+      "TRAVEL"
+    ],
+    "crest": [
+      "REACH"
+    ],
+    "criminalize": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "crimp": [
+      "ROLL"
+    ],
+    "cringe": [
+      "MOVE-BACK"
+    ],
+    "cripple": [
+      "HURT_HARM_ACHE"
+    ],
+    "crisscross": [
+      "OVERCOME_SURPASS"
+    ],
+    "criticize": [
+      "CRITICIZE"
+    ],
+    "croon": [
+      "SING"
+    ],
+    "crop": [
+      "APPEAR"
+    ],
+    "cross": [
+      "CANCEL_ELIMINATE",
+      "CAUSE-MENTAL-STATE",
+      "OVERLAP",
+      "REACH"
+    ],
+    "crouch": [
+      "LOWER"
+    ],
+    "crow": [
+      "ENJOY"
+    ],
+    "crowd": [
+      "ARRIVE",
+      "FILL"
+    ],
+    "crowded": [
+      "FILL"
+    ],
+    "cruise": [
+      "TRAVEL"
+    ],
+    "crumble": [
+      "BREAK_DETERIORATE"
+    ],
+    "crumbles": [
+      "BREAK_DETERIORATE"
+    ],
+    "crumple": [
+      "PRESS_PUSH_FOLD"
+    ],
+    "crunch": [
+      "BREAK_DETERIORATE"
+    ],
+    "crush": [
+      "BREAK_DETERIORATE"
+    ],
+    "cry": [
+      "CRY",
+      "SPEAK"
+    ],
+    "cuff": [
+      "HIT"
+    ],
+    "culminate": [
+      "REACH"
+    ],
+    "cultivate": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "curb": [
+      "REDUCE_DIMINISH"
+    ],
+    "cure": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "curl": [
+      "ROLL"
+    ],
+    "curry": [
+      "FLATTER"
+    ],
+    "curse": [
+      "OFFEND_DISESTEEM"
+    ],
+    "curtail": [
+      "REDUCE_DIMINISH"
+    ],
+    "cushion": [
+      "PROTECT"
+    ],
+    "cushioning": [
+      "PROTECT"
+    ],
+    "customize": [
+      "ADJUST_CORRECT"
+    ],
+    "cut": [
+      "CUT",
+      "LIBERATE_ALLOW_AFFORD",
+      "ORGANIZE",
+      "REDUCE_DIMINISH",
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "cycling": [
+      "MOVE-BY-MEANS-OF"
+    ],
+    "dab": [
+      "TOUCH"
+    ],
+    "dabble": [
+      "WORK"
+    ],
+    "damage": [
+      "BREAK_DETERIORATE"
+    ],
+    "damp": [
+      "WEAKEN"
+    ],
+    "dampen": [
+      "WEAKEN"
+    ],
+    "dance": [
+      "DANCE",
+      "GO-FORWARD"
+    ],
+    "dangle": [
+      "HANG"
+    ],
+    "dare": [
+      "BEHAVE"
+    ],
+    "dash": [
+      "DESTROY"
+    ],
+    "date": [
+      "LOCATE-IN-TIME_DATE"
+    ],
+    "daunt": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "dawdle": [
+      "BEHAVE"
+    ],
+    "dawn": [
+      "BEGIN",
+      "UNDERSTAND"
+    ],
+    "dazzle": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "de": [
+      "DEBASE_ADULTERATE"
+    ],
+    "deactivate": [
+      "SWITCH-OFF_TURN-OFF_SHUT-DOWN"
+    ],
+    "deal": [
+      "CIRCULATE_SPREAD_DISTRIBUTE",
+      "FACE_CHALLENGE"
+    ],
+    "debate": [
+      "DISCUSS"
+    ],
+    "debated": [
+      "DISCUSS"
+    ],
+    "debunk": [
+      "PROVE"
+    ],
+    "debut": [
+      "SHOW"
+    ],
+    "decease": [
+      "KILL"
+    ],
+    "deceive": [
+      "DECEIVE"
+    ],
+    "decelerate": [
+      "SLOW-DOWN"
+    ],
+    "decentralize": [
+      "CIRCULATE_SPREAD_DISTRIBUTE"
+    ],
+    "decide": [
+      "DECIDE_DETERMINE"
+    ],
+    "decimate": [
+      "KILL"
+    ],
+    "deck": [
+      "EMBELLISH"
+    ],
+    "decking": [
+      "EMBELLISH"
+    ],
+    "declare": [
+      "DECREE_DECLARE",
+      "SPEAK"
+    ],
+    "declassify": [
+      "LIBERATE_ALLOW_AFFORD"
+    ],
+    "decline": [
+      "REDUCE_DIMINISH",
+      "REFUSE"
+    ],
+    "decontaminate": [
+      "WASH_CLEAN"
+    ],
+    "decorate": [
+      "EMBELLISH"
+    ],
+    "decrease": [
+      "REDUCE_DIMINISH"
+    ],
+    "decree": [
+      "DECREE_DECLARE"
+    ],
+    "decry": [
+      "DISLIKE"
+    ],
+    "dedicate": [
+      "FOCUS"
+    ],
+    "deduct": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "deem": [
+      "BELIEVE"
+    ],
+    "deepen": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "default": [
+      "FAIL_LOSE"
+    ],
+    "defeat": [
+      "DEFEAT"
+    ],
+    "defect": [
+      "BETRAY"
+    ],
+    "defend": [
+      "PROTECT"
+    ],
+    "defer": [
+      "DELAY"
+    ],
+    "define": [
+      "REPRESENT"
+    ],
+    "deflate": [
+      "REDUCE_DIMINISH"
+    ],
+    "deflect": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "deform": [
+      "SHAPE"
+    ],
+    "defraud": [
+      "STEAL_DEPRIVE"
+    ],
+    "defuse": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "defy": [
+      "RESIST"
+    ],
+    "degenerate": [
+      "WORSEN"
+    ],
+    "delay": [
+      "DELAY"
+    ],
+    "delays": [
+      "DELAY"
+    ],
+    "delegate": [
+      "ASSIGN-smt-to-smn"
+    ],
+    "delete": [
+      "CANCEL_ELIMINATE"
+    ],
+    "deliberate": [
+      "DISCUSS"
+    ],
+    "delight": [
+      "CAUSE-MENTAL-STATE",
+      "SPEAK"
+    ],
+    "deliver": [
+      "CARRY_TRANSPORT"
+    ],
+    "delouse": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "delve": [
+      "EXTRACT"
+    ],
+    "demand": [
+      "ASK_REQUEST"
+    ],
+    "demilitarize": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "demobilize": [
+      "DISMISS_FIRE-SMN"
+    ],
+    "democratize": [
+      "CHANGE-APPEARANCE/STATE"
+    ],
+    "demolish": [
+      "DESTROY"
+    ],
+    "demonize": [
+      "CHANGE-APPEARANCE/STATE"
+    ],
+    "demonstrate": [
+      "SHOW"
+    ],
+    "demote": [
+      "ASSIGN-smt-to-smn"
+    ],
+    "demur": [
+      "CRITICIZE"
+    ],
+    "denominate": [
+      "NAME"
+    ],
+    "denounce": [
+      "CRITICIZE"
+    ],
+    "denude": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "deny": [
+      "REFUSE"
+    ],
+    "depart": [
+      "LEAVE_DEPART_RUN-AWAY"
+    ],
+    "depend": [
+      "RELY"
+    ],
+    "depict": [
+      "SHOW"
+    ],
+    "deplete": [
+      "CONSUME_SPEND"
+    ],
+    "deplore": [
+      "REGRET_SORRY"
+    ],
+    "deploy": [
+      "CIRCULATE_SPREAD_DISTRIBUTE"
+    ],
+    "deport": [
+      "MOVE-SOMETHING"
+    ],
+    "depose": [
+      "DISMISS_FIRE-SMN"
+    ],
+    "deposit": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "depress": [
+      "CAUSE-MENTAL-STATE",
+      "REDUCE_DIMINISH"
+    ],
+    "deprive": [
+      "STEAL_DEPRIVE"
+    ],
+    "derail": [
+      "STOP"
+    ],
+    "deregulate": [
+      "LIBERATE_ALLOW_AFFORD"
+    ],
+    "deride": [
+      "JOKE"
+    ],
+    "derive": [
+      "CREATE_MATERIALIZE"
+    ],
+    "descend": [
+      "LOWER"
+    ],
+    "describe": [
+      "REPRESENT"
+    ],
+    "desert": [
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "deserve": [
+      "EXIST-WITH-FEATURE"
+    ],
+    "design": [
+      "CREATE_MATERIALIZE"
+    ],
+    "designate": [
+      "NAME"
+    ],
+    "desire": [
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "desist": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "despair": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "destabilize": [
+      "MESS"
+    ],
+    "destine": [
+      "PLAN_SCHEDULE"
+    ],
+    "destroy": [
+      "DESTROY"
+    ],
+    "destruct": [
+      "DESTROY"
+    ],
+    "detach": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "detail": [
+      "EXPLAIN"
+    ],
+    "detain": [
+      "CAGE_IMPRISON"
+    ],
+    "detect": [
+      "FIND"
+    ],
+    "deter": [
+      "OPPOSE_REBEL_DISSENT"
+    ],
+    "deteriorate": [
+      "WORSEN"
+    ],
+    "determine": [
+      "DECIDE_DETERMINE"
+    ],
+    "detest": [
+      "DISLIKE"
+    ],
+    "dethrone": [
+      "DISMISS_FIRE-SMN"
+    ],
+    "detract": [
+      "REDUCE_DIMINISH"
+    ],
+    "devalue": [
+      "DEBASE_ADULTERATE"
+    ],
+    "devastate": [
+      "DESTROY"
+    ],
+    "develop": [
+      "BEGIN",
+      "CREATE_MATERIALIZE"
+    ],
+    "deviate": [
+      "TURN_CHANGE-DIRECTION"
+    ],
+    "devise": [
+      "ORGANIZE"
+    ],
+    "devote": [
+      "FOCUS"
+    ],
+    "devour": [
+      "EAT_BITE"
+    ],
+    "diagnose": [
+      "ANALYZE"
+    ],
+    "diagram": [
+      "PAINT"
+    ],
+    "dial": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "dictate": [
+      "ORDER"
+    ],
+    "die": [
+      "KILL",
+      "WEAKEN"
+    ],
+    "differ": [
+      "DISTINGUISH_DIFFER"
+    ],
+    "differentiate": [
+      "DIVERSIFY"
+    ],
+    "dig": [
+      "EXTRACT",
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "digest": [
+      "EAT_BITE"
+    ],
+    "dignify": [
+      "APPROVE_PRAISE"
+    ],
+    "digs": [
+      "EXTRACT"
+    ],
+    "dilute": [
+      "DEBASE_ADULTERATE"
+    ],
+    "diminish": [
+      "REDUCE_DIMINISH"
+    ],
+    "diminishes": [
+      "REDUCE_DIMINISH"
+    ],
+    "dine": [
+      "EAT_BITE"
+    ],
+    "dining": [
+      "EAT_BITE"
+    ],
+    "dip": [
+      "DIP_DIVE",
+      "REDUCE_DIMINISH"
+    ],
+    "dipped": [
+      "DIP_DIVE"
+    ],
+    "direct": [
+      "DIRECT_AIM_MANEUVER"
+    ],
+    "disable": [
+      "STOP"
+    ],
+    "disagree": [
+      "REFUSE"
+    ],
+    "disallow": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "disappear": [
+      "LEAVE_DEPART_RUN-AWAY"
+    ],
+    "disappoint": [
+      "FRUSTRATE_DISAPPOINT"
+    ],
+    "disapprove": [
+      "REFUSE"
+    ],
+    "disarm": [
+      "STEAL_DEPRIVE"
+    ],
+    "disassemble": [
+      "DESTROY"
+    ],
+    "disassociate": [
+      "DISBAND_BREAK-UP"
+    ],
+    "disavow": [
+      "REFUSE"
+    ],
+    "disband": [
+      "DISBAND_BREAK-UP"
+    ],
+    "disburse": [
+      "PAY"
+    ],
+    "discard": [
+      "DISCARD"
+    ],
+    "discern": [
+      "PERCEIVE"
+    ],
+    "discharge": [
+      "CANCEL_ELIMINATE"
+    ],
+    "discipline": [
+      "PUNISH"
+    ],
+    "disclaim": [
+      "REFUSE"
+    ],
+    "disclose": [
+      "REVEAL"
+    ],
+    "discolor": [
+      "COLOR"
+    ],
+    "discomfit": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "disconnect": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "discontinue": [
+      "STOP"
+    ],
+    "discount": [
+      "DEBASE_ADULTERATE",
+      "REFUSE"
+    ],
+    "discounting": [
+      "DEBASE_ADULTERATE"
+    ],
+    "discourage": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "discover": [
+      "FIND"
+    ],
+    "discovers": [
+      "FIND"
+    ],
+    "discredit": [
+      "OFFEND_DISESTEEM"
+    ],
+    "discriminate": [
+      "REFUSE"
+    ],
+    "discuss": [
+      "DISCUSS"
+    ],
+    "disdain": [
+      "DISLIKE"
+    ],
+    "disembark": [
+      "LAND_GET-OFF"
+    ],
+    "disenchant": [
+      "FRUSTRATE_DISAPPOINT"
+    ],
+    "disengage": [
+      "LIBERATE_ALLOW_AFFORD"
+    ],
+    "disgruntle": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "disgruntled": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "disguise": [
+      "DECEIVE"
+    ],
+    "disgust": [
+      "DISLIKE"
+    ],
+    "dish": [
+      "GIVE_GIFT"
+    ],
+    "disincline": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "disintegrate": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "dislike": [
+      "DISLIKE"
+    ],
+    "dismantle": [
+      "DESTROY"
+    ],
+    "dismay": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "dismember": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "dismiss": [
+      "DISMISS_FIRE-SMN",
+      "NAME"
+    ],
+    "disobey": [
+      "OPPOSE_REBEL_DISSENT"
+    ],
+    "disparage": [
+      "CRITICIZE"
+    ],
+    "dispatch": [
+      "SEND"
+    ],
+    "dispel": [
+      "DRIVE-BACK"
+    ],
+    "dispense": [
+      "GIVE-UP_ABOLISH_ABANDON",
+      "GIVE_GIFT"
+    ],
+    "disperse": [
+      "CIRCULATE_SPREAD_DISTRIBUTE"
+    ],
+    "displace": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "display": [
+      "SHOW"
+    ],
+    "displease": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "dispose": [
+      "DISCARD"
+    ],
+    "disposes": [
+      "DISCARD"
+    ],
+    "disprove": [
+      "PROVE"
+    ],
+    "dispute": [
+      "QUARREL_POLEMICIZE"
+    ],
+    "disqualify": [
+      "CANCEL_ELIMINATE"
+    ],
+    "disregard": [
+      "DOWNPLAY_HUMILIATE"
+    ],
+    "disrupt": [
+      "MESS"
+    ],
+    "dissatisfy": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "dissect": [
+      "ANALYZE"
+    ],
+    "disseminate": [
+      "CIRCULATE_SPREAD_DISTRIBUTE"
+    ],
+    "dissent": [
+      "OPPOSE_REBEL_DISSENT"
+    ],
+    "dissipate": [
+      "LEAVE_DEPART_RUN-AWAY"
+    ],
+    "dissociate": [
+      "DISBAND_BREAK-UP"
+    ],
+    "dissolve": [
+      "DESTROY"
+    ],
+    "dissuade": [
+      "PERSUADE"
+    ],
+    "distance": [
+      "MOVE-BACK"
+    ],
+    "distil": [
+      "EXTRACT"
+    ],
+    "distinguish": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "distinguished": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "distort": [
+      "REPRESENT"
+    ],
+    "distract": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "distribute": [
+      "CIRCULATE_SPREAD_DISTRIBUTE"
+    ],
+    "disturb": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "dive": [
+      "REDUCE_DIMINISH"
+    ],
+    "diverge": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "diversify": [
+      "DIVERSIFY"
+    ],
+    "divert": [
+      "TURN_CHANGE-DIRECTION"
+    ],
+    "divest": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "divide": [
+      "DIVIDE",
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "divorce": [
+      "DISBAND_BREAK-UP"
+    ],
+    "divvying": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "dizzy": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "do": [
+      "AUXILIARY",
+      "KILL",
+      "RESULT_CONSEQUENCE"
+    ],
+    "document": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "dodge": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "dog": [
+      "CHASE"
+    ],
+    "dogged": [
+      "CHASE"
+    ],
+    "dominate": [
+      "LEAD_GOVERN"
+    ],
+    "don": [
+      "DRESS_WEAR"
+    ],
+    "donate": [
+      "GIVE_GIFT"
+    ],
+    "doom": [
+      "DECREE_DECLARE"
+    ],
+    "dot": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "double": [
+      "INCREASE_ENLARGE_MULTIPLY",
+      "WORK"
+    ],
+    "doubt": [
+      "BELIEVE"
+    ],
+    "dove": [
+      "REDUCE_DIMINISH"
+    ],
+    "dovetail": [
+      "FIT"
+    ],
+    "down": [
+      "KNOCK-DOWN"
+    ],
+    "downgrade": [
+      "REPLACE",
+      "WORSEN"
+    ],
+    "downgrading": [
+      "WORSEN"
+    ],
+    "draft": [
+      "CREATE_MATERIALIZE"
+    ],
+    "drag": [
+      "PULL"
+    ],
+    "drain": [
+      "EMPTY_UNLOAD"
+    ],
+    "drape": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "draw": [
+      "OBTAIN",
+      "PAINT"
+    ],
+    "dread": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "dream": [
+      "CAUSE-MENTAL-STATE",
+      "IMAGINE",
+      "THINK"
+    ],
+    "dress": [
+      "DRESS_WEAR",
+      "EMBELLISH",
+      "REPRIMAND"
+    ],
+    "drift": [
+      "TRAVEL"
+    ],
+    "drill": [
+      "HOLE_PIERCE"
+    ],
+    "drilling": [
+      "HOLE_PIERCE"
+    ],
+    "drink": [
+      "CELEBRATE_PARTY",
+      "DRINK"
+    ],
+    "drinking": [
+      "DRINK"
+    ],
+    "drip": [
+      "EXIST-WITH-FEATURE"
+    ],
+    "drive": [
+      "MOVE-BY-MEANS-OF"
+    ],
+    "driving": [
+      "MOVE-BY-MEANS-OF"
+    ],
+    "drool": [
+      "SPILL_POUR"
+    ],
+    "drop": [
+      "CONSUME_SPEND",
+      "DISMISS_FIRE-SMN",
+      "DROP",
+      "GIVE-UP_ABOLISH_ABANDON",
+      "SPEAK",
+      "VISIT"
+    ],
+    "drown": [
+      "CLOUD_SHADOW_HIDE",
+      "DIP_DIVE"
+    ],
+    "drum": [
+      "GROUP"
+    ],
+    "dry": [
+      "CONSUME_SPEND"
+    ],
+    "dub": [
+      "NAME"
+    ],
+    "duck": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "dull": [
+      "DIM"
+    ],
+    "dump": [
+      "DISCARD"
+    ],
+    "duplicate": [
+      "COPY"
+    ],
+    "dust": [
+      "WASH_CLEAN"
+    ],
+    "dwarf": [
+      "COMPARE"
+    ],
+    "dwindle": [
+      "REDUCE_DIMINISH"
+    ],
+    "dye": [
+      "COLOR"
+    ],
+    "earmark": [
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "earn": [
+      "EARN"
+    ],
+    "earning": [
+      "EARN"
+    ],
+    "ease": [
+      "MAKE-RELAX",
+      "REDUCE_DIMINISH",
+      "SIMPLIFY"
+    ],
+    "easing": [
+      "MAKE-RELAX"
+    ],
+    "eat": [
+      "CONSUME_SPEND",
+      "CORRODE_WEAR-AWAY_SCRATCH",
+      "EAT_BITE"
+    ],
+    "eavesdrop": [
+      "HEAR_LISTEN"
+    ],
+    "ebb": [
+      "REDUCE_DIMINISH"
+    ],
+    "echo": [
+      "REPEAT"
+    ],
+    "eclipse": [
+      "COMPARE"
+    ],
+    "economize": [
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "edge": [
+      "DEFEAT",
+      "GO-FORWARD"
+    ],
+    "edit": [
+      "ADJUST_CORRECT"
+    ],
+    "educate": [
+      "TEACH"
+    ],
+    "effect": [
+      "CAUSE-SMT"
+    ],
+    "effects": [
+      "CAUSE-SMT"
+    ],
+    "eject": [
+      "DRIVE-BACK"
+    ],
+    "elaborate": [
+      "EXPLAIN"
+    ],
+    "elapse": [
+      "SPEND-TIME_PASS-TIME"
+    ],
+    "elect": [
+      "CHOOSE"
+    ],
+    "electrify": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "elevate": [
+      "RAISE"
+    ],
+    "eliminate": [
+      "CANCEL_ELIMINATE"
+    ],
+    "elongate": [
+      "EXTEND"
+    ],
+    "elude": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "emasculate": [
+      "WEAKEN"
+    ],
+    "embargo": [
+      "STOP"
+    ],
+    "embark": [
+      "BEGIN"
+    ],
+    "embarrass": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "embed": [
+      "SECURE_FASTEN_TIE"
+    ],
+    "embellish": [
+      "EMBELLISH"
+    ],
+    "embezzle": [
+      "STEAL_DEPRIVE"
+    ],
+    "embody": [
+      "REPRESENT"
+    ],
+    "embolden": [
+      "INCITE_INDUCE"
+    ],
+    "embrace": [
+      "INCLUDE-AS"
+    ],
+    "embroil": [
+      "OBLIGE_FORCE"
+    ],
+    "emerge": [
+      "APPEAR",
+      "COME-FROM"
+    ],
+    "emerging": [
+      "COME-FROM"
+    ],
+    "emigrate": [
+      "LEAVE_DEPART_RUN-AWAY"
+    ],
+    "emit": [
+      "EMIT"
+    ],
+    "emote": [
+      "PERFORM"
+    ],
+    "empathize": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "emphasize": [
+      "EMPHASIZE"
+    ],
+    "employ": [
+      "HIRE",
+      "USE"
+    ],
+    "empower": [
+      "AUTHORIZE_ADMIT"
+    ],
+    "empty": [
+      "EMPTY_UNLOAD"
+    ],
+    "emulate": [
+      "FACE_CHALLENGE"
+    ],
+    "enable": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "enact": [
+      "ORDER"
+    ],
+    "encapsulate": [
+      "ENCLOSE_WRAP"
+    ],
+    "encase": [
+      "ENCLOSE_WRAP"
+    ],
+    "encircle": [
+      "ENCLOSE_WRAP"
+    ],
+    "enclose": [
+      "ENCLOSE_WRAP"
+    ],
+    "encompass": [
+      "INCLUDE-AS"
+    ],
+    "encounter": [
+      "FIND"
+    ],
+    "encourage": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND",
+      "INCITE_INDUCE"
+    ],
+    "encrypt": [
+      "CONVERT"
+    ],
+    "encumber": [
+      "BURDEN_BEAR"
+    ],
+    "end": [
+      "FINISH_CONCLUDE_END",
+      "RESULT_CONSEQUENCE"
+    ],
+    "endanger": [
+      "ENDANGER"
+    ],
+    "endeavor": [
+      "TRY"
+    ],
+    "endorse": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "endow": [
+      "GIVE_GIFT"
+    ],
+    "endure": [
+      "CONTINUE"
+    ],
+    "energize": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "enforce": [
+      "CARRY-OUT-ACTION"
+    ],
+    "engage": [
+      "CARRY-OUT-ACTION"
+    ],
+    "engineer": [
+      "ORGANIZE"
+    ],
+    "engrave": [
+      "CAVE_CARVE"
+    ],
+    "engulf": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "enhance": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "enjoin": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "enjoy": [
+      "ENJOY"
+    ],
+    "enlarge": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "enlighten": [
+      "EXPLAIN"
+    ],
+    "enlist": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "enliven": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "enrich": [
+      "AMELIORATE"
+    ],
+    "enrol": [
+      "HIRE"
+    ],
+    "enroll": [
+      "HIRE"
+    ],
+    "ensconce": [
+      "STAY_DWELL"
+    ],
+    "ensue": [
+      "RESULT_CONSEQUENCE"
+    ],
+    "ensure": [
+      "GUARANTEE_ENSURE_PROMISE"
+    ],
+    "entail": [
+      "IMPLY"
+    ],
+    "entangle": [
+      "STOP"
+    ],
+    "enter": [
+      "ENTER",
+      "PROPOSE"
+    ],
+    "entertain": [
+      "ENJOY"
+    ],
+    "entertaining": [
+      "ENJOY"
+    ],
+    "entice": [
+      "LURE_ENTICE"
+    ],
+    "entitle": [
+      "AUTHORIZE_ADMIT",
+      "NAME"
+    ],
+    "entomb": [
+      "BURY_PLANT"
+    ],
+    "entrance": [
+      "LURE_ENTICE"
+    ],
+    "entrench": [
+      "SECURE_FASTEN_TIE"
+    ],
+    "entrust": [
+      "GIVE_GIFT"
+    ],
+    "entwine": [
+      "WEAVE"
+    ],
+    "envisage": [
+      "IMAGINE"
+    ],
+    "envision": [
+      "IMAGINE"
+    ],
+    "envy": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "epitomize": [
+      "REPRESENT"
+    ],
+    "equal": [
+      "MATCH"
+    ],
+    "equate": [
+      "COMPARE"
+    ],
+    "equip": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "eradicate": [
+      "CANCEL_ELIMINATE"
+    ],
+    "erase": [
+      "CANCEL_ELIMINATE"
+    ],
+    "erect": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "erode": [
+      "CORRODE_WEAR-AWAY_SCRATCH"
+    ],
+    "err": [
+      "MISTAKE"
+    ],
+    "erupt": [
+      "BEGIN",
+      "SPEAK"
+    ],
+    "escalate": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "escape": [
+      "LEAVE_DEPART_RUN-AWAY"
+    ],
+    "eschew": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "escort": [
+      "ACCOMPANY"
+    ],
+    "espouse": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "establish": [
+      "ESTABLISH"
+    ],
+    "estimate": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "estrange": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "evacuate": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "evade": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "evaluate": [
+      "SUBJECTIVE-JUDGING"
+    ],
+    "evaporate": [
+      "CONVERT"
+    ],
+    "even": [
+      "FLATTEN_SMOOTHEN"
+    ],
+    "evidence": [
+      "PROVE"
+    ],
+    "evince": [
+      "SHOW"
+    ],
+    "eviscerate": [
+      "EMPTY_UNLOAD"
+    ],
+    "evolve": [
+      "AMELIORATE"
+    ],
+    "exacerbate": [
+      "WORSEN"
+    ],
+    "exaggerate": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "examine": [
+      "ANALYZE"
+    ],
+    "excavate": [
+      "CAVE_CARVE"
+    ],
+    "exceed": [
+      "OVERCOME_SURPASS"
+    ],
+    "except": [
+      "MISS_OMIT_LACK"
+    ],
+    "exchange": [
+      "CONVERT"
+    ],
+    "excite": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "exclaim": [
+      "SPEAK"
+    ],
+    "exclude": [
+      "STOP"
+    ],
+    "excoriate": [
+      "AFFIRM"
+    ],
+    "excuse": [
+      "PARDON"
+    ],
+    "execute": [
+      "CARRY-OUT-ACTION",
+      "KILL"
+    ],
+    "exemplify": [
+      "REPRESENT"
+    ],
+    "exempt": [
+      "EXEMPT"
+    ],
+    "exercise": [
+      "CARRY-OUT-ACTION",
+      "PREPARE"
+    ],
+    "exert": [
+      "INFLUENCE"
+    ],
+    "exhale": [
+      "EMIT"
+    ],
+    "exhaust": [
+      "EXHAUST"
+    ],
+    "exhibit": [
+      "SHOW"
+    ],
+    "exile": [
+      "DRIVE-BACK"
+    ],
+    "exist": [
+      "EXIST_LIVE"
+    ],
+    "exit": [
+      "LEAVE_DEPART_RUN-AWAY"
+    ],
+    "exonerate": [
+      "SUBJECTIVE-JUDGING"
+    ],
+    "exorcise": [
+      "DRIVE-BACK"
+    ],
+    "expand": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "expect": [
+      "GUESS"
+    ],
+    "expected": [
+      "GUESS"
+    ],
+    "expedite": [
+      "SPEED-UP"
+    ],
+    "expel": [
+      "CANCEL_ELIMINATE"
+    ],
+    "expend": [
+      "CONSUME_SPEND"
+    ],
+    "experience": [
+      "UNDERGO-EXPERIENCE"
+    ],
+    "experiment": [
+      "TRY"
+    ],
+    "expire": [
+      "FINISH_CONCLUDE_END"
+    ],
+    "explain": [
+      "EXPLAIN"
+    ],
+    "explode": [
+      "EXPLODE",
+      "FILL",
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "exploit": [
+      "BENEFIT_EXPLOIT"
+    ],
+    "explore": [
+      "SEARCH"
+    ],
+    "export": [
+      "SELL"
+    ],
+    "expose": [
+      "SHOW"
+    ],
+    "expound": [
+      "EXPLAIN"
+    ],
+    "express": [
+      "SEND",
+      "SPEAK"
+    ],
+    "expunge": [
+      "CANCEL_ELIMINATE"
+    ],
+    "extend": [
+      "EXTEND"
+    ],
+    "extinguish": [
+      "CANCEL_ELIMINATE"
+    ],
+    "extort": [
+      "STEAL_DEPRIVE"
+    ],
+    "extract": [
+      "OBTAIN"
+    ],
+    "extradite": [
+      "DRIVE-BACK"
+    ],
+    "extrapolate": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "extricate": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "exude": [
+      "EXCRETE"
+    ],
+    "eye": [
+      "SEE"
+    ],
+    "eyeball": [
+      "SEE"
+    ],
+    "fabricate": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "face": [
+      "FACE_CHALLENGE"
+    ],
+    "facilitate": [
+      "SIMPLIFY"
+    ],
+    "factor": [
+      "CONSIDER"
+    ],
+    "fade": [
+      "DISAPPEAR"
+    ],
+    "fail": [
+      "FAIL_LOSE"
+    ],
+    "fake": [
+      "FAKE"
+    ],
+    "fall": [
+      "QUARREL_POLEMICIZE",
+      "REDUCE_DIMINISH"
+    ],
+    "falling": [
+      "REDUCE_DIMINISH"
+    ],
+    "falls": [
+      "REDUCE_DIMINISH"
+    ],
+    "falsify": [
+      "REPRESENT"
+    ],
+    "falter": [
+      "FAIL_LOSE"
+    ],
+    "familiarize": [
+      "LEARN"
+    ],
+    "fan": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "fancy": [
+      "IMAGINE"
+    ],
+    "fantasize": [
+      "IMAGINE"
+    ],
+    "fare": [
+      "RESULT_CONSEQUENCE"
+    ],
+    "farm": [
+      "GENERATE",
+      "HIRE"
+    ],
+    "fascinate": [
+      "LIKE"
+    ],
+    "fashion": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "fasten": [
+      "SECURE_FASTEN_TIE"
+    ],
+    "fatten": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "fault": [
+      "ACCUSE"
+    ],
+    "favor": [
+      "LIKE"
+    ],
+    "fax": [
+      "SEND"
+    ],
+    "fear": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "feast": [
+      "EAT_BITE"
+    ],
+    "feature": [
+      "EXIST-WITH-FEATURE"
+    ],
+    "feed": [
+      "CAUSE-MENTAL-STATE",
+      "INCREASE_ENLARGE_MULTIPLY",
+      "NOURISH_FEED"
+    ],
+    "feel": [
+      "BELIEVE",
+      "FEEL"
+    ],
+    "fell": [
+      "HAPPEN_OCCUR",
+      "KNOCK-DOWN",
+      "REDUCE_DIMINISH"
+    ],
+    "felt": [
+      "BELIEVE",
+      "FEEL"
+    ],
+    "fend": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "ferret": [
+      "FIND"
+    ],
+    "ferry": [
+      "CARRY_TRANSPORT"
+    ],
+    "fertilize": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "fester": [
+      "EXCRETE"
+    ],
+    "festoon": [
+      "EMBELLISH"
+    ],
+    "fetch": [
+      "BRING"
+    ],
+    "feud": [
+      "QUARREL_POLEMICIZE"
+    ],
+    "fidget": [
+      "MOVE-ONESELF"
+    ],
+    "field": [
+      "ANSWER"
+    ],
+    "fielding": [
+      "ANSWER"
+    ],
+    "fields": [
+      "ANSWER"
+    ],
+    "fight": [
+      "DRIVE-BACK",
+      "FIGHT"
+    ],
+    "figure": [
+      "CALCULATE_ESTIMATE",
+      "DECIDE_DETERMINE",
+      "HAVE-A-FUNCTION_SERVE",
+      "IMAGINE"
+    ],
+    "filch": [
+      "STEAL_DEPRIVE"
+    ],
+    "file": [
+      "GO-FORWARD",
+      "REQUIRE_NEED_WANT_HOPE",
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "filing": [
+      "REQUIRE_NEED_WANT_HOPE",
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "fill": [
+      "AMELIORATE",
+      "FILL",
+      "SATISFY_FULFILL"
+    ],
+    "film": [
+      "RECORD"
+    ],
+    "filter": [
+      "FLOW",
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "finagle": [
+      "DECEIVE"
+    ],
+    "finalize": [
+      "FINISH_CONCLUDE_END"
+    ],
+    "finance": [
+      "PAY"
+    ],
+    "finances": [
+      "PAY"
+    ],
+    "financing": [
+      "PAY"
+    ],
+    "find": [
+      "FIND"
+    ],
+    "fine": [
+      "PUNISH"
+    ],
+    "finger": [
+      "ACCUSE",
+      "FIND"
+    ],
+    "fingering": [
+      "TOUCH"
+    ],
+    "finish": [
+      "FINISH_CONCLUDE_END"
+    ],
+    "fire": [
+      "DESTROY",
+      "DISMISS_FIRE-SMN",
+      "SHOOT_LAUNCH_PROPEL"
+    ],
+    "firm": [
+      "TIGHTEN"
+    ],
+    "fishing": [
+      "HUNT"
+    ],
+    "fit": [
+      "FIT"
+    ],
+    "fix": [
+      "ESTABLISH",
+      "PREPARE",
+      "REPAIR_REMEDY"
+    ],
+    "fizz": [
+      "CHANGE-APPEARANCE/STATE"
+    ],
+    "fizzle": [
+      "FINISH_CONCLUDE_END"
+    ],
+    "flabbergast": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "flame": [
+      "BURN"
+    ],
+    "flank": [
+      "BE-LOCATED_BASE"
+    ],
+    "flap": [
+      "MOVE-ONESELF"
+    ],
+    "flare": [
+      "BEGIN"
+    ],
+    "flash": [
+      "RUN",
+      "SHOW"
+    ],
+    "flatten": [
+      "FLATTEN_SMOOTHEN"
+    ],
+    "flaunt": [
+      "SHOW"
+    ],
+    "flaw": [
+      "BREAK_DETERIORATE"
+    ],
+    "flay": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "flee": [
+      "LEAVE_DEPART_RUN-AWAY"
+    ],
+    "fleece": [
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "flicker": [
+      "LIGHT_SHINE"
+    ],
+    "flinch": [
+      "MOVE-BACK"
+    ],
+    "fling": [
+      "THROW"
+    ],
+    "flip": [
+      "INVERT_REVERSE"
+    ],
+    "flirt": [
+      "COURT"
+    ],
+    "float": [
+      "MOVE-SOMETHING"
+    ],
+    "floating": [
+      "MOVE-SOMETHING"
+    ],
+    "flock": [
+      "GO-FORWARD",
+      "GROUP"
+    ],
+    "flood": [
+      "FILL"
+    ],
+    "flop": [
+      "FALL_SLIDE-DOWN"
+    ],
+    "flounder": [
+      "BEHAVE"
+    ],
+    "flourish": [
+      "AMELIORATE"
+    ],
+    "flout": [
+      "REFUSE"
+    ],
+    "flow": [
+      "FLOW"
+    ],
+    "fluctuate": [
+      "MOVE-ONESELF"
+    ],
+    "flunk": [
+      "FAIL_LOSE"
+    ],
+    "fly": [
+      "FLY"
+    ],
+    "foam": [
+      "CHANGE-APPEARANCE/STATE"
+    ],
+    "focus": [
+      "FOCUS"
+    ],
+    "fog": [
+      "CLOUD_SHADOW_HIDE"
+    ],
+    "foil": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "fold": [
+      "CREATE_MATERIALIZE",
+      "FINISH_CONCLUDE_END"
+    ],
+    "follow": [
+      "COME-AFTER_FOLLOW-IN-TIME",
+      "FINISH_CONCLUDE_END",
+      "FOLLOW_SUPPORT_SPONSOR_FUND",
+      "IMPLY",
+      "SIMULATE"
+    ],
+    "following": [
+      "COME-AFTER_FOLLOW-IN-TIME"
+    ],
+    "foment": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "fool": [
+      "DECEIVE"
+    ],
+    "fooling": [
+      "JOKE"
+    ],
+    "foot": [
+      "PAY"
+    ],
+    "forbid": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "force": [
+      "OBLIGE_FORCE",
+      "PERSUADE"
+    ],
+    "foreclose": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "foresee": [
+      "UNDERSTAND"
+    ],
+    "foreshadow": [
+      "SIGNAL_INDICATE"
+    ],
+    "forfeit": [
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "forge": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "forget": [
+      "FORGET"
+    ],
+    "forgets": [
+      "FORGET"
+    ],
+    "forgive": [
+      "PARDON"
+    ],
+    "forgo": [
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "fork": [
+      "PAY"
+    ],
+    "form": [
+      "INCLUDE-AS",
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "formulate": [
+      "CREATE_MATERIALIZE"
+    ],
+    "forsake": [
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "foster": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "foul": [
+      "VIOLATE"
+    ],
+    "found": [
+      "ESTABLISH",
+      "FIND"
+    ],
+    "founder": [
+      "FAIL_LOSE"
+    ],
+    "fracture": [
+      "BREAK_DETERIORATE"
+    ],
+    "fragment": [
+      "BREAK_DETERIORATE"
+    ],
+    "frame": [
+      "ACCUSE",
+      "ENCLOSE_WRAP",
+      "PLAN_SCHEDULE"
+    ],
+    "franchise": [
+      "AUTHORIZE_ADMIT"
+    ],
+    "fray": [
+      "CORRODE_WEAR-AWAY_SCRATCH"
+    ],
+    "freak": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "free": [
+      "LIBERATE_ALLOW_AFFORD"
+    ],
+    "freeze": [
+      "COOL",
+      "STOP"
+    ],
+    "frequent": [
+      "VISIT"
+    ],
+    "fret": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "frighten": [
+      "CAUSE-MENTAL-STATE",
+      "DRIVE-BACK"
+    ],
+    "fritter": [
+      "WASTE"
+    ],
+    "frolic": [
+      "BEHAVE"
+    ],
+    "froze": [
+      "COOL"
+    ],
+    "frustrate": [
+      "TREAT"
+    ],
+    "fudge": [
+      "FAKE"
+    ],
+    "fuel": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "fulfil": [
+      "SATISFY_FULFILL"
+    ],
+    "fulfill": [
+      "SATISFY_FULFILL"
+    ],
+    "fume": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "function": [
+      "HAVE-A-FUNCTION_SERVE"
+    ],
+    "fund": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "funding": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "funds": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "funnel": [
+      "SPILL_POUR"
+    ],
+    "furlough": [
+      "DISMISS_FIRE-SMN"
+    ],
+    "furnish": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "furrow": [
+      "PRESS_PUSH_FOLD"
+    ],
+    "further": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "fuss": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "gain": [
+      "INCREASE_ENLARGE_MULTIPLY",
+      "OBTAIN"
+    ],
+    "gallop": [
+      "RUN"
+    ],
+    "galvanize": [
+      "AROUSE_WAKE_ENLIVEN",
+      "COVER_SPREAD_SURMOUNT",
+      "INCITE_INDUCE"
+    ],
+    "gamble": [
+      "BID"
+    ],
+    "gape": [
+      "SEE"
+    ],
+    "garden": [
+      "WORK"
+    ],
+    "garner": [
+      "TAKE"
+    ],
+    "gasp": [
+      "BREATH_BLOW"
+    ],
+    "gather": [
+      "AMASS"
+    ],
+    "gauge": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "gaze": [
+      "SEE"
+    ],
+    "gear": [
+      "HARMONIZE",
+      "PREPARE"
+    ],
+    "generalize": [
+      "INFER"
+    ],
+    "generate": [
+      "GENERATE"
+    ],
+    "generating": [
+      "GENERATE"
+    ],
+    "gesture": [
+      "SIGN"
+    ],
+    "get": [
+      "BEGIN",
+      "CHANGE_SWITCH",
+      "COMMUNICATE_CONTACT",
+      "CONTINUE",
+      "INCITE_INDUCE",
+      "MANAGE",
+      "MEET",
+      "MOUNT_ASSEMBLE_PRODUCE",
+      "MOVE-SOMETHING",
+      "MUST",
+      "OBTAIN",
+      "POSSESS",
+      "RESTORE-TO-PREVIOUS/INITIAL-STATE_UNDO_UNWIND"
+    ],
+    "gird": [
+      "PREPARE"
+    ],
+    "give": [
+      "BREAK_DETERIORATE",
+      "CHANGE-HANDS",
+      "EMIT",
+      "GIVE-UP_ABOLISH_ABANDON",
+      "GIVE_GIFT"
+    ],
+    "glamorize": [
+      "EMBELLISH"
+    ],
+    "glance": [
+      "SEE"
+    ],
+    "glare": [
+      "SEE"
+    ],
+    "glaze": [
+      "BLIND"
+    ],
+    "gleam": [
+      "LIGHT_SHINE"
+    ],
+    "glean": [
+      "GROUP"
+    ],
+    "glide": [
+      "TRAVEL"
+    ],
+    "gloat": [
+      "ENJOY"
+    ],
+    "glow": [
+      "LIGHT_SHINE"
+    ],
+    "glowing": [
+      "LIGHT_SHINE"
+    ],
+    "glue": [
+      "ATTACH"
+    ],
+    "glut": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "go": [
+      "CHANGE_SWITCH",
+      "CONSUME_SPEND",
+      "CONTINUE",
+      "DISAPPEAR",
+      "FINISH_CONCLUDE_END",
+      "FOLLOW-IN-SPACE",
+      "GO-FORWARD",
+      "HAVE-A-FUNCTION_SERVE",
+      "LEAVE-BEHIND",
+      "LEAVE_DEPART_RUN-AWAY",
+      "MODAL",
+      "OPERATE",
+      "ORGANIZE",
+      "RESTORE-TO-PREVIOUS/INITIAL-STATE_UNDO_UNWIND",
+      "SELL"
+    ],
+    "gobble": [
+      "EAT_BITE"
+    ],
+    "gone": [
+      "DISAPPEAR"
+    ],
+    "gore": [
+      "HURT_HARM_ACHE"
+    ],
+    "gossip": [
+      "REVEAL"
+    ],
+    "govern": [
+      "LEAD_GOVERN"
+    ],
+    "grab": [
+      "CATCH"
+    ],
+    "grace": [
+      "EMBELLISH"
+    ],
+    "graduate": [
+      "AMELIORATE"
+    ],
+    "graft": [
+      "ATTACH"
+    ],
+    "grant": [
+      "GIVE_GIFT"
+    ],
+    "grapple": [
+      "FACE_CHALLENGE"
+    ],
+    "grasp": [
+      "UNDERSTAND"
+    ],
+    "graying": [
+      "COLOR"
+    ],
+    "graze": [
+      "NOURISH_FEED"
+    ],
+    "greet": [
+      "WELCOME"
+    ],
+    "grimace": [
+      "FACIAL-EXPRESSION"
+    ],
+    "grind": [
+      "BREAK_DETERIORATE",
+      "MAKE-A-SOUND",
+      "MOVE-SOMETHING"
+    ],
+    "grip": [
+      "CATCH"
+    ],
+    "gripes": [
+      "OPPOSE_REBEL_DISSENT"
+    ],
+    "groan": [
+      "SIGNAL_INDICATE"
+    ],
+    "gross": [
+      "EARN"
+    ],
+    "ground": [
+      "BREAK_DETERIORATE",
+      "LAND_GET-OFF",
+      "STOP"
+    ],
+    "group": [
+      "SORT_CLASSIFY_ARRANGE"
+    ],
+    "grouse": [
+      "OPPOSE_REBEL_DISSENT"
+    ],
+    "grovel": [
+      "SHOW"
+    ],
+    "grow": [
+      "CHANGE-APPEARANCE/STATE",
+      "DEVELOP_AGE",
+      "GROW_PLOW",
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "growl": [
+      "MAKE-A-SOUND"
+    ],
+    "grows": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "grumble": [
+      "OPPOSE_REBEL_DISSENT"
+    ],
+    "guarantee": [
+      "GUARANTEE_ENSURE_PROMISE"
+    ],
+    "guard": [
+      "WATCH_LOOK-OUT"
+    ],
+    "guess": [
+      "GUESS"
+    ],
+    "guide": [
+      "DIRECT_AIM_MANEUVER"
+    ],
+    "gun": [
+      "SHOOT_LAUNCH_PROPEL"
+    ],
+    "gush": [
+      "APPROVE_PRAISE"
+    ],
+    "gut": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "guzzle": [
+      "DRINK"
+    ],
+    "gyrate": [
+      "MOVE-ONESELF"
+    ],
+    "hack": [
+      "REDUCE_DIMINISH"
+    ],
+    "haggle": [
+      "QUARREL_POLEMICIZE"
+    ],
+    "hail": [
+      "APPROVE_PRAISE",
+      "COME-FROM"
+    ],
+    "half": [
+      "DIVIDE"
+    ],
+    "halt": [
+      "STOP"
+    ],
+    "halve": [
+      "DIVIDE"
+    ],
+    "ham": [
+      "BEHAVE"
+    ],
+    "hammer": [
+      "DISCUSS",
+      "HIT"
+    ],
+    "hamper": [
+      "STOP"
+    ],
+    "hamstring": [
+      "SUBJUGATE"
+    ],
+    "hand": [
+      "GIVE_GIFT"
+    ],
+    "handcuff": [
+      "STOP"
+    ],
+    "handicap": [
+      "COMPLEXIFY"
+    ],
+    "handle": [
+      "MANAGE"
+    ],
+    "handling": [
+      "MANAGE"
+    ],
+    "hang": [
+      "HANG"
+    ],
+    "happen": [
+      "HAPPEN_OCCUR"
+    ],
+    "happening": [
+      "HAPPEN_OCCUR"
+    ],
+    "harass": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "harbor": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "harden": [
+      "CHANGE-APPEARANCE/STATE"
+    ],
+    "harm": [
+      "HURT_HARM_ACHE"
+    ],
+    "harry": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "harvest": [
+      "GROUP"
+    ],
+    "hash": [
+      "DISCUSS"
+    ],
+    "hasten": [
+      "SPEED-UP"
+    ],
+    "hatch": [
+      "GIVE-BIRTH"
+    ],
+    "hate": [
+      "DISLIKE"
+    ],
+    "haul": [
+      "CARRY_TRANSPORT"
+    ],
+    "haunt": [
+      "AFFECT"
+    ],
+    "have": [
+      "AUXILIARY",
+      "EXIST-WITH-FEATURE",
+      "INCITE_INDUCE",
+      "MODAL"
+    ],
+    "hawk": [
+      "SELL"
+    ],
+    "head": [
+      "GO-FORWARD",
+      "LEAD_GOVERN",
+      "REACH"
+    ],
+    "heal": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "healing": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "heap": [
+      "AMASS"
+    ],
+    "hear": [
+      "HEAR_LISTEN"
+    ],
+    "hearing": [
+      "HEAR_LISTEN"
+    ],
+    "hears": [
+      "HEAR_LISTEN"
+    ],
+    "hearten": [
+      "INCITE_INDUCE"
+    ],
+    "heat": [
+      "AROUSE_WAKE_ENLIVEN",
+      "HEAT"
+    ],
+    "heating": [
+      "HEAT"
+    ],
+    "heave": [
+      "MAKE-A-SOUND",
+      "THROW"
+    ],
+    "heaves": [
+      "THROW"
+    ],
+    "hedge": [
+      "PROTECT"
+    ],
+    "heed": [
+      "FOCUS"
+    ],
+    "heighten": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "help": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "hemorrhage": [
+      "EXCRETE"
+    ],
+    "herald": [
+      "SPEAK"
+    ],
+    "herding": [
+      "GROUP"
+    ],
+    "hesitate": [
+      "STOP"
+    ],
+    "hew": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "hewn": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "hide": [
+      "CLOUD_SHADOW_HIDE"
+    ],
+    "highlight": [
+      "EMPHASIZE"
+    ],
+    "hightail": [
+      "LEAVE_DEPART_RUN-AWAY"
+    ],
+    "hinder": [
+      "STOP"
+    ],
+    "hinders": [
+      "STOP"
+    ],
+    "hinge": [
+      "RELY"
+    ],
+    "hint": [
+      "SPEAK"
+    ],
+    "hire": [
+      "HIRE"
+    ],
+    "hiss": [
+      "MAKE-A-SOUND"
+    ],
+    "hit": [
+      "ARRIVE",
+      "BEGIN",
+      "HIT"
+    ],
+    "hitch": [
+      "ATTACH"
+    ],
+    "hoard": [
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "hobble": [
+      "STOP"
+    ],
+    "hoe": [
+      "EXTRACT"
+    ],
+    "hold": [
+      "CONTINUE",
+      "DECREE_DECLARE",
+      "DELAY",
+      "OBLIGE_FORCE",
+      "ORGANIZE",
+      "POSSESS",
+      "RESIST",
+      "RESTRAIN",
+      "RETAIN_KEEP_SAVE-MONEY",
+      "WAIT"
+    ],
+    "hole": [
+      "STAY_DWELL"
+    ],
+    "holler": [
+      "MAKE-A-SOUND"
+    ],
+    "homer": [
+      "SCORE"
+    ],
+    "hone": [
+      "SHARPEN"
+    ],
+    "honor": [
+      "APPROVE_PRAISE"
+    ],
+    "honored": [
+      "APPROVE_PRAISE"
+    ],
+    "hoodwink": [
+      "DECEIVE"
+    ],
+    "hook": [
+      "ENCLOSE_WRAP",
+      "SECURE_FASTEN_TIE"
+    ],
+    "hop": [
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "hope": [
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "hospitalize": [
+      "SEND"
+    ],
+    "host": [
+      "HOST_MEAL_INVITE"
+    ],
+    "hound": [
+      "OFFEND_DISESTEEM"
+    ],
+    "house": [
+      "STAY_DWELL"
+    ],
+    "hover": [
+      "HANG"
+    ],
+    "howl": [
+      "MAKE-A-SOUND"
+    ],
+    "huckster": [
+      "QUARREL_POLEMICIZE"
+    ],
+    "huddle": [
+      "MEET"
+    ],
+    "hug": [
+      "FIT"
+    ],
+    "hulk": [
+      "OVERCOME_SURPASS"
+    ],
+    "hum": [
+      "GO-FORWARD"
+    ],
+    "humanize": [
+      "CHANGE_SWITCH"
+    ],
+    "humble": [
+      "DOWNPLAY_HUMILIATE"
+    ],
+    "hunch": [
+      "BEND"
+    ],
+    "hunting": [
+      "CHASE"
+    ],
+    "hurl": [
+      "THROW"
+    ],
+    "hurried": [
+      "RUN"
+    ],
+    "hurry": [
+      "RUN"
+    ],
+    "hurt": [
+      "HURT_HARM_ACHE"
+    ],
+    "hurtle": [
+      "GO-FORWARD"
+    ],
+    "hustle": [
+      "MOVE-ONESELF"
+    ],
+    "hypnotize": [
+      "BEWITCH"
+    ],
+    "hypothesize": [
+      "BELIEVE"
+    ],
+    "identify": [
+      "RECOGNIZE_ADMIT_IDENTIFY"
+    ],
+    "idle": [
+      "STOP"
+    ],
+    "ignite": [
+      "BURN"
+    ],
+    "ignore": [
+      "DOWNPLAY_HUMILIATE"
+    ],
+    "illuminate": [
+      "LIGHTEN"
+    ],
+    "illustrate": [
+      "EXPLAIN",
+      "PAINT"
+    ],
+    "imagine": [
+      "IMAGINE"
+    ],
+    "imitate": [
+      "SIMULATE"
+    ],
+    "immerse": [
+      "ENCLOSE_WRAP"
+    ],
+    "immigrate": [
+      "LEAVE_DEPART_RUN-AWAY"
+    ],
+    "impact": [
+      "AFFECT"
+    ],
+    "impair": [
+      "DEBASE_ADULTERATE"
+    ],
+    "impeach": [
+      "ACCUSE"
+    ],
+    "impede": [
+      "STOP"
+    ],
+    "impel": [
+      "PERSUADE"
+    ],
+    "impend": [
+      "HAPPEN_OCCUR"
+    ],
+    "imperil": [
+      "ENDANGER"
+    ],
+    "implant": [
+      "INSERT"
+    ],
+    "implement": [
+      "USE"
+    ],
+    "implicate": [
+      "INCLUDE-AS"
+    ],
+    "implore": [
+      "ASK_REQUEST"
+    ],
+    "imply": [
+      "IMPLY"
+    ],
+    "import": [
+      "CARRY_TRANSPORT"
+    ],
+    "impose": [
+      "OBLIGE_FORCE"
+    ],
+    "impound": [
+      "RESTRAIN"
+    ],
+    "impoverish": [
+      "STEAL_DEPRIVE"
+    ],
+    "impress": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "imprison": [
+      "CAGE_IMPRISON"
+    ],
+    "improve": [
+      "AMELIORATE",
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "improving": [
+      "AMELIORATE"
+    ],
+    "improvise": [
+      "CARRY-OUT-ACTION"
+    ],
+    "impugn": [
+      "FACE_CHALLENGE"
+    ],
+    "inaugurate": [
+      "BEGIN"
+    ],
+    "incarcerate": [
+      "CAGE_IMPRISON"
+    ],
+    "inch": [
+      "GO-FORWARD"
+    ],
+    "incite": [
+      "INCITE_INDUCE"
+    ],
+    "incline": [
+      "BEHAVE"
+    ],
+    "include": [
+      "INCLUDE-AS"
+    ],
+    "incorporate": [
+      "COMBINE_MIX_UNITE"
+    ],
+    "incorporated": [
+      "COMBINE_MIX_UNITE"
+    ],
+    "increase": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "incriminate": [
+      "ACCUSE"
+    ],
+    "incur": [
+      "RISK"
+    ],
+    "indemnify": [
+      "PROTECT"
+    ],
+    "index": [
+      "ADJUST_CORRECT"
+    ],
+    "indexing": [
+      "ADJUST_CORRECT"
+    ],
+    "indicate": [
+      "SIGNAL_INDICATE"
+    ],
+    "indict": [
+      "ACCUSE"
+    ],
+    "indoctrinate": [
+      "TEACH"
+    ],
+    "induce": [
+      "INCITE_INDUCE"
+    ],
+    "indulge": [
+      "CARRY-OUT-ACTION"
+    ],
+    "industrialize": [
+      "AMELIORATE"
+    ],
+    "industrialized": [
+      "AMELIORATE"
+    ],
+    "infect": [
+      "CONTRACT-AN-ILLNESS_INFECT"
+    ],
+    "infer": [
+      "INFER"
+    ],
+    "infiltrate": [
+      "VIOLATE"
+    ],
+    "inflame": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "inflate": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "inflict": [
+      "OBLIGE_FORCE"
+    ],
+    "inflicted": [
+      "OBLIGE_FORCE"
+    ],
+    "influence": [
+      "INFLUENCE"
+    ],
+    "inform": [
+      "INFORM"
+    ],
+    "infringe": [
+      "VIOLATE"
+    ],
+    "infuriate": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "infuse": [
+      "FILL"
+    ],
+    "ingest": [
+      "EAT_BITE"
+    ],
+    "ingratiate": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "inhabit": [
+      "LIE"
+    ],
+    "inherit": [
+      "OBTAIN"
+    ],
+    "inhibit": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "initial": [
+      "WRITE"
+    ],
+    "initiate": [
+      "BEGIN"
+    ],
+    "inject": [
+      "INSERT"
+    ],
+    "injure": [
+      "HURT_HARM_ACHE"
+    ],
+    "injured": [
+      "HURT_HARM_ACHE"
+    ],
+    "innovate": [
+      "INSERT"
+    ],
+    "inquire": [
+      "ASK_REQUEST"
+    ],
+    "insert": [
+      "INSERT"
+    ],
+    "insist": [
+      "AFFIRM"
+    ],
+    "inspect": [
+      "ANALYZE"
+    ],
+    "inspire": [
+      "INFLUENCE"
+    ],
+    "instal": [
+      "STAY_DWELL"
+    ],
+    "install": [
+      "STAY_DWELL"
+    ],
+    "instigate": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "instill": [
+      "INSERT"
+    ],
+    "institute": [
+      "ESTABLISH"
+    ],
+    "instruct": [
+      "ORDER"
+    ],
+    "insulate": [
+      "ISOLATE",
+      "PROTECT"
+    ],
+    "insure": [
+      "GUARANTEE_ENSURE_PROMISE",
+      "PROTECT"
+    ],
+    "integrate": [
+      "COMBINE_MIX_UNITE"
+    ],
+    "intend": [
+      "PLAN_SCHEDULE"
+    ],
+    "intensify": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "intercept": [
+      "CATCH"
+    ],
+    "interconnect": [
+      "JOIN_CONNECT"
+    ],
+    "interest": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "interested": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "interfere": [
+      "INSERT"
+    ],
+    "interlope": [
+      "VIOLATE"
+    ],
+    "intermix": [
+      "COMBINE_MIX_UNITE"
+    ],
+    "interpret": [
+      "UNDERSTAND"
+    ],
+    "interrogate": [
+      "ASK_REQUEST"
+    ],
+    "interrupt": [
+      "STOP"
+    ],
+    "intersperse": [
+      "ALTERNATE"
+    ],
+    "intertwine": [
+      "WEAVE"
+    ],
+    "intervene": [
+      "PARTICIPATE"
+    ],
+    "interview": [
+      "ASK_REQUEST"
+    ],
+    "intimate": [
+      "IMPLY"
+    ],
+    "intimidate": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "intone": [
+      "PERFORM"
+    ],
+    "introduce": [
+      "INSERT",
+      "MEET"
+    ],
+    "intrude": [
+      "VIOLATE"
+    ],
+    "inundate": [
+      "FILL"
+    ],
+    "invade": [
+      "ATTACK_BOMB"
+    ],
+    "invalidate": [
+      "CANCEL_ELIMINATE"
+    ],
+    "invent": [
+      "CREATE_MATERIALIZE"
+    ],
+    "invert": [
+      "INVERT_REVERSE"
+    ],
+    "invest": [
+      "LEND"
+    ],
+    "investigate": [
+      "SEARCH"
+    ],
+    "investing": [
+      "LEND"
+    ],
+    "invite": [
+      "ASK_REQUEST"
+    ],
+    "invoke": [
+      "ASK_REQUEST"
+    ],
+    "involve": [
+      "IMPLY"
+    ],
+    "irk": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "iron": [
+      "SETTLE_CONCILIATE"
+    ],
+    "irradiate": [
+      "SHOW"
+    ],
+    "irritate": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "isolate": [
+      "ISOLATE"
+    ],
+    "issue": [
+      "EMIT"
+    ],
+    "itemize": [
+      "RECORD"
+    ],
+    "jack": [
+      "RAISE"
+    ],
+    "jail": [
+      "CAGE_IMPRISON"
+    ],
+    "jailed": [
+      "CAGE_IMPRISON"
+    ],
+    "jam": [
+      "AMASS"
+    ],
+    "jarring": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "jell": [
+      "CHANGE-APPEARANCE/STATE"
+    ],
+    "jeopardize": [
+      "RISK"
+    ],
+    "jerk": [
+      "PULL"
+    ],
+    "jettison": [
+      "DISCARD"
+    ],
+    "jiggle": [
+      "MOVE-SOMETHING"
+    ],
+    "jingle": [
+      "MAKE-A-SOUND"
+    ],
+    "jog": [
+      "RUN"
+    ],
+    "join": [
+      "JOIN_CONNECT"
+    ],
+    "joke": [
+      "JOKE"
+    ],
+    "jolt": [
+      "CAUSE-MENTAL-STATE",
+      "MOVE-SOMETHING"
+    ],
+    "joust": [
+      "FIGHT"
+    ],
+    "judge": [
+      "SUBJECTIVE-JUDGING"
+    ],
+    "juggle": [
+      "MANAGE"
+    ],
+    "jump": [
+      "BENEFIT_EXPLOIT",
+      "CAUSE-MENTAL-STATE",
+      "INCREASE_ENLARGE_MULTIPLY",
+      "JUMP"
+    ],
+    "junk": [
+      "DISCARD"
+    ],
+    "justify": [
+      "PROVE"
+    ],
+    "jut": [
+      "BULGE-OUT"
+    ],
+    "juxtapose": [
+      "BORDER"
+    ],
+    "kayo": [
+      "KNOCK-DOWN"
+    ],
+    "keep": [
+      "CONTINUE",
+      "REMAIN",
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "key": [
+      "HARMONIZE"
+    ],
+    "kick": [
+      "BEGIN",
+      "HIT"
+    ],
+    "kidnap": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "kill": [
+      "KILL"
+    ],
+    "killing": [
+      "KILL"
+    ],
+    "kindle": [
+      "BURN"
+    ],
+    "kiss": [
+      "TOUCH"
+    ],
+    "kissing": [
+      "TOUCH"
+    ],
+    "knead": [
+      "SHAPE"
+    ],
+    "knit": [
+      "SEW"
+    ],
+    "knock": [
+      "CANCEL_ELIMINATE",
+      "COPY",
+      "HIT",
+      "KILL",
+      "KNOCK-DOWN",
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "know": [
+      "KNOW"
+    ],
+    "kowtow": [
+      "FLATTER"
+    ],
+    "label": [
+      "DECREE_DECLARE"
+    ],
+    "labor": [
+      "TRY"
+    ],
+    "lace": [
+      "EMBELLISH"
+    ],
+    "lack": [
+      "MISS_OMIT_LACK"
+    ],
+    "lag": [
+      "GO-FORWARD"
+    ],
+    "lambaste": [
+      "REPRIMAND"
+    ],
+    "lament": [
+      "REGRET_SORRY"
+    ],
+    "land": [
+      "ARRIVE",
+      "LAND_GET-OFF"
+    ],
+    "languish": [
+      "WEAKEN"
+    ],
+    "languishes": [
+      "WEAKEN"
+    ],
+    "lap": [
+      "TOUCH"
+    ],
+    "lapse": [
+      "FINISH_CONCLUDE_END"
+    ],
+    "lash": [
+      "CRITICIZE"
+    ],
+    "lashing": [
+      "SECURE_FASTEN_TIE"
+    ],
+    "last": [
+      "CONTINUE"
+    ],
+    "latch": [
+      "ATTACH"
+    ],
+    "laud": [
+      "APPROVE_PRAISE"
+    ],
+    "laugh": [
+      "LAUGH"
+    ],
+    "launch": [
+      "BEGIN"
+    ],
+    "launder": [
+      "CONVERT"
+    ],
+    "laundering": [
+      "CONVERT"
+    ],
+    "lavish": [
+      "GIVE_GIFT"
+    ],
+    "lay": [
+      "DISMISS_FIRE-SMN",
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "lead": [
+      "INCITE_INDUCE",
+      "LEAD_GOVERN",
+      "MOVE-SOMETHING"
+    ],
+    "leading": [
+      "MOVE-SOMETHING"
+    ],
+    "leak": [
+      "FLOW"
+    ],
+    "lean": [
+      "INCLINE"
+    ],
+    "leap": [
+      "CAUSE-MENTAL-STATE",
+      "INCREASE_ENLARGE_MULTIPLY",
+      "JUMP"
+    ],
+    "leapfrog": [
+      "JUMP"
+    ],
+    "learn": [
+      "LEARN"
+    ],
+    "lease": [
+      "LEND",
+      "TAKE-A-SERVICE_RENT"
+    ],
+    "leasing": [
+      "LEND"
+    ],
+    "leave": [
+      "GIVE_GIFT",
+      "LEAVE_DEPART_RUN-AWAY",
+      "MISS_OMIT_LACK"
+    ],
+    "lecture": [
+      "SPEAK"
+    ],
+    "left": [
+      "LEAVE_DEPART_RUN-AWAY"
+    ],
+    "legalize": [
+      "AUTHORIZE_ADMIT"
+    ],
+    "legislate": [
+      "AUTHORIZE_ADMIT"
+    ],
+    "legitimize": [
+      "AUTHORIZE_ADMIT"
+    ],
+    "lend": [
+      "LEND"
+    ],
+    "lending": [
+      "LEND"
+    ],
+    "lengthen": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "lengthens": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "lessen": [
+      "REDUCE_DIMINISH"
+    ],
+    "let": [
+      "LIBERATE_ALLOW_AFFORD",
+      "REDUCE_DIMINISH",
+      "REVEAL"
+    ],
+    "level": [
+      "DIRECT_AIM_MANEUVER",
+      "FLATTEN_SMOOTHEN"
+    ],
+    "leveraged": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "levy": [
+      "CHARGE"
+    ],
+    "libel": [
+      "OFFEND_DISESTEEM"
+    ],
+    "liberalize": [
+      "AUTHORIZE_ADMIT"
+    ],
+    "liberate": [
+      "LIBERATE_ALLOW_AFFORD"
+    ],
+    "license": [
+      "AUTHORIZE_ADMIT"
+    ],
+    "lick": [
+      "TOUCH"
+    ],
+    "lie": [
+      "DECEIVE",
+      "LIE"
+    ],
+    "life": [
+      "EXIST_LIVE"
+    ],
+    "lift": [
+      "RAISE",
+      "STEAL_DEPRIVE"
+    ],
+    "light": [
+      "BURN",
+      "LIGHTEN"
+    ],
+    "lighten": [
+      "LIGHTEN",
+      "REDUCE_DIMINISH",
+      "SIMPLIFY"
+    ],
+    "like": [
+      "LIKE",
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "liken": [
+      "COMPARE"
+    ],
+    "limit": [
+      "RESTRAIN"
+    ],
+    "line": [
+      "LIE"
+    ],
+    "linger": [
+      "WAIT"
+    ],
+    "link": [
+      "CORRELATE",
+      "JOIN_CONNECT"
+    ],
+    "liquefy": [
+      "CHANGE-APPEARANCE/STATE"
+    ],
+    "liquidate": [
+      "PAY"
+    ],
+    "list": [
+      "CALCULATE_ESTIMATE",
+      "INCLINE",
+      "RECORD"
+    ],
+    "listen": [
+      "HEAR_LISTEN"
+    ],
+    "lit": [
+      "BURN"
+    ],
+    "littered": [
+      "DIRTY"
+    ],
+    "live": [
+      "CONTINUE",
+      "EXIST_LIVE",
+      "SATISFY_FULFILL"
+    ],
+    "living": [
+      "EXIST_LIVE"
+    ],
+    "load": [
+      "FILL",
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "loan": [
+      "LEND"
+    ],
+    "loathe": [
+      "DISLIKE"
+    ],
+    "lobby": [
+      "FLATTER"
+    ],
+    "lobbying": [
+      "FLATTER"
+    ],
+    "localize": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "locate": [
+      "BE-LOCATED_BASE",
+      "FIND"
+    ],
+    "lock": [
+      "CAGE_IMPRISON",
+      "OPERATE",
+      "PRECLUDE_FORBID_EXPEL",
+      "SECURE_FASTEN_TIE"
+    ],
+    "lodge": [
+      "ACCUSE",
+      "HOLE_PIERCE"
+    ],
+    "log": [
+      "RECORD"
+    ],
+    "look": [
+      "SEARCH",
+      "SEE",
+      "SEEM",
+      "WAIT"
+    ],
+    "loom": [
+      "APPEAR"
+    ],
+    "loosen": [
+      "UNFASTEN_UNFOLD"
+    ],
+    "loosening": [
+      "UNFASTEN_UNFOLD"
+    ],
+    "loot": [
+      "STEAL_DEPRIVE"
+    ],
+    "lord": [
+      "LEAD_GOVERN"
+    ],
+    "lose": [
+      "DISBAND_BREAK-UP",
+      "FAIL_LOSE",
+      "LOSE"
+    ],
+    "lost": [
+      "LOSE"
+    ],
+    "love": [
+      "LIKE"
+    ],
+    "low": [
+      "LOWER"
+    ],
+    "lower": [
+      "LOWER"
+    ],
+    "lug": [
+      "CARRY_TRANSPORT"
+    ],
+    "lull": [
+      "MAKE-RELAX"
+    ],
+    "lumber": [
+      "TRAVEL"
+    ],
+    "lump": [
+      "GROUP"
+    ],
+    "lunge": [
+      "GO-FORWARD"
+    ],
+    "lurch": [
+      "GO-FORWARD"
+    ],
+    "lure": [
+      "LURE_ENTICE"
+    ],
+    "lurk": [
+      "CLOUD_SHADOW_HIDE"
+    ],
+    "made": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "magnetize": [
+      "CONVERT"
+    ],
+    "magnify": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "mail": [
+      "SEND"
+    ],
+    "maintain": [
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "major": [
+      "STUDY"
+    ],
+    "make": [
+      "ACHIEVE",
+      "ADJUST_CORRECT",
+      "CREATE_MATERIALIZE",
+      "EARN",
+      "EXIST-WITH-FEATURE",
+      "INCITE_INDUCE",
+      "LIGHT-VERB",
+      "MOUNT_ASSEMBLE_PRODUCE",
+      "REPRESENT",
+      "SETTLE_CONCILIATE",
+      "WRITE"
+    ],
+    "making": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "man": [
+      "WORK"
+    ],
+    "manage": [
+      "ACHIEVE",
+      "MANAGE"
+    ],
+    "managing": [
+      "MANAGE"
+    ],
+    "mandate": [
+      "OBLIGE_FORCE"
+    ],
+    "maneuver": [
+      "DIRECT_AIM_MANEUVER"
+    ],
+    "manhandle": [
+      "TREAT"
+    ],
+    "manifest": [
+      "SHOW"
+    ],
+    "manipulate": [
+      "MANAGE",
+      "TOUCH"
+    ],
+    "manufacture": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "manufacturing": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "map": [
+      "PLAN_SCHEDULE"
+    ],
+    "mapping": [
+      "PLAN_SCHEDULE"
+    ],
+    "march": [
+      "AMELIORATE",
+      "GO-FORWARD"
+    ],
+    "marginalize": [
+      "DEBASE_ADULTERATE"
+    ],
+    "mark": [
+      "DISTINGUISH_DIFFER",
+      "INCREASE_ENLARGE_MULTIPLY",
+      "SIGNAL_INDICATE"
+    ],
+    "market": [
+      "SELL"
+    ],
+    "marketing": [
+      "SELL"
+    ],
+    "married": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "marry": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "marvel": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "mask": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "masquerade": [
+      "DECEIVE"
+    ],
+    "mass": [
+      "AMASS"
+    ],
+    "massage": [
+      "TOUCH"
+    ],
+    "master": [
+      "LEARN"
+    ],
+    "match": [
+      "MATCH"
+    ],
+    "mate": [
+      "HAVE-SEX"
+    ],
+    "materialize": [
+      "APPEAR"
+    ],
+    "matter": [
+      "BURDEN_BEAR"
+    ],
+    "mature": [
+      "DEVELOP_AGE"
+    ],
+    "maul": [
+      "HURT_HARM_ACHE"
+    ],
+    "maximize": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "mean": [
+      "IMPLY"
+    ],
+    "meander": [
+      "TRAVEL"
+    ],
+    "means": [
+      "IMPLY"
+    ],
+    "measure": [
+      "MEASURE_EVALUATE"
+    ],
+    "meddle": [
+      "VIOLATE"
+    ],
+    "mediate": [
+      "NEGOTIATE"
+    ],
+    "meet": [
+      "KNOW",
+      "MEET",
+      "SATISFY_FULFILL"
+    ],
+    "meeting": [
+      "MEET",
+      "SATISFY_FULFILL"
+    ],
+    "meld": [
+      "HARMONIZE"
+    ],
+    "melding": [
+      "HARMONIZE"
+    ],
+    "melt": [
+      "CONVERT"
+    ],
+    "melting": [
+      "CONVERT"
+    ],
+    "memorialize": [
+      "APPROVE_PRAISE"
+    ],
+    "mention": [
+      "SPEAK"
+    ],
+    "merchandise": [
+      "SELL"
+    ],
+    "merge": [
+      "HARMONIZE"
+    ],
+    "merit": [
+      "EXIST-WITH-FEATURE"
+    ],
+    "mesh": [
+      "ORGANIZE"
+    ],
+    "mess": [
+      "MESS",
+      "PARTICIPATE"
+    ],
+    "metabolize": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "miff": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "migrate": [
+      "GO-FORWARD"
+    ],
+    "militate": [
+      "OPPOSE_REBEL_DISSENT"
+    ],
+    "milk": [
+      "EXTRACT"
+    ],
+    "milling": [
+      "TRAVEL"
+    ],
+    "mimic": [
+      "SIMULATE"
+    ],
+    "mince": [
+      "CUT"
+    ],
+    "mind": [
+      "OFFEND_DISESTEEM"
+    ],
+    "mine": [
+      "EXTRACT"
+    ],
+    "mingle": [
+      "PARTICIPATE"
+    ],
+    "miniaturize": [
+      "PAINT"
+    ],
+    "minimize": [
+      "REDUCE_DIMINISH"
+    ],
+    "mint": [
+      "CREATE_MATERIALIZE"
+    ],
+    "mire": [
+      "STOP"
+    ],
+    "mirror": [
+      "REFLECT"
+    ],
+    "miscalculate": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "mishandle": [
+      "MANAGE"
+    ],
+    "misinterpret": [
+      "INTERPRET"
+    ],
+    "mislay": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "mislead": [
+      "DECEIVE"
+    ],
+    "misplace": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "misrepresent": [
+      "REPRESENT"
+    ],
+    "misrepresents": [
+      "REPRESENT"
+    ],
+    "miss": [
+      "MISS_OMIT_LACK"
+    ],
+    "misspend": [
+      "SPEND-TIME_PASS-TIME"
+    ],
+    "misstate": [
+      "SPEAK"
+    ],
+    "mistaken": [
+      "MISTAKE"
+    ],
+    "mistreat": [
+      "TREAT"
+    ],
+    "misunderstand": [
+      "INTERPRET"
+    ],
+    "misuse": [
+      "VIOLATE"
+    ],
+    "mitigate": [
+      "REDUCE_DIMINISH"
+    ],
+    "mix": [
+      "ADD"
+    ],
+    "mixed": [
+      "ADD"
+    ],
+    "moan": [
+      "MAKE-A-SOUND"
+    ],
+    "mobilize": [
+      "PREPARE"
+    ],
+    "mock": [
+      "JOKE"
+    ],
+    "model": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "moderate": [
+      "REDUCE_DIMINISH"
+    ],
+    "modernize": [
+      "AMELIORATE"
+    ],
+    "modify": [
+      "CHANGE_SWITCH"
+    ],
+    "modulate": [
+      "CHANGE_SWITCH"
+    ],
+    "mollify": [
+      "MAKE-RELAX"
+    ],
+    "monitor": [
+      "WATCH_LOOK-OUT"
+    ],
+    "monopolize": [
+      "POSSESS"
+    ],
+    "moonlighting": [
+      "WORK"
+    ],
+    "mop": [
+      "WASH_CLEAN"
+    ],
+    "mortgage": [
+      "LEND"
+    ],
+    "motivate": [
+      "INCITE_INDUCE",
+      "JUSTIFY_EXCUSE"
+    ],
+    "motorize": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "mount": [
+      "INCREASE_ENLARGE_MULTIPLY",
+      "MOUNT_ASSEMBLE_PRODUCE",
+      "RAISE"
+    ],
+    "mourn": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "mouth": [
+      "SPEAK"
+    ],
+    "move": [
+      "ATTACK_BOMB",
+      "CARRY-OUT-ACTION",
+      "MOVE-SOMETHING",
+      "ORGANIZE"
+    ],
+    "mow": [
+      "CUT"
+    ],
+    "muck": [
+      "MESS"
+    ],
+    "muddle": [
+      "MESS"
+    ],
+    "muddy": [
+      "DIRTY"
+    ],
+    "mull": [
+      "THINK"
+    ],
+    "multiply": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "mumble": [
+      "SPEAK"
+    ],
+    "munch": [
+      "EAT_BITE"
+    ],
+    "murder": [
+      "KILL"
+    ],
+    "muscle": [
+      "MOVE-SOMETHING"
+    ],
+    "muse": [
+      "THINK"
+    ],
+    "mushroom": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "muster": [
+      "AMASS"
+    ],
+    "mutate": [
+      "CHANGE-APPEARANCE/STATE"
+    ],
+    "mute": [
+      "STOP"
+    ],
+    "mutilate": [
+      "HURT_HARM_ACHE"
+    ],
+    "muzzle": [
+      "STOP"
+    ],
+    "nail": [
+      "ACHIEVE",
+      "ATTACH"
+    ],
+    "name": [
+      "CITE",
+      "NAME"
+    ],
+    "narrow": [
+      "REDUCE_DIMINISH"
+    ],
+    "nationalize": [
+      "COMMUNIZE"
+    ],
+    "navigate": [
+      "DIRECT_AIM_MANEUVER"
+    ],
+    "near": [
+      "GO-FORWARD"
+    ],
+    "necessitate": [
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "need": [
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "negate": [
+      "COMPENSATE"
+    ],
+    "neglect": [
+      "MISS_OMIT_LACK"
+    ],
+    "negotiate": [
+      "NEGOTIATE"
+    ],
+    "neighbor": [
+      "BORDER"
+    ],
+    "neighboring": [
+      "BORDER"
+    ],
+    "net": [
+      "EARN",
+      "GIVE_GIFT",
+      "OBTAIN"
+    ],
+    "networking": [
+      "COMMUNICATE_CONTACT"
+    ],
+    "neutralize": [
+      "COMPENSATE"
+    ],
+    "nick": [
+      "CUT"
+    ],
+    "nickname": [
+      "NAME"
+    ],
+    "nod": [
+      "SIGN"
+    ],
+    "nominate": [
+      "ASSIGN-smt-to-smn"
+    ],
+    "normalize": [
+      "ADJUST_CORRECT"
+    ],
+    "nosedive": [
+      "FALL_SLIDE-DOWN"
+    ],
+    "notch": [
+      "RECORD"
+    ],
+    "note": [
+      "WRITE"
+    ],
+    "notice": [
+      "PERCEIVE"
+    ],
+    "notify": [
+      "INFORM"
+    ],
+    "nudge": [
+      "GO-FORWARD"
+    ],
+    "nullify": [
+      "CANCEL_ELIMINATE"
+    ],
+    "number": [
+      "REACH"
+    ],
+    "nurse": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "nurture": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "obfuscate": [
+      "COMPLEXIFY"
+    ],
+    "object": [
+      "CRITICIZE"
+    ],
+    "obligate": [
+      "OBLIGE_FORCE"
+    ],
+    "oblige": [
+      "LOAD_PROVIDE_CHARGE_FURNISH",
+      "OBLIGE_FORCE"
+    ],
+    "obliterate": [
+      "CANCEL_ELIMINATE"
+    ],
+    "obscure": [
+      "CLOUD_SHADOW_HIDE"
+    ],
+    "observe": [
+      "SEE",
+      "SPEAK"
+    ],
+    "obstruct": [
+      "STOP"
+    ],
+    "obtain": [
+      "OBTAIN"
+    ],
+    "obviate": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "occasion": [
+      "CREATE_MATERIALIZE"
+    ],
+    "occupy": [
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "occur": [
+      "HAPPEN_OCCUR"
+    ],
+    "offend": [
+      "OFFEND_DISESTEEM"
+    ],
+    "offer": [
+      "SELL"
+    ],
+    "offered": [
+      "SELL"
+    ],
+    "offering": [
+      "SELL"
+    ],
+    "offset": [
+      "COMPENSATE"
+    ],
+    "ogle": [
+      "SEE"
+    ],
+    "omit": [
+      "MISS_OMIT_LACK"
+    ],
+    "omits": [
+      "MISS_OMIT_LACK"
+    ],
+    "ooze": [
+      "FLOW"
+    ],
+    "open": [
+      "BEGIN",
+      "OPEN"
+    ],
+    "opening": [
+      "OPEN"
+    ],
+    "operate": [
+      "OPERATE"
+    ],
+    "operating": [
+      "OPERATE"
+    ],
+    "opine": [
+      "SPEAK"
+    ],
+    "oppose": [
+      "RESIST"
+    ],
+    "opt": [
+      "CHOOSE"
+    ],
+    "orchestrate": [
+      "ORGANIZE"
+    ],
+    "ordain": [
+      "ORDER"
+    ],
+    "order": [
+      "ASK_REQUEST",
+      "ORDER"
+    ],
+    "organize": [
+      "ORGANIZE"
+    ],
+    "orient": [
+      "ORIENT"
+    ],
+    "originate": [
+      "BEGIN"
+    ],
+    "orphan": [
+      "STEAL_DEPRIVE"
+    ],
+    "oust": [
+      "DISMISS_FIRE-SMN"
+    ],
+    "outbid": [
+      "BID"
+    ],
+    "outdo": [
+      "OVERCOME_SURPASS"
+    ],
+    "outfit": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "outflank": [
+      "OVERCOME_SURPASS"
+    ],
+    "outgrow": [
+      "OVERCOME_SURPASS"
+    ],
+    "outlast": [
+      "OVERCOME_SURPASS"
+    ],
+    "outlaw": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "outline": [
+      "SUMMARIZE"
+    ],
+    "outlining": [
+      "SUMMARIZE"
+    ],
+    "outnumber": [
+      "OVERCOME_SURPASS"
+    ],
+    "outpace": [
+      "OVERCOME_SURPASS"
+    ],
+    "outrage": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "outsell": [
+      "OVERCOME_SURPASS"
+    ],
+    "outshine": [
+      "OVERCOME_SURPASS"
+    ],
+    "outsold": [
+      "OVERCOME_SURPASS"
+    ],
+    "outstrip": [
+      "OVERCOME_SURPASS"
+    ],
+    "outweigh": [
+      "OVERCOME_SURPASS"
+    ],
+    "overbid": [
+      "BID",
+      "OVERCOME_SURPASS"
+    ],
+    "overcome": [
+      "OVERCOME_SURPASS"
+    ],
+    "overdose": [
+      "HURT_HARM_ACHE"
+    ],
+    "overemphasize": [
+      "EMPHASIZE"
+    ],
+    "overflow": [
+      "FLOW"
+    ],
+    "overhang": [
+      "HANG"
+    ],
+    "overhaul": [
+      "AMELIORATE"
+    ],
+    "overheat": [
+      "HEAT"
+    ],
+    "overlap": [
+      "OVERLAP"
+    ],
+    "overlay": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "overlook": [
+      "MISS_OMIT_LACK",
+      "ORIENT"
+    ],
+    "overpay": [
+      "PAY"
+    ],
+    "overpower": [
+      "DEFEAT"
+    ],
+    "overprice": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "overreact": [
+      "REACT"
+    ],
+    "override": [
+      "LEAD_GOVERN"
+    ],
+    "overrule": [
+      "DEFEAT"
+    ],
+    "oversee": [
+      "WATCH_LOOK-OUT"
+    ],
+    "overshadow": [
+      "COMPARE"
+    ],
+    "oversimplify": [
+      "SIMPLIFY"
+    ],
+    "oversold": [
+      "SELL"
+    ],
+    "overstate": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "overtake": [
+      "OVERCOME_SURPASS"
+    ],
+    "overtax": [
+      "CHARGE"
+    ],
+    "overthrow": [
+      "DEFEAT"
+    ],
+    "overturn": [
+      "INVERT_REVERSE"
+    ],
+    "overvalue": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "overwhelm": [
+      "OVERCOME_SURPASS"
+    ],
+    "overwork": [
+      "BENEFIT_EXPLOIT"
+    ],
+    "owe": [
+      "PAY"
+    ],
+    "own": [
+      "POSSESS"
+    ],
+    "pace": [
+      "MOVE-ONESELF"
+    ],
+    "pacify": [
+      "MAKE-RELAX"
+    ],
+    "pack": [
+      "AMASS",
+      "PRESS_PUSH_FOLD"
+    ],
+    "package": [
+      "INSERT"
+    ],
+    "packing": [
+      "AMASS"
+    ],
+    "paint": [
+      "PAINT"
+    ],
+    "pair": [
+      "JOIN_CONNECT"
+    ],
+    "pale": [
+      "COLOR"
+    ],
+    "palm": [
+      "SELL"
+    ],
+    "pamper": [
+      "TREAT"
+    ],
+    "pan": [
+      "ACHIEVE",
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "panic": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "parachute": [
+      "FALL_SLIDE-DOWN"
+    ],
+    "parallel": [
+      "MATCH"
+    ],
+    "paralyze": [
+      "STOP"
+    ],
+    "parcel": [
+      "GIVE_GIFT"
+    ],
+    "pardon": [
+      "PARDON"
+    ],
+    "pare": [
+      "REDUCE_DIMINISH"
+    ],
+    "park": [
+      "MOVE-SOMETHING"
+    ],
+    "parry": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "part": [
+      "DISBAND_BREAK-UP"
+    ],
+    "partake": [
+      "SHARE"
+    ],
+    "participate": [
+      "PARTICIPATE"
+    ],
+    "pass": [
+      "ACHIEVE",
+      "AUTHORIZE_ADMIT",
+      "CHANGE-HANDS",
+      "GIVE_GIFT",
+      "HAPPEN_OCCUR",
+      "LEAVE-BEHIND",
+      "MISS_OMIT_LACK",
+      "OVERCOME_SURPASS",
+      "REFUSE",
+      "SUBJECTIVE-JUDGING"
+    ],
+    "pasteurize": [
+      "HEAT"
+    ],
+    "patch": [
+      "REPAIR_REMEDY"
+    ],
+    "patent": [
+      "POSSESS"
+    ],
+    "patrol": [
+      "WATCH_LOOK-OUT"
+    ],
+    "patronize": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "patronizing": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "pattern": [
+      "SHAPE"
+    ],
+    "pause": [
+      "STOP"
+    ],
+    "pave": [
+      "PREPARE"
+    ],
+    "pawn": [
+      "SELL"
+    ],
+    "pay": [
+      "ACHIEVE",
+      "PAY"
+    ],
+    "pays": [
+      "ACHIEVE"
+    ],
+    "peak": [
+      "REACH"
+    ],
+    "peck": [
+      "EAT_BITE"
+    ],
+    "pedal": [
+      "MOVE-BY-MEANS-OF"
+    ],
+    "peddle": [
+      "SELL"
+    ],
+    "peddling": [
+      "SELL"
+    ],
+    "peek": [
+      "SEE"
+    ],
+    "peel": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "peer": [
+      "SEARCH"
+    ],
+    "peg": [
+      "COMPENSATE"
+    ],
+    "pen": [
+      "WRITE"
+    ],
+    "penalize": [
+      "PUNISH"
+    ],
+    "penetrate": [
+      "ENTER"
+    ],
+    "perceive": [
+      "PERCEIVE"
+    ],
+    "perch": [
+      "LIE"
+    ],
+    "perfect": [
+      "AMELIORATE"
+    ],
+    "perform": [
+      "PERFORM"
+    ],
+    "perk": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "permeate": [
+      "AFFECT"
+    ],
+    "permit": [
+      "AUTHORIZE_ADMIT"
+    ],
+    "perpetrate": [
+      "VIOLATE"
+    ],
+    "perpetuate": [
+      "CONTINUE"
+    ],
+    "persecute": [
+      "HURT_HARM_ACHE"
+    ],
+    "persist": [
+      "CONTINUE"
+    ],
+    "personalize": [
+      "CHANGE_SWITCH"
+    ],
+    "persuade": [
+      "PERSUADE"
+    ],
+    "perturb": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "peruse": [
+      "ANALYZE"
+    ],
+    "pester": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "petition": [
+      "ASK_REQUEST"
+    ],
+    "phase": [
+      "FINISH_CONCLUDE_END"
+    ],
+    "phone": [
+      "COMMUNICATE_CONTACT"
+    ],
+    "photograph": [
+      "RECORD"
+    ],
+    "pick": [
+      "BUY",
+      "CHOOSE",
+      "CONTINUE",
+      "HIT",
+      "INCREASE_ENLARGE_MULTIPLY",
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "picture": [
+      "SHOW"
+    ],
+    "piece": [
+      "JOIN_CONNECT"
+    ],
+    "piggyback": [
+      "CARRY_TRANSPORT"
+    ],
+    "pile": [
+      "AMASS",
+      "GO-FORWARD"
+    ],
+    "pillory": [
+      "JOKE"
+    ],
+    "pin": [
+      "ATTACH"
+    ],
+    "pinch": [
+      "PRESS_PUSH_FOLD"
+    ],
+    "ping": [
+      "MAKE-A-SOUND"
+    ],
+    "pinpoint": [
+      "DECIDE_DETERMINE"
+    ],
+    "pioneer": [
+      "ESTABLISH"
+    ],
+    "pipe": [
+      "CARRY_TRANSPORT"
+    ],
+    "pirate": [
+      "STEAL_DEPRIVE"
+    ],
+    "pit": [
+      "FACE_CHALLENGE"
+    ],
+    "pitch": [
+      "ADJUST_CORRECT",
+      "ALLY_ASSOCIATE_MARRY",
+      "PUBLICIZE",
+      "THROW"
+    ],
+    "placate": [
+      "MAKE-RELAX"
+    ],
+    "place": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "plague": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "plan": [
+      "PLAN_SCHEDULE"
+    ],
+    "planning": [
+      "PLAN_SCHEDULE"
+    ],
+    "plant": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "play": [
+      "DOWNPLAY_HUMILIATE",
+      "EMPHASIZE",
+      "FACE_CHALLENGE",
+      "FINISH_CONCLUDE_END",
+      "FLATTER",
+      "PERFORM",
+      "PLAY_SPORT/GAME"
+    ],
+    "plead": [
+      "ASK_REQUEST",
+      "DECREE_DECLARE"
+    ],
+    "please": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "pleasing": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "pledge": [
+      "GUARANTEE_ENSURE_PROMISE"
+    ],
+    "plot": [
+      "PLAN_SCHEDULE"
+    ],
+    "plow": [
+      "GROW_PLOW"
+    ],
+    "pluck": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "plug": [
+      "INSERT",
+      "PUBLICIZE",
+      "STOP"
+    ],
+    "plummet": [
+      "REDUCE_DIMINISH"
+    ],
+    "plunge": [
+      "DIP_DIVE",
+      "REDUCE_DIMINISH"
+    ],
+    "plunging": [
+      "REDUCE_DIMINISH"
+    ],
+    "ply": [
+      "OPEN",
+      "WORK"
+    ],
+    "poach": [
+      "HUNT"
+    ],
+    "pocket": [
+      "STEAL_DEPRIVE"
+    ],
+    "pockmark": [
+      "HURT_HARM_ACHE"
+    ],
+    "point": [
+      "DIRECT_AIM_MANEUVER",
+      "SIGNAL_INDICATE"
+    ],
+    "poise": [
+      "COMPENSATE"
+    ],
+    "poison": [
+      "GIVE_GIFT"
+    ],
+    "poke": [
+      "HOLE_PIERCE",
+      "SEARCH"
+    ],
+    "police": [
+      "WATCH_LOOK-OUT"
+    ],
+    "polish": [
+      "WASH_CLEAN"
+    ],
+    "polishing": [
+      "WASH_CLEAN"
+    ],
+    "politicize": [
+      "CHANGE_SWITCH"
+    ],
+    "poll": [
+      "ASK_REQUEST"
+    ],
+    "pollinate": [
+      "HAVE-SEX"
+    ],
+    "pollute": [
+      "DIRTY"
+    ],
+    "ponder": [
+      "THINK"
+    ],
+    "pontificate": [
+      "SPEAK"
+    ],
+    "pool": [
+      "COMBINE_MIX_UNITE"
+    ],
+    "pop": [
+      "APPEAR",
+      "EXPLODE",
+      "MOVE-SOMETHING"
+    ],
+    "popularize": [
+      "INFORM"
+    ],
+    "populate": [
+      "POPULATE"
+    ],
+    "pore": [
+      "FOCUS"
+    ],
+    "portend": [
+      "SIGNAL_INDICATE"
+    ],
+    "portray": [
+      "REPRESENT"
+    ],
+    "pose": [
+      "CREATE_MATERIALIZE",
+      "DECEIVE"
+    ],
+    "position": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "possess": [
+      "EXIST-WITH-FEATURE"
+    ],
+    "post": [
+      "RECORD"
+    ],
+    "postmark": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "postmarked": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "postpone": [
+      "DELAY"
+    ],
+    "posturing": [
+      "BEHAVE"
+    ],
+    "pounce": [
+      "GO-FORWARD"
+    ],
+    "pound": [
+      "HIT"
+    ],
+    "pour": [
+      "SPILL_POUR"
+    ],
+    "power": [
+      "OPERATE"
+    ],
+    "practice": [
+      "TRY"
+    ],
+    "praise": [
+      "APPROVE_PRAISE"
+    ],
+    "prance": [
+      "MOVE-ONESELF"
+    ],
+    "pray": [
+      "SPEAK"
+    ],
+    "pre-empted": [
+      "REACT"
+    ],
+    "preach": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "preaching": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "prearrange": [
+      "PLAN_SCHEDULE"
+    ],
+    "precede": [
+      "PRECEDE"
+    ],
+    "preceding": [
+      "PRECEDE"
+    ],
+    "precipitate": [
+      "WORSEN"
+    ],
+    "preclude": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "predate": [
+      "PRECEDE"
+    ],
+    "predetermine": [
+      "INFLUENCE"
+    ],
+    "predict": [
+      "GUESS"
+    ],
+    "predispose": [
+      "PREPARE"
+    ],
+    "prefer": [
+      "CHOOSE"
+    ],
+    "premiere": [
+      "SHOW"
+    ],
+    "preoccupy": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "prepare": [
+      "ORGANIZE",
+      "PREPARE"
+    ],
+    "prepay": [
+      "PAY"
+    ],
+    "presage": [
+      "GUESS"
+    ],
+    "prescribe": [
+      "GIVE_GIFT",
+      "ORDER"
+    ],
+    "present": [
+      "GIVE_GIFT"
+    ],
+    "preserve": [
+      "PRESERVE"
+    ],
+    "preside": [
+      "MANAGE"
+    ],
+    "press": [
+      "OBLIGE_FORCE",
+      "PRESS_PUSH_FOLD"
+    ],
+    "pressure": [
+      "INFLUENCE",
+      "OBLIGE_FORCE"
+    ],
+    "presume": [
+      "SUPPOSE"
+    ],
+    "pretend": [
+      "DECEIVE"
+    ],
+    "prevail": [
+      "CONTINUE",
+      "WIN"
+    ],
+    "prevent": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "preview": [
+      "SEE"
+    ],
+    "prey": [
+      "BENEFIT_EXPLOIT"
+    ],
+    "price": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "pricing": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "prime": [
+      "PREPARE"
+    ],
+    "print": [
+      "PRINT"
+    ],
+    "privatize": [
+      "SELL"
+    ],
+    "prize": [
+      "LIKE"
+    ],
+    "probe": [
+      "ANALYZE"
+    ],
+    "proceed": [
+      "CONTINUE"
+    ],
+    "proceeds": [
+      "CONTINUE"
+    ],
+    "process": [
+      "PREPARE"
+    ],
+    "processing": [
+      "PREPARE"
+    ],
+    "proclaim": [
+      "SPEAK"
+    ],
+    "prod": [
+      "INCITE_INDUCE"
+    ],
+    "produce": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "profess": [
+      "DECREE_DECLARE"
+    ],
+    "proffer": [
+      "GIVE_GIFT"
+    ],
+    "profile": [
+      "REPRESENT"
+    ],
+    "profit": [
+      "BENEFIT_EXPLOIT"
+    ],
+    "profiteer": [
+      "BENEFIT_EXPLOIT"
+    ],
+    "program": [
+      "CREATE_MATERIALIZE"
+    ],
+    "programming": [
+      "CREATE_MATERIALIZE"
+    ],
+    "progress": [
+      "MOVE-SOMETHING"
+    ],
+    "prohibit": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "project": [
+      "DIRECT_AIM_MANEUVER",
+      "IMAGINE"
+    ],
+    "proliferate": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "prolong": [
+      "EXTEND"
+    ],
+    "prolonged": [
+      "EXTEND"
+    ],
+    "promise": [
+      "GUARANTEE_ENSURE_PROMISE"
+    ],
+    "promote": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND",
+      "PROMOTE"
+    ],
+    "prompt": [
+      "INCITE_INDUCE",
+      "PERSUADE"
+    ],
+    "promulgate": [
+      "SPEAK"
+    ],
+    "pronounce": [
+      "PRONOUNCE"
+    ],
+    "proofread": [
+      "VERIFY"
+    ],
+    "prop": [
+      "STABILIZE_SUPPORT-PHYSICALLY"
+    ],
+    "propel": [
+      "MOVE-SOMETHING"
+    ],
+    "propose": [
+      "PROPOSE"
+    ],
+    "prosecute": [
+      "ACCUSE"
+    ],
+    "prosper": [
+      "AMELIORATE"
+    ],
+    "protect": [
+      "PROTECT"
+    ],
+    "protest": [
+      "OPPOSE_REBEL_DISSENT"
+    ],
+    "prove": [
+      "PROVE"
+    ],
+    "provide": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "provoke": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "prune": [
+      "CUT"
+    ],
+    "publicize": [
+      "SPEAK"
+    ],
+    "publish": [
+      "PUBLISH"
+    ],
+    "publishing": [
+      "PUBLISH"
+    ],
+    "pull": [
+      "ATTRACT_SUCK",
+      "CARRY-OUT-ACTION",
+      "LEAVE_DEPART_RUN-AWAY",
+      "OVERCOME_SURPASS",
+      "PULL",
+      "TURN_CHANGE-DIRECTION"
+    ],
+    "pulverize": [
+      "BREAK_DETERIORATE"
+    ],
+    "pummel": [
+      "HIT"
+    ],
+    "pump": [
+      "FILL",
+      "LOAD_PROVIDE_CHARGE_FURNISH",
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "punch": [
+      "HIT"
+    ],
+    "punching": [
+      "HIT"
+    ],
+    "punish": [
+      "PUNISH"
+    ],
+    "purchase": [
+      "BUY"
+    ],
+    "purchasing": [
+      "BUY"
+    ],
+    "purge": [
+      "EXCRETE"
+    ],
+    "purport": [
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "purr": [
+      "MAKE-A-SOUND"
+    ],
+    "pursue": [
+      "FOLLOW-IN-SPACE"
+    ],
+    "push": [
+      "DEVELOP_AGE",
+      "MOVE-SOMETHING",
+      "PERSUADE"
+    ],
+    "put": [
+      "CAUSE-MENTAL-STATE",
+      "DELAY",
+      "PAY",
+      "PERFORM",
+      "PUBLISH",
+      "PUT_APPLY_PLACE_PAVE",
+      "RETAIN_KEEP_SAVE-MONEY",
+      "SPEAK",
+      "TOLERATE"
+    ],
+    "puzzle": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "pyramid": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "quack": [
+      "MAKE-A-SOUND"
+    ],
+    "quadruple": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "qualify": [
+      "EXIST-WITH-FEATURE"
+    ],
+    "quantify": [
+      "MEASURE_EVALUATE"
+    ],
+    "quarrel": [
+      "QUARREL_POLEMICIZE"
+    ],
+    "quash": [
+      "CANCEL_ELIMINATE"
+    ],
+    "quell": [
+      "SUBJUGATE"
+    ],
+    "query": [
+      "ASK_REQUEST"
+    ],
+    "question": [
+      "ASK_REQUEST"
+    ],
+    "quibble": [
+      "ARGUE-IN-DEFENSE"
+    ],
+    "quiet": [
+      "MAKE-RELAX"
+    ],
+    "quip": [
+      "JOKE"
+    ],
+    "quit": [
+      "RESIGN_RETIRE"
+    ],
+    "quiz": [
+      "VERIFY"
+    ],
+    "quote": [
+      "CITE"
+    ],
+    "race": [
+      "COMPETE",
+      "RUN"
+    ],
+    "rack": [
+      "BUY"
+    ],
+    "radio": [
+      "TRANSMIT"
+    ],
+    "rage": [
+      "ATTACK_BOMB"
+    ],
+    "raid": [
+      "ATTACK_BOMB"
+    ],
+    "rails": [
+      "OPPOSE_REBEL_DISSENT"
+    ],
+    "rain": [
+      "METEOROLOGICAL"
+    ],
+    "raise": [
+      "GROUP",
+      "RAISE"
+    ],
+    "rake": [
+      "GROUP",
+      "OBTAIN"
+    ],
+    "rally": [
+      "AMASS",
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "ram": [
+      "HIT"
+    ],
+    "ramble": [
+      "TRAVEL"
+    ],
+    "ramp": [
+      "STRENGTHEN_MAKE-RESISTANT"
+    ],
+    "range": [
+      "MOVE-ONESELF"
+    ],
+    "rank": [
+      "SUBJECTIVE-JUDGING"
+    ],
+    "rankle": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "rape": [
+      "ATTACK_BOMB"
+    ],
+    "rat": [
+      "BETRAY"
+    ],
+    "rate": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "rates": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "ratify": [
+      "APPROVE_PRAISE"
+    ],
+    "rationalize": [
+      "JUSTIFY_EXCUSE"
+    ],
+    "rattle": [
+      "MAKE-A-SOUND",
+      "MOVE-ONESELF"
+    ],
+    "ravage": [
+      "DESTROY"
+    ],
+    "rave": [
+      "SPEAK"
+    ],
+    "raze": [
+      "FLATTEN_SMOOTHEN"
+    ],
+    "re": [
+      "CHOOSE",
+      "CREATE_MATERIALIZE",
+      "ENTER",
+      "MEASURE_EVALUATE"
+    ],
+    "reach": [
+      "ARRIVE",
+      "EXTEND",
+      "REACH"
+    ],
+    "react": [
+      "REACT"
+    ],
+    "read": [
+      "READ"
+    ],
+    "reading": [
+      "READ"
+    ],
+    "readmit": [
+      "AUTHORIZE_ADMIT"
+    ],
+    "reaffirm": [
+      "AFFIRM"
+    ],
+    "realign": [
+      "ADJUST_CORRECT"
+    ],
+    "realize": [
+      "CREATE_MATERIALIZE",
+      "UNDERSTAND"
+    ],
+    "reap": [
+      "OBTAIN"
+    ],
+    "reapportion": [
+      "CIRCULATE_SPREAD_DISTRIBUTE"
+    ],
+    "reappraise": [
+      "MEASURE_EVALUATE"
+    ],
+    "rear": [
+      "DEVELOP_AGE"
+    ],
+    "rearing": [
+      "DEVELOP_AGE"
+    ],
+    "rearm": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "rearrange": [
+      "SORT_CLASSIFY_ARRANGE"
+    ],
+    "reason": [
+      "INFER"
+    ],
+    "reassert": [
+      "AFFIRM"
+    ],
+    "reassess": [
+      "THINK"
+    ],
+    "reassign": [
+      "ASSIGN-smt-to-smn"
+    ],
+    "reassure": [
+      "MAKE-RELAX"
+    ],
+    "reawakening": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "rebound": [
+      "MOVE-BACK"
+    ],
+    "rebuff": [
+      "REFUSE"
+    ],
+    "rebuild": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "rebut": [
+      "DISCUSS"
+    ],
+    "recalculate": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "recall": [
+      "RECALL",
+      "REMEMBER"
+    ],
+    "recant": [
+      "SPEAK"
+    ],
+    "recapture": [
+      "CATCH"
+    ],
+    "receive": [
+      "RECEIVE"
+    ],
+    "recess": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "recharge": [
+      "FUEL"
+    ],
+    "recite": [
+      "SPEAK"
+    ],
+    "reckon": [
+      "SUBJECTIVE-JUDGING",
+      "TAKE-INTO-ACCOUNT_CONSIDER"
+    ],
+    "reckoning": [
+      "SUBJECTIVE-JUDGING"
+    ],
+    "reclaim": [
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "reclassify": [
+      "SORT_CLASSIFY_ARRANGE"
+    ],
+    "recognize": [
+      "APPROVE_PRAISE",
+      "UNDERSTAND"
+    ],
+    "recommend": [
+      "PROPOSE"
+    ],
+    "reconcile": [
+      "SETTLE_CONCILIATE"
+    ],
+    "reconsider": [
+      "CONSIDER"
+    ],
+    "reconstruct": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "record": [
+      "RECORD"
+    ],
+    "recording": [
+      "RECORD"
+    ],
+    "recount": [
+      "SPEAK"
+    ],
+    "recoup": [
+      "OBTAIN"
+    ],
+    "recover": [
+      "HELP_HEAL_CARE_CURE",
+      "OBTAIN"
+    ],
+    "recreate": [
+      "CREATE_MATERIALIZE"
+    ],
+    "recruit": [
+      "HIRE"
+    ],
+    "recruiting": [
+      "HIRE"
+    ],
+    "rectify": [
+      "ADJUST_CORRECT"
+    ],
+    "recur": [
+      "HAPPEN_OCCUR"
+    ],
+    "recycle": [
+      "USE"
+    ],
+    "reddened": [
+      "COLOR"
+    ],
+    "redeem": [
+      "PAY"
+    ],
+    "redefine": [
+      "NAME"
+    ],
+    "redesign": [
+      "CREATE_MATERIALIZE"
+    ],
+    "redevelop": [
+      "CREATE_MATERIALIZE"
+    ],
+    "redirect": [
+      "DIRECT_AIM_MANEUVER"
+    ],
+    "rediscover": [
+      "FIND"
+    ],
+    "redline": [
+      "SUBJECTIVE-JUDGING"
+    ],
+    "redo": [
+      "REPEAT"
+    ],
+    "redouble": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "redound": [
+      "MOVE-BACK"
+    ],
+    "reduce": [
+      "REDUCE_DIMINISH"
+    ],
+    "reel": [
+      "CAUSE-MENTAL-STATE",
+      "SPEAK"
+    ],
+    "reestablish": [
+      "RESTORE-TO-PREVIOUS/INITIAL-STATE_UNDO_UNWIND"
+    ],
+    "reexamine": [
+      "ANALYZE"
+    ],
+    "refashion": [
+      "RENEW"
+    ],
+    "refer": [
+      "NAME",
+      "SEND"
+    ],
+    "refinance": [
+      "PAY",
+      "REPEAT"
+    ],
+    "refine": [
+      "AMELIORATE"
+    ],
+    "reflect": [
+      "REFLECT"
+    ],
+    "refocus": [
+      "FOCUS"
+    ],
+    "refocuses": [
+      "FOCUS"
+    ],
+    "reform": [
+      "AMELIORATE"
+    ],
+    "reformulate": [
+      "AMELIORATE"
+    ],
+    "refrain": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "refund": [
+      "GIVE_GIFT"
+    ],
+    "refunding": [
+      "GIVE_GIFT"
+    ],
+    "refurbish": [
+      "EMBELLISH"
+    ],
+    "refuse": [
+      "REFUSE"
+    ],
+    "refute": [
+      "PROVE"
+    ],
+    "regain": [
+      "OBTAIN"
+    ],
+    "regard": [
+      "SUBJECTIVE-JUDGING"
+    ],
+    "regenerate": [
+      "CREATE_MATERIALIZE"
+    ],
+    "register": [
+      "RECORD"
+    ],
+    "regret": [
+      "REGRET_SORRY"
+    ],
+    "regrets": [
+      "REGRET_SORRY"
+    ],
+    "regroup": [
+      "SORT_CLASSIFY_ARRANGE"
+    ],
+    "regulate": [
+      "ADJUST_CORRECT"
+    ],
+    "rehash": [
+      "DISCUSS"
+    ],
+    "reign": [
+      "LEAD_GOVERN"
+    ],
+    "reignite": [
+      "BURN"
+    ],
+    "reimburse": [
+      "PAY"
+    ],
+    "reimpose": [
+      "CHARGE"
+    ],
+    "rein": [
+      "STOP"
+    ],
+    "reinforce": [
+      "STRENGTHEN_MAKE-RESISTANT"
+    ],
+    "reinstall": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "reinstate": [
+      "RESTORE-TO-PREVIOUS/INITIAL-STATE_UNDO_UNWIND"
+    ],
+    "reintegrate": [
+      "ADD"
+    ],
+    "reintroduce": [
+      "BRING"
+    ],
+    "reinvigorate": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "reiterate": [
+      "REPEAT"
+    ],
+    "reject": [
+      "REFUSE"
+    ],
+    "rejoin": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "rejoins": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "rejuvenate": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "rekindle": [
+      "BURN"
+    ],
+    "relate": [
+      "CORRELATE",
+      "SPEAK"
+    ],
+    "relax": [
+      "MAKE-RELAX"
+    ],
+    "relay": [
+      "SEND"
+    ],
+    "release": [
+      "LIBERATE_ALLOW_AFFORD"
+    ],
+    "relent": [
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "relieve": [
+      "EXEMPT",
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "relinquish": [
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "relish": [
+      "ENJOY"
+    ],
+    "relive": [
+      "UNDERGO-EXPERIENCE"
+    ],
+    "relocate": [
+      "MOVE-SOMETHING"
+    ],
+    "rely": [
+      "RELY"
+    ],
+    "remain": [
+      "REMAIN"
+    ],
+    "remake": [
+      "RENEW"
+    ],
+    "remand": [
+      "DRIVE-BACK"
+    ],
+    "remark": [
+      "SPEAK"
+    ],
+    "remedy": [
+      "ADJUST_CORRECT"
+    ],
+    "remember": [
+      "REMEMBER"
+    ],
+    "remind": [
+      "REMEMBER"
+    ],
+    "remodel": [
+      "RENEW"
+    ],
+    "remodeling": [
+      "RENEW"
+    ],
+    "remove": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "rename": [
+      "NAME"
+    ],
+    "render": [
+      "CHANGE-APPEARANCE/STATE",
+      "PERFORM"
+    ],
+    "rendezvous": [
+      "MEET"
+    ],
+    "renege": [
+      "FAIL_LOSE"
+    ],
+    "renew": [
+      "ESTABLISH"
+    ],
+    "renounce": [
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "renovate": [
+      "REPAIR_REMEDY"
+    ],
+    "rent": [
+      "LEND",
+      "TAKE-A-SERVICE_RENT"
+    ],
+    "reopen": [
+      "OPEN"
+    ],
+    "reorganize": [
+      "ORGANIZE"
+    ],
+    "repaint": [
+      "PAINT"
+    ],
+    "repair": [
+      "REPAIR_REMEDY"
+    ],
+    "repatriate": [
+      "AUTHORIZE_ADMIT"
+    ],
+    "repay": [
+      "PAY"
+    ],
+    "repeal": [
+      "CANCEL_ELIMINATE"
+    ],
+    "repeat": [
+      "REPEAT"
+    ],
+    "repel": [
+      "DRIVE-BACK"
+    ],
+    "replace": [
+      "REPLACE"
+    ],
+    "replenish": [
+      "FILL"
+    ],
+    "replicate": [
+      "REPEAT"
+    ],
+    "reply": [
+      "ANSWER"
+    ],
+    "report": [
+      "INFORM"
+    ],
+    "reposition": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "repossess": [
+      "GIVE_GIFT"
+    ],
+    "represent": [
+      "REPRESENT"
+    ],
+    "repress": [
+      "SUBJUGATE"
+    ],
+    "reprint": [
+      "COPY"
+    ],
+    "reproduce": [
+      "COPY"
+    ],
+    "reputed": [
+      "TREAT"
+    ],
+    "request": [
+      "ASK_REQUEST"
+    ],
+    "require": [
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "requisition": [
+      "ASK_REQUEST"
+    ],
+    "reschedule": [
+      "PLAN_SCHEDULE"
+    ],
+    "rescind": [
+      "GIVE_GIFT"
+    ],
+    "rescue": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "research": [
+      "SEARCH"
+    ],
+    "resell": [
+      "SELL"
+    ],
+    "resemble": [
+      "SEEM"
+    ],
+    "resent": [
+      "DISLIKE"
+    ],
+    "reserve": [
+      "RESERVE"
+    ],
+    "reserved": [
+      "RESERVE"
+    ],
+    "reserves": [
+      "RESERVE"
+    ],
+    "reset": [
+      "RESTORE-TO-PREVIOUS/INITIAL-STATE_UNDO_UNWIND"
+    ],
+    "reshape": [
+      "ESTABLISH"
+    ],
+    "reshuffle": [
+      "MESS"
+    ],
+    "reshuffling": [
+      "MESS"
+    ],
+    "reside": [
+      "STAY_DWELL"
+    ],
+    "resign": [
+      "RESIGN_RETIRE"
+    ],
+    "resist": [
+      "RESIST"
+    ],
+    "resolve": [
+      "DECIDE_DETERMINE",
+      "SETTLE_CONCILIATE"
+    ],
+    "resonate": [
+      "MAKE-A-SOUND"
+    ],
+    "resort": [
+      "RESULT_CONSEQUENCE"
+    ],
+    "respect": [
+      "LIKE"
+    ],
+    "respected": [
+      "LIKE"
+    ],
+    "respects": [
+      "LIKE"
+    ],
+    "respond": [
+      "REACT"
+    ],
+    "rest": [
+      "PUT_APPLY_PLACE_PAVE",
+      "RELY"
+    ],
+    "restart": [
+      "CONTINUE"
+    ],
+    "restate": [
+      "MEASURE_EVALUATE",
+      "REPEAT"
+    ],
+    "restore": [
+      "GIVE_GIFT",
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "restrain": [
+      "RESTRAIN"
+    ],
+    "restrained": [
+      "RESTRAIN"
+    ],
+    "restraining": [
+      "RESTRAIN"
+    ],
+    "restrict": [
+      "RESTRAIN"
+    ],
+    "restructure": [
+      "ORGANIZE"
+    ],
+    "restructuring": [
+      "ORGANIZE"
+    ],
+    "result": [
+      "RESULT_CONSEQUENCE"
+    ],
+    "resume": [
+      "CONTINUE"
+    ],
+    "resurface": [
+      "APPEAR"
+    ],
+    "resurrect": [
+      "MOVE-BACK"
+    ],
+    "resuscitate": [
+      "MOVE-BACK"
+    ],
+    "retail": [
+      "SELL"
+    ],
+    "retailing": [
+      "SELL"
+    ],
+    "retain": [
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "retake": [
+      "GIVE_GIFT"
+    ],
+    "rethink": [
+      "BELIEVE"
+    ],
+    "retire": [
+      "PAY",
+      "RESIGN_RETIRE"
+    ],
+    "retired": [
+      "RESIGN_RETIRE"
+    ],
+    "retool": [
+      "ADJUST_CORRECT"
+    ],
+    "retract": [
+      "RESTORE-TO-PREVIOUS/INITIAL-STATE_UNDO_UNWIND"
+    ],
+    "retrain": [
+      "STUDY"
+    ],
+    "retreat": [
+      "MOVE-BACK",
+      "REDUCE_DIMINISH"
+    ],
+    "retrieve": [
+      "BRING"
+    ],
+    "retrofit": [
+      "AMELIORATE"
+    ],
+    "retry": [
+      "SUBJECTIVE-JUDGING"
+    ],
+    "return": [
+      "GIVE_GIFT",
+      "MOVE-BACK",
+      "RESTORE-TO-PREVIOUS/INITIAL-STATE_UNDO_UNWIND"
+    ],
+    "reunite": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "rev": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "revalue": [
+      "MEASURE_EVALUATE"
+    ],
+    "revamp": [
+      "REPAIR_REMEDY"
+    ],
+    "reveal": [
+      "REVEAL"
+    ],
+    "revel": [
+      "LIKE"
+    ],
+    "reverberate": [
+      "MAKE-A-SOUND"
+    ],
+    "reverse": [
+      "INVERT_REVERSE"
+    ],
+    "revert": [
+      "RESTORE-TO-PREVIOUS/INITIAL-STATE_UNDO_UNWIND"
+    ],
+    "review": [
+      "VERIFY"
+    ],
+    "revise": [
+      "ADJUST_CORRECT"
+    ],
+    "revised": [
+      "ADJUST_CORRECT"
+    ],
+    "revisit": [
+      "VISIT"
+    ],
+    "revitalize": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "revive": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "revoke": [
+      "CANCEL_ELIMINATE"
+    ],
+    "revolutionize": [
+      "CHANGE_SWITCH"
+    ],
+    "revolve": [
+      "TRAVEL"
+    ],
+    "reward": [
+      "GIVE_GIFT"
+    ],
+    "rework": [
+      "AMELIORATE"
+    ],
+    "rewrite": [
+      "WRITE"
+    ],
+    "rhyme": [
+      "MATCH"
+    ],
+    "rid": [
+      "CANCEL_ELIMINATE"
+    ],
+    "ride": [
+      "CANCEL_ELIMINATE",
+      "MOVE-BY-MEANS-OF",
+      "OVERCOME_SURPASS"
+    ],
+    "ridicule": [
+      "JOKE"
+    ],
+    "rig": [
+      "MOUNT_ASSEMBLE_PRODUCE"
+    ],
+    "right": [
+      "ADJUST_CORRECT"
+    ],
+    "rile": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "rim": [
+      "LIE"
+    ],
+    "ring": [
+      "ENCLOSE_WRAP",
+      "PERFORM",
+      "RECORD"
+    ],
+    "rip": [
+      "CUT",
+      "STEAL_DEPRIVE",
+      "TRAVEL"
+    ],
+    "ripen": [
+      "GROW_PLOW"
+    ],
+    "ripple": [
+      "MOVE-SOMETHING"
+    ],
+    "rise": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "risk": [
+      "RISK"
+    ],
+    "rival": [
+      "COMPETE"
+    ],
+    "rivet": [
+      "FOCUS"
+    ],
+    "roam": [
+      "TRAVEL"
+    ],
+    "roar": [
+      "GO-FORWARD"
+    ],
+    "roaring": [
+      "GO-FORWARD"
+    ],
+    "rob": [
+      "STEAL_DEPRIVE"
+    ],
+    "rock": [
+      "MOVE-ONESELF"
+    ],
+    "rocket": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "rode": [
+      "MOVE-BY-MEANS-OF"
+    ],
+    "roil": [
+      "MOVE-ONESELF"
+    ],
+    "roll": [
+      "INSERT",
+      "ROLL"
+    ],
+    "romance": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "romp": [
+      "RUN"
+    ],
+    "roost": [
+      "LIE"
+    ],
+    "root": [
+      "EXTRACT",
+      "GROUND_BASE_FOUND"
+    ],
+    "rot": [
+      "DESTROY"
+    ],
+    "rotate": [
+      "ALTERNATE",
+      "TURN_CHANGE-DIRECTION"
+    ],
+    "round": [
+      "FINISH_CONCLUDE_END",
+      "GROUP"
+    ],
+    "route": [
+      "SEND"
+    ],
+    "row": [
+      "MOVE-SOMETHING"
+    ],
+    "rub": [
+      "TOUCH"
+    ],
+    "ruffle": [
+      "MOVE-ONESELF"
+    ],
+    "ruin": [
+      "DESTROY"
+    ],
+    "rule": [
+      "DECREE_DECLARE",
+      "LEAD_GOVERN",
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "ruling": [
+      "DECREE_DECLARE",
+      "LEAD_GOVERN"
+    ],
+    "rumble": [
+      "MAKE-A-SOUND"
+    ],
+    "ruminate": [
+      "THINK"
+    ],
+    "rumor": [
+      "SPEAK"
+    ],
+    "run": [
+      "AMASS",
+      "CONSUME_SPEND",
+      "EXTEND",
+      "MEET",
+      "OPERATE",
+      "RUN",
+      "SHOW"
+    ],
+    "rupture": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "rush": [
+      "RUN"
+    ],
+    "rusticate": [
+      "CHANGE-APPEARANCE/STATE"
+    ],
+    "sabotage": [
+      "DESTROY"
+    ],
+    "sack": [
+      "DISMISS_FIRE-SMN"
+    ],
+    "sacrifice": [
+      "GIVE_GIFT"
+    ],
+    "saddle": [
+      "BURDEN_BEAR"
+    ],
+    "safeguard": [
+      "PROTECT"
+    ],
+    "sag": [
+      "FALL_SLIDE-DOWN"
+    ],
+    "said": [
+      "AFFIRM"
+    ],
+    "sail": [
+      "MOVE-BY-MEANS-OF"
+    ],
+    "sailing": [
+      "MOVE-BY-MEANS-OF"
+    ],
+    "salute": [
+      "APPROVE_PRAISE"
+    ],
+    "salvage": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "sample": [
+      "TRY"
+    ],
+    "sanction": [
+      "APPROVE_PRAISE"
+    ],
+    "sandwich": [
+      "INSERT"
+    ],
+    "sanitize": [
+      "WASH_CLEAN"
+    ],
+    "sap": [
+      "CONSUME_SPEND"
+    ],
+    "satisfy": [
+      "CAUSE-MENTAL-STATE",
+      "PERSUADE"
+    ],
+    "saturate": [
+      "FILL"
+    ],
+    "save": [
+      "HELP_HEAL_CARE_CURE",
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "savor": [
+      "ENJOY"
+    ],
+    "saw": [
+      "SEE"
+    ],
+    "say": [
+      "AFFIRM"
+    ],
+    "scale": [
+      "CHANGE-APPEARANCE/STATE",
+      "RAISE"
+    ],
+    "scamper": [
+      "RUN"
+    ],
+    "scan": [
+      "ANALYZE"
+    ],
+    "scandalize": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "scare": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "scarf": [
+      "EAT_BITE"
+    ],
+    "scatter": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "schedule": [
+      "PLAN_SCHEDULE"
+    ],
+    "scoff": [
+      "LAUGH"
+    ],
+    "scold": [
+      "REPRIMAND"
+    ],
+    "scoop": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "scoot": [
+      "RUN"
+    ],
+    "score": [
+      "CREATE_MATERIALIZE",
+      "SCORE"
+    ],
+    "scorn": [
+      "DISLIKE"
+    ],
+    "scotch": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "scour": [
+      "SEARCH"
+    ],
+    "scout": [
+      "SEARCH"
+    ],
+    "scowl": [
+      "FACIAL-EXPRESSION"
+    ],
+    "scramble": [
+      "RUN",
+      "TRY"
+    ],
+    "scrap": [
+      "DISCARD",
+      "QUARREL_POLEMICIZE"
+    ],
+    "scraps": [
+      "DISCARD"
+    ],
+    "scratch": [
+      "CORRODE_WEAR-AWAY_SCRATCH",
+      "SEARCH",
+      "WRITE"
+    ],
+    "scream": [
+      "SPEAK"
+    ],
+    "screech": [
+      "MAKE-A-SOUND",
+      "STOP"
+    ],
+    "screen": [
+      "ANALYZE",
+      "PROTECT",
+      "SHOW"
+    ],
+    "screw": [
+      "MESS"
+    ],
+    "scribble": [
+      "WRITE"
+    ],
+    "scrimp": [
+      "CONTINUE"
+    ],
+    "scrounge": [
+      "SEARCH"
+    ],
+    "scrutinize": [
+      "ANALYZE"
+    ],
+    "scurry": [
+      "RUN"
+    ],
+    "scuttle": [
+      "DIP_DIVE",
+      "RUN"
+    ],
+    "seal": [
+      "CLOSE"
+    ],
+    "search": [
+      "SEARCH"
+    ],
+    "seat": [
+      "ASSIGN-smt-to-smn"
+    ],
+    "seats": [
+      "ASSIGN-smt-to-smn"
+    ],
+    "secure": [
+      "GUARANTEE_ENSURE_PROMISE",
+      "OBTAIN"
+    ],
+    "seduce": [
+      "PERSUADE"
+    ],
+    "see": [
+      "ACCOMPANY",
+      "DISCOURSE-FUNCTION",
+      "SEE",
+      "VERIFY"
+    ],
+    "seed": [
+      "BURY_PLANT"
+    ],
+    "seek": [
+      "SEARCH"
+    ],
+    "seem": [
+      "SEEM"
+    ],
+    "seems": [
+      "SEEM"
+    ],
+    "seep": [
+      "FLOW"
+    ],
+    "seethe": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "segregate": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "seize": [
+      "CATCH"
+    ],
+    "select": [
+      "CHOOSE"
+    ],
+    "sell": [
+      "BETRAY",
+      "SELL"
+    ],
+    "selling": [
+      "SELL"
+    ],
+    "send": [
+      "ASK_REQUEST",
+      "DIRECT_AIM_MANEUVER",
+      "INCITE_INDUCE",
+      "SEND"
+    ],
+    "sense": [
+      "PERCEIVE"
+    ],
+    "sensitize": [
+      "TEACH"
+    ],
+    "sentence": [
+      "DECREE_DECLARE"
+    ],
+    "separate": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "separated": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "sequester": [
+      "ISOLATE"
+    ],
+    "serve": [
+      "GIVE_GIFT",
+      "NOURISH_FEED",
+      "WORK"
+    ],
+    "service": [
+      "HAVE-A-FUNCTION_SERVE"
+    ],
+    "services": [
+      "HAVE-A-FUNCTION_SERVE"
+    ],
+    "servicing": [
+      "HAVE-A-FUNCTION_SERVE"
+    ],
+    "set": [
+      "ESTABLISH",
+      "EXPLODE",
+      "LEAVE_DEPART_RUN-AWAY",
+      "PREPARE",
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "settle": [
+      "FINISH_CONCLUDE_END",
+      "SETTLE_CONCILIATE"
+    ],
+    "settling": [
+      "SETTLE_CONCILIATE"
+    ],
+    "sever": [
+      "CUT"
+    ],
+    "shadow": [
+      "FOLLOW-IN-SPACE"
+    ],
+    "shag": [
+      "CATCH"
+    ],
+    "shake": [
+      "DISCARD",
+      "MOVE-ONESELF"
+    ],
+    "shape": [
+      "AMELIORATE",
+      "SEEM",
+      "SHAPE"
+    ],
+    "share": [
+      "SHARE"
+    ],
+    "sharpen": [
+      "SHARPEN"
+    ],
+    "shatter": [
+      "BREAK_DETERIORATE"
+    ],
+    "shave": [
+      "CUT"
+    ],
+    "shear": [
+      "CUT"
+    ],
+    "shed": [
+      "DISCARD",
+      "REDUCE_DIMINISH"
+    ],
+    "shell": [
+      "ATTACK_BOMB",
+      "GIVE_GIFT"
+    ],
+    "shelter": [
+      "TAKE-SHELTER"
+    ],
+    "shelve": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "shepherd": [
+      "WATCH_LOOK-OUT"
+    ],
+    "shield": [
+      "PROTECT"
+    ],
+    "shift": [
+      "CHANGE_SWITCH"
+    ],
+    "shimmer": [
+      "GO-FORWARD"
+    ],
+    "shine": [
+      "EXIST-WITH-FEATURE",
+      "LIGHT_SHINE"
+    ],
+    "shining": [
+      "LIGHT_SHINE"
+    ],
+    "ship": [
+      "CARRY_TRANSPORT"
+    ],
+    "shirk": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "shiver": [
+      "MOVE-ONESELF"
+    ],
+    "shock": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "shocked": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "shoehorn": [
+      "PREPARE"
+    ],
+    "shook": [
+      "MOVE-ONESELF"
+    ],
+    "shoot": [
+      "ANSWER",
+      "KILL",
+      "KNOCK-DOWN",
+      "RECORD",
+      "RUN",
+      "THROW"
+    ],
+    "shop": [
+      "SEARCH",
+      "SELL"
+    ],
+    "shore": [
+      "STABILIZE_SUPPORT-PHYSICALLY"
+    ],
+    "short": [
+      "SELL"
+    ],
+    "shorten": [
+      "REDUCE_DIMINISH"
+    ],
+    "shortening": [
+      "REDUCE_DIMINISH"
+    ],
+    "shoulder": [
+      "CARRY_TRANSPORT"
+    ],
+    "shout": [
+      "SPEAK"
+    ],
+    "shove": [
+      "PRESS_PUSH_FOLD"
+    ],
+    "show": [
+      "APPEAR",
+      "SHOW"
+    ],
+    "shower": [
+      "THROW"
+    ],
+    "shred": [
+      "CUT"
+    ],
+    "shrink": [
+      "REDUCE_DIMINISH"
+    ],
+    "shrivel": [
+      "REDUCE_DIMINISH"
+    ],
+    "shroud": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "shrug": [
+      "DEBASE_ADULTERATE"
+    ],
+    "shuffle": [
+      "GO-FORWARD"
+    ],
+    "shun": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "shut": [
+      "CLOSE",
+      "ISOLATE",
+      "STOP",
+      "SWITCH-OFF_TURN-OFF_SHUT-DOWN"
+    ],
+    "shutter": [
+      "CLOSE"
+    ],
+    "shuttle": [
+      "DISCARD",
+      "GO-FORWARD"
+    ],
+    "shy": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "side": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "sidestep": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "sidetrack": [
+      "DIVERSIFY"
+    ],
+    "sift": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "sigh": [
+      "SPEAK"
+    ],
+    "sign": [
+      "AGREE_ACCEPT",
+      "ALLY_ASSOCIATE_MARRY",
+      "HIRE",
+      "WRITE"
+    ],
+    "signal": [
+      "SIGN"
+    ],
+    "signify": [
+      "MEAN"
+    ],
+    "silence": [
+      "MAKE-A-SOUND"
+    ],
+    "silt": [
+      "STOP"
+    ],
+    "simmer": [
+      "COOK"
+    ],
+    "simplify": [
+      "SIMPLIFY"
+    ],
+    "simulate": [
+      "SIMULATE"
+    ],
+    "sing": [
+      "SING"
+    ],
+    "singing": [
+      "SING"
+    ],
+    "single": [
+      "CHOOSE"
+    ],
+    "sink": [
+      "DIP_DIVE"
+    ],
+    "sinking": [
+      "DIP_DIVE"
+    ],
+    "sip": [
+      "DRINK"
+    ],
+    "siphon": [
+      "EMPTY_UNLOAD",
+      "MOVE-SOMETHING"
+    ],
+    "sit": [
+      "LIE"
+    ],
+    "situate": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "size": [
+      "ANALYZE"
+    ],
+    "sized": [
+      "ANALYZE"
+    ],
+    "sizzle": [
+      "MAKE-A-SOUND"
+    ],
+    "sketch": [
+      "SUMMARIZE"
+    ],
+    "skew": [
+      "INFLUENCE"
+    ],
+    "ski": [
+      "TRAVEL"
+    ],
+    "skid": [
+      "GO-FORWARD"
+    ],
+    "skiing": [
+      "TRAVEL"
+    ],
+    "skim": [
+      "GO-FORWARD"
+    ],
+    "skip": [
+      "MISS_OMIT_LACK"
+    ],
+    "skipper": [
+      "WORK"
+    ],
+    "skirt": [
+      "ABSTAIN_AVOID_REFRAIN",
+      "ENCLOSE_WRAP"
+    ],
+    "skyrocket": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "slack": [
+      "UNFASTEN_UNFOLD"
+    ],
+    "slacken": [
+      "SLOW-DOWN"
+    ],
+    "slam": [
+      "HIT",
+      "THROW"
+    ],
+    "slap": [
+      "HIT"
+    ],
+    "slash": [
+      "REDUCE_DIMINISH"
+    ],
+    "slate": [
+      "PLAN_SCHEDULE"
+    ],
+    "slaughter": [
+      "KILL"
+    ],
+    "slay": [
+      "KILL"
+    ],
+    "sleep": [
+      "HAVE-SEX",
+      "SLEEP"
+    ],
+    "sleeping": [
+      "SLEEP"
+    ],
+    "slice": [
+      "CUT"
+    ],
+    "slide": [
+      "GO-FORWARD",
+      "MOVE-SOMETHING"
+    ],
+    "slimming": [
+      "REDUCE_DIMINISH"
+    ],
+    "slip": [
+      "GIVE_GIFT",
+      "GO-FORWARD",
+      "INSERT",
+      "REDUCE_DIMINISH"
+    ],
+    "slither": [
+      "OVERCOME_SURPASS"
+    ],
+    "sliver": [
+      "BREAK_DETERIORATE"
+    ],
+    "slog": [
+      "MOVE-ONESELF"
+    ],
+    "slope": [
+      "GO-FORWARD"
+    ],
+    "slow": [
+      "REDUCE_DIMINISH",
+      "SLOW-DOWN"
+    ],
+    "slump": [
+      "FALL_SLIDE-DOWN"
+    ],
+    "smack": [
+      "EXIST-WITH-FEATURE"
+    ],
+    "smart": [
+      "HURT_HARM_ACHE"
+    ],
+    "smash": [
+      "DESTROY",
+      "HIT"
+    ],
+    "smashing": [
+      "DESTROY"
+    ],
+    "smell": [
+      "ODORIZE",
+      "SMELL"
+    ],
+    "smelt": [
+      "SMELL"
+    ],
+    "smile": [
+      "LAUGH"
+    ],
+    "smoke": [
+      "BREATH_BLOW",
+      "COOK"
+    ],
+    "smoking": [
+      "EMIT"
+    ],
+    "smolder": [
+      "BURN"
+    ],
+    "smooth": [
+      "FLATTEN_SMOOTHEN",
+      "SETTLE_CONCILIATE",
+      "UNFASTEN_UNFOLD"
+    ],
+    "smother": [
+      "KILL"
+    ],
+    "smuggle": [
+      "CARRY_TRANSPORT"
+    ],
+    "snag": [
+      "OBTAIN"
+    ],
+    "snake": [
+      "GO-FORWARD"
+    ],
+    "snap": [
+      "BREAK_DETERIORATE",
+      "BUY",
+      "MOVE-SOMETHING",
+      "SPEAK"
+    ],
+    "snatch": [
+      "CATCH"
+    ],
+    "sneak": [
+      "MOVE-ONESELF"
+    ],
+    "sniff": [
+      "FIND",
+      "SMELL",
+      "SPEAK"
+    ],
+    "snipe": [
+      "SHOOT_LAUNCH_PROPEL"
+    ],
+    "snivel": [
+      "SPEAK"
+    ],
+    "snoop": [
+      "SEE"
+    ],
+    "snore": [
+      "BREATH_BLOW"
+    ],
+    "snort": [
+      "MAKE-A-SOUND"
+    ],
+    "snowball": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "snub": [
+      "REFUSE"
+    ],
+    "snubbing": [
+      "REFUSE"
+    ],
+    "soak": [
+      "ABSORB",
+      "WET"
+    ],
+    "soar": [
+      "FLY",
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "sob": [
+      "CRY"
+    ],
+    "sober": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "socialize": [
+      "CHANGE_SWITCH"
+    ],
+    "sock": [
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "soften": [
+      "REDUCE_DIMINISH"
+    ],
+    "soil": [
+      "DIRTY"
+    ],
+    "solicit": [
+      "ASK_REQUEST"
+    ],
+    "solidify": [
+      "CHANGE-APPEARANCE/STATE"
+    ],
+    "solve": [
+      "SOLVE"
+    ],
+    "soothe": [
+      "MAKE-RELAX"
+    ],
+    "sort": [
+      "PERCEIVE",
+      "SORT_CLASSIFY_ARRANGE"
+    ],
+    "sound": [
+      "EXIST-WITH-FEATURE",
+      "PERFORM"
+    ],
+    "sour": [
+      "CHANGE-TASTE"
+    ],
+    "sow": [
+      "BURY_PLANT"
+    ],
+    "span": [
+      "EXTEND"
+    ],
+    "spar": [
+      "FIGHT"
+    ],
+    "spare": [
+      "EXEMPT",
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "spark": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "spawn": [
+      "CREATE_MATERIALIZE"
+    ],
+    "speak": [
+      "SPEAK"
+    ],
+    "spearhead": [
+      "LEAD_GOVERN"
+    ],
+    "specialize": [
+      "WORK"
+    ],
+    "specify": [
+      "EXPLAIN"
+    ],
+    "speculate": [
+      "THINK"
+    ],
+    "speed": [
+      "RUN",
+      "SPEED-UP"
+    ],
+    "spell": [
+      "EXPLAIN",
+      "SIGNAL_INDICATE"
+    ],
+    "spend": [
+      "CONSUME_SPEND",
+      "SPEND-TIME_PASS-TIME"
+    ],
+    "spending": [
+      "CONSUME_SPEND"
+    ],
+    "spew": [
+      "EXCRETE"
+    ],
+    "spike": [
+      "KILL"
+    ],
+    "spill": [
+      "EMPTY_UNLOAD",
+      "LEAVE_DEPART_RUN-AWAY"
+    ],
+    "spin": [
+      "CREATE_MATERIALIZE",
+      "MOVE-ONESELF",
+      "WEAVE"
+    ],
+    "spiral": [
+      "GO-FORWARD"
+    ],
+    "spirited": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "splash": [
+      "WET"
+    ],
+    "split": [
+      "DISBAND_BREAK-UP",
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "spoil": [
+      "SPOIL"
+    ],
+    "spoke": [
+      "SPEAK"
+    ],
+    "sponsor": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "spook": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "sport": [
+      "DRESS_WEAR"
+    ],
+    "spot": [
+      "SEE"
+    ],
+    "spotlight": [
+      "EMPHASIZE"
+    ],
+    "spout": [
+      "GO-FORWARD"
+    ],
+    "sprang": [
+      "BEGIN"
+    ],
+    "sprawl": [
+      "LIE"
+    ],
+    "spray": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "spread": [
+      "CIRCULATE_SPREAD_DISTRIBUTE",
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "spring": [
+      "BEGIN"
+    ],
+    "sprinkle": [
+      "WET"
+    ],
+    "sprinkles": [
+      "WET"
+    ],
+    "sprout": [
+      "GROW_PLOW"
+    ],
+    "spruce": [
+      "EMBELLISH"
+    ],
+    "spur": [
+      "AMELIORATE"
+    ],
+    "spurn": [
+      "REFUSE"
+    ],
+    "spurt": [
+      "GO-FORWARD"
+    ],
+    "sputter": [
+      "MAKE-A-SOUND"
+    ],
+    "spy": [
+      "SEE"
+    ],
+    "squander": [
+      "WASTE"
+    ],
+    "square": [
+      "COMPETE",
+      "MATCH"
+    ],
+    "squat": [
+      "LIE"
+    ],
+    "squeegee": [
+      "WASH_CLEAN"
+    ],
+    "squeeze": [
+      "OBLIGE_FORCE",
+      "PRESS_PUSH_FOLD",
+      "REDUCE_DIMINISH"
+    ],
+    "squelch": [
+      "SUBJUGATE"
+    ],
+    "squint": [
+      "FACIAL-EXPRESSION"
+    ],
+    "squirm": [
+      "MOVE-ONESELF"
+    ],
+    "stab": [
+      "CUT"
+    ],
+    "stabilize": [
+      "STABILIZE_SUPPORT-PHYSICALLY"
+    ],
+    "stabilizes": [
+      "STABILIZE_SUPPORT-PHYSICALLY"
+    ],
+    "stack": [
+      "AMASS",
+      "EXIST-WITH-FEATURE"
+    ],
+    "staff": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "stage": [
+      "CARRY-OUT-ACTION"
+    ],
+    "stagger": [
+      "TRAVEL"
+    ],
+    "stagnate": [
+      "STOP"
+    ],
+    "stain": [
+      "DIRTY"
+    ],
+    "stake": [
+      "ASK_REQUEST"
+    ],
+    "stalk": [
+      "HUNT"
+    ],
+    "stall": [
+      "DELAY",
+      "FINISH_CONCLUDE_END"
+    ],
+    "stalls": [
+      "DELAY"
+    ],
+    "stamp": [
+      "APPROVE_PRAISE",
+      "ATTACH",
+      "REPRESENT",
+      "TRAVEL"
+    ],
+    "stampede": [
+      "MOVE-SOMETHING"
+    ],
+    "stanch": [
+      "STOP"
+    ],
+    "stand": [
+      "PUT_APPLY_PLACE_PAVE",
+      "STAY_DWELL",
+      "STOP",
+      "TOLERATE"
+    ],
+    "standardize": [
+      "ADJUST_CORRECT"
+    ],
+    "standing": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "stapling": [
+      "ATTACH"
+    ],
+    "star": [
+      "PERFORM"
+    ],
+    "stare": [
+      "OVERCOME_SURPASS"
+    ],
+    "start": [
+      "BEGIN"
+    ],
+    "starve": [
+      "HURT_HARM_ACHE"
+    ],
+    "stash": [
+      "CLOUD_SHADOW_HIDE",
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "state": [
+      "SPEAK"
+    ],
+    "station": [
+      "PUT_APPLY_PLACE_PAVE"
+    ],
+    "stave": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "stay": [
+      "REMAIN",
+      "STOP"
+    ],
+    "steady": [
+      "STABILIZE_SUPPORT-PHYSICALLY"
+    ],
+    "steal": [
+      "STEAL_DEPRIVE"
+    ],
+    "steam": [
+      "GO-FORWARD"
+    ],
+    "steer": [
+      "ABSTAIN_AVOID_REFRAIN",
+      "DIRECT_AIM_MANEUVER"
+    ],
+    "stem": [
+      "COME-FROM",
+      "STOP"
+    ],
+    "step": [
+      "GO-FORWARD",
+      "INCREASE_ENLARGE_MULTIPLY",
+      "PARTICIPATE",
+      "RESIGN_RETIRE"
+    ],
+    "sterilize": [
+      "WASH_CLEAN"
+    ],
+    "stewed": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "stick": [
+      "ARGUE-IN-DEFENSE",
+      "ATTACH",
+      "BULGE-OUT",
+      "STAY_DWELL"
+    ],
+    "stifle": [
+      "STOP"
+    ],
+    "stimulate": [
+      "INCITE_INDUCE"
+    ],
+    "sting": [
+      "HURT_HARM_ACHE"
+    ],
+    "stink": [
+      "ODORIZE"
+    ],
+    "stipulate": [
+      "EXPLAIN"
+    ],
+    "stir": [
+      "CAUSE-MENTAL-STATE",
+      "COMBINE_MIX_UNITE",
+      "CREATE_MATERIALIZE",
+      "MOVE-ONESELF"
+    ],
+    "stitch": [
+      "SECURE_FASTEN_TIE"
+    ],
+    "stock": [
+      "LOAD_PROVIDE_CHARGE_FURNISH",
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "stocking": [
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "stockpile": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "stoke": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "stomach": [
+      "EAT_BITE"
+    ],
+    "stomp": [
+      "TRAVEL"
+    ],
+    "stone": [
+      "USE"
+    ],
+    "stonewall": [
+      "DELAY"
+    ],
+    "stop": [
+      "STOP",
+      "VISIT"
+    ],
+    "stopping": [
+      "STOP"
+    ],
+    "stops": [
+      "STOP"
+    ],
+    "store": [
+      "RETAIN_KEEP_SAVE-MONEY"
+    ],
+    "storm": [
+      "ATTACK_BOMB"
+    ],
+    "stow": [
+      "FILL"
+    ],
+    "straddle": [
+      "LIE"
+    ],
+    "strafe": [
+      "ATTACK_BOMB"
+    ],
+    "straighten": [
+      "ADJUST_CORRECT"
+    ],
+    "strain": [
+      "BREAK_DETERIORATE",
+      "SEPARATE_FILTER_DETACH",
+      "TRY"
+    ],
+    "strained": [
+      "HURT_HARM_ACHE"
+    ],
+    "strand": [
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "strangle": [
+      "KILL"
+    ],
+    "strap": [
+      "REQUIRE_NEED_WANT_HOPE",
+      "SECURE_FASTEN_TIE"
+    ],
+    "stray": [
+      "TRAVEL"
+    ],
+    "streak": [
+      "GO-FORWARD"
+    ],
+    "stream": [
+      "FLOW"
+    ],
+    "streamline": [
+      "SIMPLIFY"
+    ],
+    "strengthen": [
+      "STRENGTHEN_MAKE-RESISTANT"
+    ],
+    "stress": [
+      "EMPHASIZE"
+    ],
+    "stretch": [
+      "EXTEND"
+    ],
+    "strewn": [
+      "CIRCULATE_SPREAD_DISTRIBUTE"
+    ],
+    "stride": [
+      "TRAVEL"
+    ],
+    "strike": [
+      "BEGIN",
+      "BEHAVE",
+      "CANCEL_ELIMINATE",
+      "DRIVE-BACK",
+      "HIT",
+      "KNOCK-DOWN",
+      "OPPOSE_REBEL_DISSENT",
+      "SEEM"
+    ],
+    "striking": [
+      "OPPOSE_REBEL_DISSENT"
+    ],
+    "strip": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "strive": [
+      "TRY"
+    ],
+    "strives": [
+      "TRY"
+    ],
+    "stroke": [
+      "TOUCH"
+    ],
+    "stroll": [
+      "MOVE-ONESELF"
+    ],
+    "structure": [
+      "SORT_CLASSIFY_ARRANGE"
+    ],
+    "structured": [
+      "SORT_CLASSIFY_ARRANGE"
+    ],
+    "struggle": [
+      "FIGHT",
+      "TRY"
+    ],
+    "stubbed": [
+      "HIT"
+    ],
+    "stud": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "study": [
+      "ANALYZE"
+    ],
+    "stuff": [
+      "FILL"
+    ],
+    "stumble": [
+      "FALL_SLIDE-DOWN"
+    ],
+    "stun": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "stung": [
+      "HURT_HARM_ACHE"
+    ],
+    "stunted": [
+      "STOP"
+    ],
+    "style": [
+      "EMBELLISH"
+    ],
+    "stymie": [
+      "STOP"
+    ],
+    "subdue": [
+      "SUBJUGATE"
+    ],
+    "subject": [
+      "CAUSE-SMT"
+    ],
+    "sublet": [
+      "LEND"
+    ],
+    "submit": [
+      "GIVE_GIFT"
+    ],
+    "subordinate": [
+      "SUBJUGATE"
+    ],
+    "subpoena": [
+      "SUMMON"
+    ],
+    "subscribe": [
+      "OFFER",
+      "PAY"
+    ],
+    "subside": [
+      "REDUCE_DIMINISH"
+    ],
+    "subsidize": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "substantiate": [
+      "PROVE"
+    ],
+    "substitute": [
+      "REPLACE"
+    ],
+    "subsume": [
+      "INCLUDE-AS"
+    ],
+    "subtitle": [
+      "NAME"
+    ],
+    "subtract": [
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "subvert": [
+      "DESTROY"
+    ],
+    "succeed": [
+      "ACHIEVE",
+      "COME-AFTER_FOLLOW-IN-TIME"
+    ],
+    "succumb": [
+      "FAIL_LOSE"
+    ],
+    "suck": [
+      "ATTRACT_SUCK"
+    ],
+    "sue": [
+      "ACCUSE"
+    ],
+    "suffer": [
+      "HURT_HARM_ACHE"
+    ],
+    "suffice": [
+      "EXIST-WITH-FEATURE"
+    ],
+    "suggest": [
+      "PROPOSE"
+    ],
+    "suit": [
+      "FIT",
+      "HARMONIZE"
+    ],
+    "sum": [
+      "SUMMARIZE"
+    ],
+    "summarize": [
+      "SUMMARIZE"
+    ],
+    "summon": [
+      "AROUSE_WAKE_ENLIVEN",
+      "SUMMON"
+    ],
+    "superimpose": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "supersede": [
+      "REPLACE"
+    ],
+    "supervise": [
+      "WATCH_LOOK-OUT"
+    ],
+    "supplement": [
+      "ADD"
+    ],
+    "supply": [
+      "LOAD_PROVIDE_CHARGE_FURNISH"
+    ],
+    "support": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "suppose": [
+      "BELIEVE"
+    ],
+    "suppress": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "surface": [
+      "COVER_SPREAD_SURMOUNT",
+      "RAISE"
+    ],
+    "surge": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "surmount": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "surpass": [
+      "OVERCOME_SURPASS"
+    ],
+    "surprise": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "surrender": [
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "surround": [
+      "ENCLOSE_WRAP"
+    ],
+    "survey": [
+      "ANALYZE"
+    ],
+    "survive": [
+      "OVERCOME_SURPASS"
+    ],
+    "suspect": [
+      "BELIEVE"
+    ],
+    "suspend": [
+      "STOP"
+    ],
+    "sustain": [
+      "EXTEND",
+      "UNDERGO-EXPERIENCE"
+    ],
+    "swallow": [
+      "EAT_BITE"
+    ],
+    "swamp": [
+      "WET"
+    ],
+    "swap": [
+      "REPLACE"
+    ],
+    "swathe": [
+      "DRESS_WEAR"
+    ],
+    "sway": [
+      "GO-FORWARD",
+      "PERSUADE"
+    ],
+    "swear": [
+      "AFFIRM",
+      "GUARANTEE_ENSURE_PROMISE",
+      "OFFEND_DISESTEEM"
+    ],
+    "sweat": [
+      "CONTINUE",
+      "EXCRETE"
+    ],
+    "sweep": [
+      "GO-FORWARD",
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "sweeping": [
+      "GO-FORWARD"
+    ],
+    "sweeten": [
+      "CHANGE-TASTE"
+    ],
+    "swell": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "swerve": [
+      "TURN_CHANGE-DIRECTION"
+    ],
+    "swim": [
+      "DIP_DIVE"
+    ],
+    "swindle": [
+      "STEAL_DEPRIVE"
+    ],
+    "swing": [
+      "ALTERNATE",
+      "GO-FORWARD",
+      "MAKE-A-SOUND"
+    ],
+    "switch": [
+      "CHANGE_SWITCH",
+      "REPLACE"
+    ],
+    "swivel": [
+      "MOVE-ONESELF"
+    ],
+    "swung": [
+      "ALTERNATE"
+    ],
+    "symbolize": [
+      "REPRESENT"
+    ],
+    "sympathize": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "synchronize": [
+      "HAPPEN_OCCUR"
+    ],
+    "syndicate": [
+      "GIVE_GIFT"
+    ],
+    "synthesize": [
+      "CREATE_MATERIALIZE"
+    ],
+    "tack": [
+      "ATTACH",
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "tackle": [
+      "FACE_CHALLENGE"
+    ],
+    "tag": [
+      "ATTACH"
+    ],
+    "tail": [
+      "CHASE"
+    ],
+    "tailor": [
+      "HARMONIZE"
+    ],
+    "taint": [
+      "CONTRACT-AN-ILLNESS_INFECT"
+    ],
+    "take": [
+      "BRING",
+      "CAUSE-MENTAL-STATE",
+      "FACE_CHALLENGE",
+      "HAPPEN_OCCUR",
+      "INCREASE_ENLARGE_MULTIPLY",
+      "INTERPRET",
+      "LEAVE_DEPART_RUN-AWAY",
+      "LIKE",
+      "RECOGNIZE_ADMIT_IDENTIFY",
+      "REMOVE_TAKE-AWAY_KIDNAP",
+      "REPLACE",
+      "REQUIRE_NEED_WANT_HOPE",
+      "TAKE",
+      "TAKE-SHELTER",
+      "TOLERATE",
+      "USE"
+    ],
+    "talk": [
+      "PERSUADE",
+      "SPEAK"
+    ],
+    "talks": [
+      "SPEAK"
+    ],
+    "tally": [
+      "COUNT"
+    ],
+    "tame": [
+      "TEACH"
+    ],
+    "tamper": [
+      "VIOLATE"
+    ],
+    "tan": [
+      "COLOR"
+    ],
+    "tangle": [
+      "MESS"
+    ],
+    "tango": [
+      "DANCE"
+    ],
+    "tap": [
+      "ASK_REQUEST",
+      "HIT",
+      "SEARCH"
+    ],
+    "tape": [
+      "ATTACH",
+      "RECORD"
+    ],
+    "taper": [
+      "REDUCE_DIMINISH"
+    ],
+    "taping": [
+      "ATTACH",
+      "RECORD"
+    ],
+    "taps": [
+      "ASK_REQUEST"
+    ],
+    "tar": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "target": [
+      "DIRECT_AIM_MANEUVER"
+    ],
+    "tarnish": [
+      "DIRTY"
+    ],
+    "taste": [
+      "EXIST-WITH-FEATURE",
+      "TASTE"
+    ],
+    "tax": [
+      "CHARGE"
+    ],
+    "teach": [
+      "TEACH"
+    ],
+    "team": [
+      "GROUP"
+    ],
+    "tear": [
+      "CRY",
+      "CUT",
+      "FLATTEN_SMOOTHEN",
+      "RUN",
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "tease": [
+      "FIND"
+    ],
+    "teem": [
+      "EXIST-WITH-FEATURE"
+    ],
+    "telegraph": [
+      "SEND"
+    ],
+    "telephone": [
+      "COMMUNICATE_CONTACT"
+    ],
+    "televise": [
+      "TRANSMIT"
+    ],
+    "tell": [
+      "RECOGNIZE_ADMIT_IDENTIFY",
+      "SPEAK"
+    ],
+    "temper": [
+      "REDUCE_DIMINISH"
+    ],
+    "tempt": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "tend": [
+      "BEHAVE",
+      "MANAGE"
+    ],
+    "tender": [
+      "OFFER"
+    ],
+    "term": [
+      "NAME"
+    ],
+    "terminate": [
+      "DISMISS_FIRE-SMN",
+      "FINISH_CONCLUDE_END"
+    ],
+    "terrify": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "test": [
+      "VERIFY"
+    ],
+    "testify": [
+      "GUARANTEE_ENSURE_PROMISE"
+    ],
+    "testing": [
+      "VERIFY"
+    ],
+    "thank": [
+      "APPROVE_PRAISE"
+    ],
+    "theorize": [
+      "THINK"
+    ],
+    "thin": [
+      "REDUCE_DIMINISH"
+    ],
+    "think": [
+      "THINK"
+    ],
+    "thrash": [
+      "DISCUSS",
+      "TRAVEL"
+    ],
+    "threaten": [
+      "ENDANGER"
+    ],
+    "thrill": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "thrive": [
+      "AMELIORATE"
+    ],
+    "throw": [
+      "ADD",
+      "ORGANIZE",
+      "THROW"
+    ],
+    "thrust": [
+      "PRESS_PUSH_FOLD"
+    ],
+    "thumb": [
+      "JOKE"
+    ],
+    "thunder": [
+      "SPEAK"
+    ],
+    "thwart": [
+      "ABSTAIN_AVOID_REFRAIN"
+    ],
+    "tick": [
+      "MAKE-A-SOUND"
+    ],
+    "ticket": [
+      "DECREE_DECLARE"
+    ],
+    "tie": [
+      "JOIN_CONNECT",
+      "OBLIGE_FORCE",
+      "PARTICIPATE",
+      "SCORE",
+      "SECURE_FASTEN_TIE"
+    ],
+    "tighten": [
+      "RESTRAIN",
+      "TIGHTEN"
+    ],
+    "tilt": [
+      "INCLINE"
+    ],
+    "time": [
+      "ADJUST_CORRECT"
+    ],
+    "tinker": [
+      "WORK"
+    ],
+    "tinkering": [
+      "WORK"
+    ],
+    "tip": [
+      "INCLINE"
+    ],
+    "tiptoe": [
+      "MOVE-ONESELF"
+    ],
+    "tired": [
+      "EXHAUST"
+    ],
+    "title": [
+      "NAME"
+    ],
+    "toast": [
+      "CELEBRATE_PARTY"
+    ],
+    "toil": [
+      "WORK"
+    ],
+    "toiling": [
+      "WORK"
+    ],
+    "tolerate": [
+      "TOLERATE"
+    ],
+    "tone": [
+      "REDUCE_DIMINISH"
+    ],
+    "top": [
+      "COVER_SPREAD_SURMOUNT",
+      "OVERCOME_SURPASS"
+    ],
+    "topple": [
+      "FALL_SLIDE-DOWN"
+    ],
+    "torch": [
+      "DESTROY"
+    ],
+    "torment": [
+      "HURT_HARM_ACHE"
+    ],
+    "torpedo": [
+      "DESTROY"
+    ],
+    "torture": [
+      "HURT_HARM_ACHE"
+    ],
+    "toss": [
+      "DISCARD",
+      "THROW"
+    ],
+    "total": [
+      "REACH"
+    ],
+    "tote": [
+      "REACH"
+    ],
+    "totter": [
+      "MOVE-ONESELF",
+      "TRAVEL"
+    ],
+    "touch": [
+      "AROUSE_WAKE_ENLIVEN",
+      "REFER",
+      "TOUCH"
+    ],
+    "toughen": [
+      "STRENGTHEN_MAKE-RESISTANT"
+    ],
+    "tour": [
+      "VISIT"
+    ],
+    "tours": [
+      "VISIT"
+    ],
+    "tout": [
+      "PUBLICIZE"
+    ],
+    "tower": [
+      "OVERCOME_SURPASS"
+    ],
+    "toy": [
+      "BEHAVE"
+    ],
+    "trace": [
+      "FOLLOW-IN-SPACE"
+    ],
+    "track": [
+      "CHASE",
+      "FIND",
+      "MATCH"
+    ],
+    "trade": [
+      "REPLACE"
+    ],
+    "trading": [
+      "REPLACE"
+    ],
+    "traduce": [
+      "OFFEND_DISESTEEM"
+    ],
+    "trail": [
+      "CHASE",
+      "FINISH_CONCLUDE_END"
+    ],
+    "train": [
+      "DIRECT_AIM_MANEUVER",
+      "TEACH"
+    ],
+    "training": [
+      "TEACH"
+    ],
+    "tramp": [
+      "TRAVEL"
+    ],
+    "trample": [
+      "HURT_HARM_ACHE"
+    ],
+    "transact": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "transfer": [
+      "TRANSMIT"
+    ],
+    "transform": [
+      "CHANGE-APPEARANCE/STATE"
+    ],
+    "translate": [
+      "TRANSLATE"
+    ],
+    "transmit": [
+      "TRANSMIT"
+    ],
+    "transmogrify": [
+      "CHANGE-APPEARANCE/STATE"
+    ],
+    "transplant": [
+      "MOVE-SOMETHING"
+    ],
+    "transport": [
+      "CARRY_TRANSPORT"
+    ],
+    "trap": [
+      "CATCH"
+    ],
+    "trash": [
+      "DISCARD"
+    ],
+    "traumatize": [
+      "HURT_HARM_ACHE"
+    ],
+    "travel": [
+      "GO-FORWARD"
+    ],
+    "traveling": [
+      "GO-FORWARD"
+    ],
+    "travels": [
+      "GO-FORWARD"
+    ],
+    "tread": [
+      "PRESS_PUSH_FOLD"
+    ],
+    "treat": [
+      "HELP_HEAL_CARE_CURE",
+      "PREPARE",
+      "SPEAK",
+      "TREAT"
+    ],
+    "trek": [
+      "GO-FORWARD"
+    ],
+    "tremble": [
+      "MOVE-ONESELF"
+    ],
+    "trend": [
+      "EXIST-WITH-FEATURE"
+    ],
+    "trick": [
+      "DECEIVE"
+    ],
+    "trickle": [
+      "FLOW"
+    ],
+    "trigger": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "trim": [
+      "CUT",
+      "REDUCE_DIMINISH"
+    ],
+    "triple": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "tripped": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "triumph": [
+      "WIN"
+    ],
+    "trivialize": [
+      "DOWNPLAY_HUMILIATE"
+    ],
+    "trot": [
+      "SHOW"
+    ],
+    "trouble": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "trudge": [
+      "MOVE-ONESELF"
+    ],
+    "trudging": [
+      "MOVE-ONESELF"
+    ],
+    "trumpet": [
+      "SPEAK"
+    ],
+    "trundle": [
+      "TRAVEL"
+    ],
+    "trust": [
+      "GIVE_GIFT",
+      "RELY"
+    ],
+    "try": [
+      "SUBJECTIVE-JUDGING",
+      "TRY",
+      "VERIFY"
+    ],
+    "tuck": [
+      "DECREE_DECLARE",
+      "INSERT"
+    ],
+    "tug": [
+      "PULL"
+    ],
+    "tumble": [
+      "FALL_SLIDE-DOWN"
+    ],
+    "tune": [
+      "ADJUST_CORRECT"
+    ],
+    "turn": [
+      "APPEAR",
+      "CHANGE-APPEARANCE/STATE",
+      "DRIVE-BACK",
+      "EARN",
+      "GIVE_GIFT",
+      "IMPLY",
+      "MOUNT_ASSEMBLE_PRODUCE",
+      "OPERATE",
+      "PROVE",
+      "REFUSE",
+      "REPLACE",
+      "SWITCH-OFF_TURN-OFF_SHUT-DOWN",
+      "TURN_CHANGE-DIRECTION"
+    ],
+    "twiddle": [
+      "TRAVEL"
+    ],
+    "twist": [
+      "SHAPE"
+    ],
+    "twisting": [
+      "SHAPE"
+    ],
+    "twitch": [
+      "MOVE-ONESELF"
+    ],
+    "type": [
+      "TYPE"
+    ],
+    "typify": [
+      "REPRESENT"
+    ],
+    "unblock": [
+      "UNFASTEN_UNFOLD"
+    ],
+    "uncover": [
+      "FIND"
+    ],
+    "uncovering": [
+      "FIND"
+    ],
+    "undercut": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "underestimate": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "undergo": [
+      "UNDERGO-EXPERIENCE"
+    ],
+    "underlie": [
+      "GROUND_BASE_FOUND"
+    ],
+    "underline": [
+      "EMPHASIZE"
+    ],
+    "undermine": [
+      "WEAKEN"
+    ],
+    "underperform": [
+      "FAIL_LOSE"
+    ],
+    "underpin": [
+      "HELP_HEAL_CARE_CURE"
+    ],
+    "underscore": [
+      "EMPHASIZE"
+    ],
+    "understand": [
+      "UNDERSTAND"
+    ],
+    "understate": [
+      "DOWNPLAY_HUMILIATE"
+    ],
+    "undertake": [
+      "FACE_CHALLENGE"
+    ],
+    "undervalue": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "underwrite": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "underwriting": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "underwrote": [
+      "FOLLOW_SUPPORT_SPONSOR_FUND"
+    ],
+    "undo": [
+      "RESTORE-TO-PREVIOUS/INITIAL-STATE_UNDO_UNWIND"
+    ],
+    "undulate": [
+      "MOVE-SOMETHING"
+    ],
+    "unearth": [
+      "SHOW"
+    ],
+    "unfold": [
+      "DEVELOP_AGE"
+    ],
+    "unfolded": [
+      "DEVELOP_AGE"
+    ],
+    "unhinge": [
+      "CAUSE-MENTAL-STATE",
+      "REMOVE_TAKE-AWAY_KIDNAP"
+    ],
+    "unify": [
+      "COMBINE_MIX_UNITE"
+    ],
+    "unionize": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "unite": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "unleash": [
+      "LIBERATE_ALLOW_AFFORD"
+    ],
+    "unload": [
+      "CANCEL_ELIMINATE",
+      "EMPTY_UNLOAD"
+    ],
+    "unlock": [
+      "UNFASTEN_UNFOLD"
+    ],
+    "unmask": [
+      "REVEAL"
+    ],
+    "unnerve": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "unplug": [
+      "SWITCH-OFF_TURN-OFF_SHUT-DOWN"
+    ],
+    "unravel": [
+      "RESTORE-TO-PREVIOUS/INITIAL-STATE_UNDO_UNWIND"
+    ],
+    "unraveling": [
+      "RESTORE-TO-PREVIOUS/INITIAL-STATE_UNDO_UNWIND"
+    ],
+    "unroll": [
+      "UNFASTEN_UNFOLD"
+    ],
+    "unsettle": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "unveil": [
+      "SHOW"
+    ],
+    "unwind": [
+      "STRAIGHTEN"
+    ],
+    "up": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "update": [
+      "AMELIORATE"
+    ],
+    "upgrade": [
+      "AMELIORATE",
+      "REPLACE"
+    ],
+    "uphold": [
+      "ARGUE-IN-DEFENSE"
+    ],
+    "uproot": [
+      "EXTRACT"
+    ],
+    "upset": [
+      "CAUSE-MENTAL-STATE",
+      "MESS"
+    ],
+    "urge": [
+      "OBLIGE_FORCE"
+    ],
+    "use": [
+      "BEHAVE",
+      "MODAL",
+      "USE"
+    ],
+    "usher": [
+      "BEGIN",
+      "DIRECT_AIM_MANEUVER"
+    ],
+    "usurp": [
+      "STEAL_DEPRIVE"
+    ],
+    "utilize": [
+      "USE"
+    ],
+    "utter": [
+      "SPEAK"
+    ],
+    "vacate": [
+      "RESIGN_RETIRE"
+    ],
+    "vacation": [
+      "TRAVEL"
+    ],
+    "vacillate": [
+      "COMPARE"
+    ],
+    "vacuum": [
+      "WASH_CLEAN"
+    ],
+    "validate": [
+      "AUTHORIZE_ADMIT"
+    ],
+    "value": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "values": [
+      "CALCULATE_ESTIMATE"
+    ],
+    "vanish": [
+      "DISAPPEAR"
+    ],
+    "vary": [
+      "DIVERSIFY"
+    ],
+    "vault": [
+      "JUMP"
+    ],
+    "veer": [
+      "TURN_CHANGE-DIRECTION"
+    ],
+    "veil": [
+      "CLOUD_SHADOW_HIDE"
+    ],
+    "vend": [
+      "SELL"
+    ],
+    "vent": [
+      "AIR"
+    ],
+    "ventilate": [
+      "REPAIR_REMEDY"
+    ],
+    "venture": [
+      "GUESS",
+      "RISK"
+    ],
+    "verge": [
+      "ARRIVE"
+    ],
+    "verify": [
+      "VERIFY"
+    ],
+    "vest": [
+      "ASSIGN-smt-to-smn"
+    ],
+    "veto": [
+      "PRECLUDE_FORBID_EXPEL"
+    ],
+    "vex": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "vibrate": [
+      "MOVE-ONESELF"
+    ],
+    "victimize": [
+      "PUNISH"
+    ],
+    "vie": [
+      "COMPETE"
+    ],
+    "view": [
+      "SEE",
+      "SUBJECTIVE-JUDGING"
+    ],
+    "vindicate": [
+      "ARGUE-IN-DEFENSE"
+    ],
+    "violate": [
+      "VIOLATE"
+    ],
+    "visit": [
+      "MEET"
+    ],
+    "visiting": [
+      "MEET"
+    ],
+    "visualize": [
+      "IMAGINE"
+    ],
+    "visualizing": [
+      "IMAGINE"
+    ],
+    "vitiate": [
+      "DEBASE_ADULTERATE"
+    ],
+    "voice": [
+      "SPEAK"
+    ],
+    "void": [
+      "CANCEL_ELIMINATE"
+    ],
+    "volunteer": [
+      "OFFER"
+    ],
+    "vote": [
+      "CANCEL_ELIMINATE",
+      "CHOOSE"
+    ],
+    "voting": [
+      "CHOOSE"
+    ],
+    "vow": [
+      "GUARANTEE_ENSURE_PROMISE"
+    ],
+    "wade": [
+      "GO-FORWARD"
+    ],
+    "waffle": [
+      "STOP"
+    ],
+    "waft": [
+      "AIR"
+    ],
+    "wage": [
+      "FACE_CHALLENGE"
+    ],
+    "wail": [
+      "CRY"
+    ],
+    "wait": [
+      "OVERCOME_SURPASS",
+      "WAIT"
+    ],
+    "waive": [
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "wake": [
+      "AROUSE_WAKE_ENLIVEN"
+    ],
+    "walk": [
+      "GO-FORWARD",
+      "MOVE-ONESELF",
+      "SCORE"
+    ],
+    "walking": [
+      "GO-FORWARD"
+    ],
+    "wall": [
+      "SEPARATE_FILTER_DETACH"
+    ],
+    "wallow": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "wander": [
+      "TRAVEL"
+    ],
+    "wane": [
+      "REDUCE_DIMINISH"
+    ],
+    "want": [
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "ward": [
+      "DRIVE-BACK"
+    ],
+    "warm": [
+      "HEAT",
+      "PREPARE"
+    ],
+    "warn": [
+      "WARN"
+    ],
+    "warning": [
+      "WARN"
+    ],
+    "warrant": [
+      "JUSTIFY_EXCUSE"
+    ],
+    "warring": [
+      "ATTACK_BOMB"
+    ],
+    "wash": [
+      "WASH_CLEAN"
+    ],
+    "waste": [
+      "WASTE"
+    ],
+    "wasting": [
+      "WASTE"
+    ],
+    "watch": [
+      "SEE",
+      "WATCH_LOOK-OUT"
+    ],
+    "water": [
+      "WEAKEN",
+      "WET"
+    ],
+    "watering": [
+      "WEAKEN"
+    ],
+    "wave": [
+      "SIGNAL_INDICATE"
+    ],
+    "waver": [
+      "TRAVEL"
+    ],
+    "wavering": [
+      "TRAVEL"
+    ],
+    "wax": [
+      "COVER_SPREAD_SURMOUNT"
+    ],
+    "weaken": [
+      "WEAKEN"
+    ],
+    "weakens": [
+      "WEAKEN"
+    ],
+    "wear": [
+      "CORRODE_WEAR-AWAY_SCRATCH",
+      "DRESS_WEAR",
+      "EXHAUST",
+      "SPEND-TIME_PASS-TIME"
+    ],
+    "weather": [
+      "OVERCOME_SURPASS"
+    ],
+    "weave": [
+      "TRAVEL",
+      "WEAVE"
+    ],
+    "wed": [
+      "ALLY_ASSOCIATE_MARRY"
+    ],
+    "wedge": [
+      "PRESS_PUSH_FOLD"
+    ],
+    "weep": [
+      "CRY"
+    ],
+    "weigh": [
+      "BURDEN_BEAR",
+      "COMPARE",
+      "GIVE_GIFT",
+      "MEASURE_EVALUATE"
+    ],
+    "weight": [
+      "INFLUENCE"
+    ],
+    "welcome": [
+      "AGREE_ACCEPT"
+    ],
+    "weld": [
+      "JOIN_CONNECT"
+    ],
+    "went": [
+      "LEAVE_DEPART_RUN-AWAY"
+    ],
+    "whack": [
+      "DISCARD",
+      "HIT"
+    ],
+    "wheel": [
+      "CARRY_TRANSPORT"
+    ],
+    "wheeze": [
+      "BREATH_BLOW"
+    ],
+    "whip": [
+      "AROUSE_WAKE_ENLIVEN",
+      "HIT",
+      "TAKE"
+    ],
+    "whipsaw": [
+      "MOVE-ONESELF"
+    ],
+    "whir": [
+      "MAKE-A-SOUND"
+    ],
+    "whisk": [
+      "RUN"
+    ],
+    "whisper": [
+      "SPEAK"
+    ],
+    "whistle": [
+      "MAKE-A-SOUND"
+    ],
+    "whittle": [
+      "CUT"
+    ],
+    "wholesale": [
+      "SELL"
+    ],
+    "whooping": [
+      "SHOUT"
+    ],
+    "whoosh": [
+      "MOVE-ONESELF"
+    ],
+    "widen": [
+      "INCREASE_ENLARGE_MULTIPLY"
+    ],
+    "widowed": [
+      "CAUSE-SMT"
+    ],
+    "wield": [
+      "CATCH"
+    ],
+    "wiggle": [
+      "MOVE-SOMETHING"
+    ],
+    "will": [
+      "GIVE_GIFT"
+    ],
+    "willing": [
+      "GIVE_GIFT"
+    ],
+    "win": [
+      "PERSUADE",
+      "WIN"
+    ],
+    "wind": [
+      "FINISH_CONCLUDE_END",
+      "RESULT_CONSEQUENCE",
+      "ROLL"
+    ],
+    "wink": [
+      "SIGNAL_INDICATE"
+    ],
+    "wipe": [
+      "CONSUME_SPEND",
+      "MOVE-SOMETHING"
+    ],
+    "wire": [
+      "SECURE_FASTEN_TIE"
+    ],
+    "wish": [
+      "REQUIRE_NEED_WANT_HOPE"
+    ],
+    "withdraw": [
+      "MOVE-BACK"
+    ],
+    "wither": [
+      "SPOIL"
+    ],
+    "withhold": [
+      "REFUSE"
+    ],
+    "withstand": [
+      "RESIST"
+    ],
+    "witness": [
+      "SEE"
+    ],
+    "womanize": [
+      "COURT"
+    ],
+    "wonder": [
+      "THINK"
+    ],
+    "woo": [
+      "COURT"
+    ],
+    "word": [
+      "SPEAK"
+    ],
+    "work": [
+      "GO-FORWARD",
+      "MOUNT_ASSEMBLE_PRODUCE",
+      "PREPARE",
+      "REACH",
+      "WORK"
+    ],
+    "working": [
+      "WORK"
+    ],
+    "works": [
+      "WORK"
+    ],
+    "worn": [
+      "DRESS_WEAR"
+    ],
+    "worry": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "worsen": [
+      "WORSEN"
+    ],
+    "worsening": [
+      "WORSEN"
+    ],
+    "wound": [
+      "HURT_HARM_ACHE",
+      "RESULT_CONSEQUENCE",
+      "ROLL"
+    ],
+    "woven": [
+      "WEAVE"
+    ],
+    "wow": [
+      "CAUSE-MENTAL-STATE"
+    ],
+    "wrack": [
+      "DESTROY"
+    ],
+    "wrangle": [
+      "QUARREL_POLEMICIZE"
+    ],
+    "wrap": [
+      "ENCLOSE_WRAP",
+      "FINISH_CONCLUDE_END"
+    ],
+    "wreak": [
+      "HAPPEN_OCCUR"
+    ],
+    "wreck": [
+      "DESTROY"
+    ],
+    "wrench": [
+      "PULL"
+    ],
+    "wrest": [
+      "CATCH"
+    ],
+    "wrestle": [
+      "FIGHT",
+      "MOVE-ONESELF",
+      "TAKE"
+    ],
+    "wring": [
+      "EXTRACT"
+    ],
+    "write": [
+      "DEBASE_ADULTERATE",
+      "RECOGNIZE_ADMIT_IDENTIFY",
+      "WRITE"
+    ],
+    "writhe": [
+      "MOVE-ONESELF"
+    ],
+    "wrong": [
+      "TREAT"
+    ],
+    "wrote": [
+      "WRITE"
+    ],
+    "wrought": [
+      "BREAK_DETERIORATE"
+    ],
+    "yank": [
+      "PULL"
+    ],
+    "yell": [
+      "MAKE-A-SOUND"
+    ],
+    "yield": [
+      "CAUSE-SMT",
+      "GENERATE",
+      "GIVE-UP_ABOLISH_ABANDON"
+    ],
+    "zap": [
+      "KILL"
+    ],
+    "zero": [
+      "DIRECT_AIM_MANEUVER",
+      "DISCARD"
+    ],
+    "zip": [
+      "RUN"
+    ],
+    "zoning": [
+      "DIVIDE"
+    ],
+    "zoom": [
+      "RUN"
+    ]
+  },
+  "roles": {
+    "<UNK>": 1,
+    "Adverbial": 12,
+    "Agent": 3,
+    "Asset": 22,
+    "Attribute": 6,
+    "Beneficiary": 25,
+    "C-Adverbial": 62,
+    "C-Agent": 52,
+    "C-Asset": 69,
+    "C-Attribute": 51,
+    "C-Beneficiary": 43,
+    "C-Cause": 85,
+    "C-Co-Theme": 82,
+    "C-Connective": 77,
+    "C-Destination": 64,
+    "C-Experiencer": 84,
+    "C-Extent": 71,
+    "C-Goal": 70,
+    "C-Instrument": 76,
+    "C-Location": 75,
+    "C-Negation": 80,
+    "C-Patient": 37,
+    "C-Product": 81,
+    "C-Purpose": 68,
+    "C-Recipient": 87,
+    "C-Result": 44,
+    "C-Source": 63,
+    "C-Stimulus": 47,
+    "C-Theme": 24,
+    "C-Time": 29,
+    "C-Topic": 54,
+    "C-Value": 61,
+    "Cause": 23,
+    "Co-Agent": 26,
+    "Co-Patient": 39,
+    "Co-Theme": 31,
+    "Connective": 11,
+    "Destination": 14,
+    "Experiencer": 2,
+    "Extent": 40,
+    "Goal": 21,
+    "Idiom": 53,
+    "Instrument": 35,
+    "Location": 5,
+    "Material": 42,
+    "Modal": 7,
+    "Modifier": 66,
+    "Negation": 30,
+    "Patient": 8,
+    "Predicative": 48,
+    "Product": 33,
+    "Purpose": 19,
+    "R-Adverbial": 67,
+    "R-Agent": 13,
+    "R-Asset": 60,
+    "R-Attribute": 38,
+    "R-Beneficiary": 58,
+    "R-Cause": 34,
+    "R-Co-Agent": 72,
+    "R-Co-Patient": 79,
+    "R-Co-Theme": 78,
+    "R-Destination": 74,
+    "R-Experiencer": 50,
+    "R-Extent": 73,
+    "R-Goal": 49,
+    "R-Idiom": 86,
+    "R-Instrument": 59,
+    "R-Location": 32,
+    "R-Material": 88,
+    "R-Patient": 36,
+    "R-Product": 55,
+    "R-Purpose": 83,
+    "R-Recipient": 46,
+    "R-Result": 65,
+    "R-Source": 18,
+    "R-Stimulus": 56,
+    "R-Theme": 28,
+    "R-Time": 20,
+    "R-Topic": 45,
+    "R-Value": 57,
+    "Recipient": 17,
+    "Result": 16,
+    "Source": 15,
+    "Stimulus": 27,
+    "Theme": 4,
+    "Time": 9,
+    "Topic": 10,
+    "Value": 41,
+    "_": 0
+  },
+  "senses": {
+    "<UNK>": 1,
+    "ABSORB": 362,
+    "ABSTAIN_AVOID_REFRAIN": 171,
+    "ACCOMPANY": 129,
+    "ACCUSE": 164,
+    "ACHIEVE": 122,
+    "ADD": 166,
+    "ADJUST_CORRECT": 77,
+    "AFFECT": 87,
+    "AFFIRM": 8,
+    "AGREE_ACCEPT": 183,
+    "AIR": 361,
+    "ALLY_ASSOCIATE_MARRY": 272,
+    "ALTERNATE": 329,
+    "AMASS": 94,
+    "AMELIORATE": 199,
+    "ANALYZE": 70,
+    "ANSWER": 193,
+    "APPEAR": 104,
+    "APPROVE_PRAISE": 79,
+    "ARGUE-IN-DEFENSE": 334,
+    "AROUSE_WAKE_ENLIVEN": 2,
+    "ARRIVE": 147,
+    "ASCRIBE": 5,
+    "ASK_REQUEST": 18,
+    "ASSIGN-smt-to-smn": 240,
+    "ATTACH": 67,
+    "ATTACK_BOMB": 269,
+    "ATTEND": 210,
+    "ATTRACT_SUCK": 132,
+    "AUTHORIZE_ADMIT": 140,
+    "AUTOMATIZE": 390,
+    "AUXILIARY": 232,
+    "BE-LOCATED_BASE": 256,
+    "BEFRIEND": 418,
+    "BEGIN": 25,
+    "BEHAVE": 195,
+    "BELIEVE": 80,
+    "BEND": 363,
+    "BENEFIT_EXPLOIT": 370,
+    "BETRAY": 403,
+    "BEWITCH": 416,
+    "BID": 371,
+    "BLIND": 400,
+    "BORDER": 284,
+    "BREAK_DETERIORATE": 181,
+    "BREATH_BLOW": 360,
+    "BRING": 148,
+    "BULGE-OUT": 393,
+    "BURDEN_BEAR": 372,
+    "BURN": 235,
+    "BURY_PLANT": 307,
+    "BUY": 159,
+    "CAGE_IMPRISON": 228,
+    "CALCULATE_ESTIMATE": 113,
+    "CANCEL_ELIMINATE": 279,
+    "CARRY-OUT-ACTION": 12,
+    "CARRY_TRANSPORT": 223,
+    "CATCH": 145,
+    "CATCH_EMBARK": 419,
+    "CAUSE-MENTAL-STATE": 55,
+    "CAUSE-SMT": 37,
+    "CAVE_CARVE": 389,
+    "CELEBRATE_PARTY": 406,
+    "CHANGE-APPEARANCE/STATE": 137,
+    "CHANGE-HANDS": 366,
+    "CHANGE-TASTE": 388,
+    "CHANGE_SWITCH": 26,
+    "CHARGE": 40,
+    "CHASE": 32,
+    "CHOOSE": 91,
+    "CIRCULATE_SPREAD_DISTRIBUTE": 24,
+    "CITE": 299,
+    "CLOSE": 135,
+    "CLOUD_SHADOW_HIDE": 233,
+    "CO-OPT": 402,
+    "COLOR": 384,
+    "COMBINE_MIX_UNITE": 95,
+    "COME-AFTER_FOLLOW-IN-TIME": 92,
+    "COME-FROM": 125,
+    "COMMUNE": 247,
+    "COMMUNICATE_CONTACT": 294,
+    "COMMUNIZE": 392,
+    "COMPARE": 324,
+    "COMPENSATE": 165,
+    "COMPETE": 160,
+    "COMPLEXIFY": 394,
+    "CONSIDER": 64,
+    "CONSUME_SPEND": 231,
+    "CONTAIN": 126,
+    "CONTINUE": 93,
+    "CONTRACT-AN-ILLNESS_INFECT": 314,
+    "CONVERT": 245,
+    "COOK": 395,
+    "COOL": 310,
+    "COPY": 357,
+    "CORRELATE": 101,
+    "CORRODE_WEAR-AWAY_SCRATCH": 297,
+    "CORRUPT": 409,
+    "COST": 288,
+    "COUNT": 290,
+    "COURT": 190,
+    "COVER_SPREAD_SURMOUNT": 364,
+    "CREATE_MATERIALIZE": 60,
+    "CRITICIZE": 176,
+    "CRY": 365,
+    "CUT": 21,
+    "DANCE": 412,
+    "DEBASE_ADULTERATE": 374,
+    "DECEIVE": 220,
+    "DECIDE_DETERMINE": 88,
+    "DECREE_DECLARE": 111,
+    "DEFEAT": 320,
+    "DELAY": 108,
+    "DESTROY": 142,
+    "DEVELOP_AGE": 262,
+    "DIM": 339,
+    "DIP_DIVE": 300,
+    "DIRECT_AIM_MANEUVER": 98,
+    "DIRTY": 227,
+    "DISAPPEAR": 379,
+    "DISBAND_BREAK-UP": 311,
+    "DISCARD": 182,
+    "DISCOURSE-FUNCTION": 401,
+    "DISCUSS": 216,
+    "DISLIKE": 368,
+    "DISMISS_FIRE-SMN": 117,
+    "DISTINGUISH_DIFFER": 186,
+    "DIVERSIFY": 285,
+    "DIVIDE": 266,
+    "DOWNPLAY_HUMILIATE": 76,
+    "DRESS_WEAR": 287,
+    "DRINK": 282,
+    "DRIVE-BACK": 353,
+    "DROP": 189,
+    "EARN": 211,
+    "EAT_BITE": 327,
+    "EMBELLISH": 359,
+    "EMIT": 99,
+    "EMPHASIZE": 214,
+    "EMPTY_UNLOAD": 380,
+    "ENCLOSE_WRAP": 291,
+    "ENDANGER": 270,
+    "ENJOY": 44,
+    "ENTER": 16,
+    "ESTABLISH": 114,
+    "EXCRETE": 278,
+    "EXEMPT": 301,
+    "EXHAUST": 367,
+    "EXIST-WITH-FEATURE": 36,
+    "EXIST_LIVE": 241,
+    "EXPLAIN": 107,
+    "EXPLODE": 30,
+    "EXTEND": 213,
+    "EXTRACT": 306,
+    "FACE_CHALLENGE": 28,
+    "FACIAL-EXPRESSION": 381,
+    "FAIL_LOSE": 103,
+    "FAKE": 399,
+    "FALL_SLIDE-DOWN": 274,
+    "FEEL": 221,
+    "FIGHT": 215,
+    "FILL": 313,
+    "FIND": 51,
+    "FINISH_CONCLUDE_END": 188,
+    "FIT": 229,
+    "FLATTEN_SMOOTHEN": 321,
+    "FLATTER": 264,
+    "FLOW": 29,
+    "FLY": 178,
+    "FOCUS": 136,
+    "FOLLOW-IN-SPACE": 144,
+    "FOLLOW_SUPPORT_SPONSOR_FUND": 100,
+    "FORGET": 261,
+    "FRUSTRATE_DISAPPOINT": 342,
+    "FUEL": 377,
+    "GENERATE": 276,
+    "GIVE-BIRTH": 257,
+    "GIVE-UP_ABOLISH_ABANDON": 90,
+    "GIVE_GIFT": 153,
+    "GO-FORWARD": 13,
+    "GROUND_BASE_FOUND": 139,
+    "GROUP": 296,
+    "GROW_PLOW": 335,
+    "GUARANTEE_ENSURE_PROMISE": 197,
+    "GUESS": 63,
+    "HANG": 302,
+    "HAPPEN_OCCUR": 58,
+    "HARMONIZE": 338,
+    "HAVE-A-FUNCTION_SERVE": 315,
+    "HAVE-SEX": 349,
+    "HEAR_LISTEN": 254,
+    "HEAT": 385,
+    "HELP_HEAL_CARE_CURE": 180,
+    "HIRE": 218,
+    "HIT": 68,
+    "HOLE_PIERCE": 236,
+    "HOST_MEAL_INVITE": 373,
+    "HUNT": 34,
+    "HURT_HARM_ACHE": 124,
+    "IMAGINE": 305,
+    "IMPLY": 31,
+    "INCITE_INDUCE": 52,
+    "INCLINE": 273,
+    "INCLUDE-AS": 105,
+    "INCREASE_ENLARGE_MULTIPLY": 57,
+    "INFER": 354,
+    "INFLUENCE": 194,
+    "INFORM": 121,
+    "INSERT": 65,
+    "INTERPRET": 201,
+    "INVERT_REVERSE": 331,
+    "ISOLATE": 332,
+    "JOIN_CONNECT": 202,
+    "JOKE": 293,
+    "JUMP": 292,
+    "JUSTIFY_EXCUSE": 204,
+    "KILL": 169,
+    "KNOCK-DOWN": 295,
+    "KNOW": 97,
+    "LAND_GET-OFF": 49,
+    "LAUGH": 157,
+    "LEAD_GOVERN": 120,
+    "LEARN": 85,
+    "LEAVE-BEHIND": 397,
+    "LEAVE_DEPART_RUN-AWAY": 149,
+    "LEND": 89,
+    "LIBERATE_ALLOW_AFFORD": 86,
+    "LIE": 234,
+    "LIGHT-VERB": 156,
+    "LIGHTEN": 396,
+    "LIGHT_SHINE": 346,
+    "LIKE": 205,
+    "LOAD_PROVIDE_CHARGE_FURNISH": 41,
+    "LOCATE-IN-TIME_DATE": 177,
+    "LOSE": 162,
+    "LOWER": 260,
+    "LURE_ENTICE": 378,
+    "MAKE-A-SOUND": 268,
+    "MAKE-RELAX": 6,
+    "MANAGE": 72,
+    "MATCH": 224,
+    "MEAN": 304,
+    "MEASURE_EVALUATE": 82,
+    "MEET": 175,
+    "MESS": 286,
+    "METEOROLOGICAL": 415,
+    "MISS_OMIT_LACK": 203,
+    "MISTAKE": 344,
+    "MODAL": 62,
+    "MOUNT_ASSEMBLE_PRODUCE": 73,
+    "MOVE-BACK": 283,
+    "MOVE-BY-MEANS-OF": 253,
+    "MOVE-ONESELF": 222,
+    "MOVE-SOMETHING": 27,
+    "MUST": 386,
+    "NAME": 71,
+    "NEGOTIATE": 308,
+    "NOURISH_FEED": 347,
+    "OBEY": 184,
+    "OBLIGE_FORCE": 112,
+    "OBTAIN": 39,
+    "ODORIZE": 411,
+    "OFFEND_DISESTEEM": 350,
+    "OFFER": 187,
+    "OPEN": 19,
+    "OPERATE": 130,
+    "OPPOSE_REBEL_DISSENT": 172,
+    "ORDER": 330,
+    "ORGANIZE": 119,
+    "ORIENT": 408,
+    "OVERCOME_SURPASS": 161,
+    "OVERLAP": 336,
+    "PAINT": 238,
+    "PARDON": 341,
+    "PARTICIPATE": 207,
+    "PAY": 75,
+    "PERCEIVE": 358,
+    "PERFORM": 4,
+    "PERSUADE": 66,
+    "PLAN_SCHEDULE": 138,
+    "PLAY_SPORT/GAME": 155,
+    "POPULATE": 323,
+    "POSSESS": 96,
+    "PRECEDE": 387,
+    "PRECLUDE_FORBID_EXPEL": 123,
+    "PREPARE": 230,
+    "PRESERVE": 326,
+    "PRESS_PUSH_FOLD": 249,
+    "PRINT": 391,
+    "PROMOTE": 398,
+    "PRONOUNCE": 413,
+    "PROPOSE": 208,
+    "PROTECT": 168,
+    "PROVE": 127,
+    "PUBLICIZE": 319,
+    "PUBLISH": 154,
+    "PULL": 146,
+    "PUNISH": 185,
+    "PUT_APPLY_PLACE_PAVE": 17,
+    "QUARREL_POLEMICIZE": 325,
+    "RAISE": 56,
+    "REACH": 209,
+    "REACT": 61,
+    "READ": 45,
+    "RECALL": 318,
+    "RECEIVE": 212,
+    "RECOGNIZE_ADMIT_IDENTIFY": 9,
+    "RECORD": 109,
+    "REDUCE_DIMINISH": 81,
+    "REFER": 59,
+    "REFLECT": 42,
+    "REFUSE": 20,
+    "REGRET_SORRY": 343,
+    "RELY": 83,
+    "REMAIN": 116,
+    "REMEMBER": 143,
+    "REMOVE_TAKE-AWAY_KIDNAP": 35,
+    "RENEW": 340,
+    "REPAIR_REMEDY": 263,
+    "REPEAT": 280,
+    "REPLACE": 43,
+    "REPRESENT": 15,
+    "REPRIMAND": 351,
+    "REQUIRE_NEED_WANT_HOPE": 22,
+    "RESERVE": 312,
+    "RESIGN_RETIRE": 226,
+    "RESIST": 151,
+    "RESTORE-TO-PREVIOUS/INITIAL-STATE_UNDO_UNWIND": 152,
+    "RESTRAIN": 53,
+    "RESULT_CONSEQUENCE": 33,
+    "RETAIN_KEEP_SAVE-MONEY": 54,
+    "REVEAL": 102,
+    "RISK": 196,
+    "ROLL": 252,
+    "RUN": 281,
+    "SATISFY_FULFILL": 200,
+    "SCORE": 251,
+    "SEARCH": 48,
+    "SECURE_FASTEN_TIE": 348,
+    "SEE": 84,
+    "SEEM": 14,
+    "SELL": 74,
+    "SEND": 134,
+    "SEPARATE_FILTER_DETACH": 118,
+    "SETTLE_CONCILIATE": 191,
+    "SEW": 417,
+    "SHAPE": 322,
+    "SHARE": 179,
+    "SHARPEN": 309,
+    "SHOOT_LAUNCH_PROPEL": 333,
+    "SHOUT": 405,
+    "SHOW": 23,
+    "SIGN": 337,
+    "SIGNAL_INDICATE": 47,
+    "SIMPLIFY": 355,
+    "SIMULATE": 163,
+    "SING": 352,
+    "SLEEP": 404,
+    "SLOW-DOWN": 206,
+    "SMELL": 328,
+    "SOLVE": 383,
+    "SORT_CLASSIFY_ARRANGE": 289,
+    "SPEAK": 46,
+    "SPEED-UP": 316,
+    "SPEND-TIME_PASS-TIME": 219,
+    "SPILL_POUR": 131,
+    "SPOIL": 376,
+    "STABILIZE_SUPPORT-PHYSICALLY": 317,
+    "STAY_DWELL": 69,
+    "STEAL_DEPRIVE": 11,
+    "STOP": 115,
+    "STRAIGHTEN": 410,
+    "STRENGTHEN_MAKE-RESISTANT": 265,
+    "STUDY": 375,
+    "SUBJECTIVE-JUDGING": 158,
+    "SUBJUGATE": 382,
+    "SUMMARIZE": 369,
+    "SUMMON": 150,
+    "SUPPOSE": 239,
+    "SWITCH-OFF_TURN-OFF_SHUT-DOWN": 259,
+    "TAKE": 3,
+    "TAKE-A-SERVICE_RENT": 243,
+    "TAKE-INTO-ACCOUNT_CONSIDER": 271,
+    "TAKE-SHELTER": 356,
+    "TASTE": 407,
+    "TEACH": 170,
+    "THINK": 78,
+    "THROW": 242,
+    "TIGHTEN": 298,
+    "TOLERATE": 141,
+    "TOUCH": 275,
+    "TRANSLATE": 345,
+    "TRANSMIT": 128,
+    "TRAVEL": 255,
+    "TREAT": 173,
+    "TRY": 110,
+    "TURN_CHANGE-DIRECTION": 258,
+    "TYPE": 414,
+    "UNDERGO-EXPERIENCE": 167,
+    "UNDERSTAND": 248,
+    "UNFASTEN_UNFOLD": 198,
+    "USE": 10,
+    "VERIFY": 38,
+    "VIOLATE": 303,
+    "VISIT": 192,
+    "WAIT": 225,
+    "WARN": 267,
+    "WASH_CLEAN": 244,
+    "WASTE": 277,
+    "WATCH_LOOK-OUT": 217,
+    "WEAKEN": 7,
+    "WEAVE": 246,
+    "WELCOME": 133,
+    "WET": 250,
+    "WIN": 174,
+    "WORK": 50,
+    "WORSEN": 237,
+    "WRITE": 106,
+    "_": 0
+  }
+}

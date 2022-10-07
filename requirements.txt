@@ -1,0 +1,6 @@
+pytorch-lightning[extra]==1.7.5
+transformers==4.20.1
+omegaconf==2.2.2
+jsonargparse==4.13.3
+stanza==1.4.2
+gradio==3.3.1

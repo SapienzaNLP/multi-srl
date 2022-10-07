@@ -1,0 +1,3835 @@
+{
+  "candidates": {
+    "_": [
+      "beeinflussen.1"
+    ],
+    "abfragen": [
+      "abfragen.1"
+    ],
+    "abf\u00fcllen": [
+      "abf\u00fcllen.1"
+    ],
+    "abgeben": [
+      "abgeben.1",
+      "abgeben.2",
+      "abgeben.3",
+      "abgeben.4",
+      "abgeben.5"
+    ],
+    "abh\u00e4ngen": [
+      "abh\u00e4ngen.1",
+      "abh\u00e4ngen.2"
+    ],
+    "abh\u00f6ren": [
+      "abh\u00f6ren.1"
+    ],
+    "ablegen": [
+      "ablegen.1",
+      "ablegen.2",
+      "ablegen.3"
+    ],
+    "ablehnen": [
+      "ablehnen.1"
+    ],
+    "ableiten": [
+      "ableiten.1",
+      "ableiten.2"
+    ],
+    "abl\u00f6sen": [
+      "abl\u00f6sen.1",
+      "abl\u00f6sen.2",
+      "abl\u00f6sen.3"
+    ],
+    "abqualifizieren": [
+      "abqualifizieren.1",
+      "abqualifizieren.2"
+    ],
+    "abraten": [
+      "abraten.1"
+    ],
+    "abschaffen": [
+      "abschaffen.1"
+    ],
+    "abschlachten": [
+      "abschlachten.1"
+    ],
+    "absterben": [
+      "absterben.1"
+    ],
+    "abwerten": [
+      "abwerten.1"
+    ],
+    "achten": [
+      "achten.1",
+      "achten.2",
+      "achten.3"
+    ],
+    "ahnden": [
+      "ahnden.1"
+    ],
+    "ahnen": [
+      "ahnen.1"
+    ],
+    "akzeptieren": [
+      "akzeptieren.1",
+      "akzeptieren.2"
+    ],
+    "anbieten": [
+      "anbieten.1",
+      "anbieten.2"
+    ],
+    "anblicken": [
+      "anblicken.1"
+    ],
+    "anfahren": [
+      "anfahren.1",
+      "anfahren.2",
+      "anfahren.3"
+    ],
+    "anfallen": [
+      "anfallen.1",
+      "anfallen.2"
+    ],
+    "anf\u00fchren": [
+      "anf\u00fchren.1",
+      "anf\u00fchren.2"
+    ],
+    "angeben": [
+      "angeben.1",
+      "angeben.2"
+    ],
+    "angegeben": [
+      "angeben.1",
+      "angeben.2",
+      "angeben.3"
+    ],
+    "angeh\u00f6ren": [
+      "angeh\u00f6ren.1"
+    ],
+    "angeh\u00f6ren|anh\u00f6ren": [
+      "angeh\u00f6ren.1",
+      "anh\u00f6ren.1",
+      "anh\u00f6ren.2",
+      "anh\u00f6ren.5"
+    ],
+    "angreifen": [
+      "angreifen.1",
+      "angreifen.2",
+      "angreifen.3",
+      "angreifen.4"
+    ],
+    "angucken": [
+      "angucken.1"
+    ],
+    "anh\u00e4ufen": [
+      "anh\u00e4ufen.1"
+    ],
+    "anh\u00f6ren": [
+      "anh\u00f6ren.1",
+      "anh\u00f6ren.2",
+      "anh\u00f6ren.3",
+      "anh\u00f6ren.4"
+    ],
+    "anklagen": [
+      "anklagen.1",
+      "anklagen.2"
+    ],
+    "ankommen": [
+      "ankommen.1",
+      "ankommen.2",
+      "ankommen.3",
+      "ankommen.4"
+    ],
+    "ank\u00fcndigen": [
+      "ank\u00fcndigen.1"
+    ],
+    "annehmen": [
+      "annehmen.1",
+      "annehmen.2",
+      "annehmen.3",
+      "annehmen.4",
+      "annehmen.5",
+      "annehmen.7"
+    ],
+    "anordnen": [
+      "anordnen.1"
+    ],
+    "ansagen": [
+      "ansagen.1",
+      "ansagen.2"
+    ],
+    "anschauen": [
+      "anschauen.1",
+      "anschauen.2"
+    ],
+    "anschie\u00dfen": [
+      "anschie\u00dfen.1"
+    ],
+    "ansehen": [
+      "ansehen.1",
+      "ansehen.2",
+      "ansehen.3",
+      "ansehen.4"
+    ],
+    "anstellen": [
+      "anstellen.1",
+      "anstellen.2",
+      "anstellen.3"
+    ],
+    "ansteuern": [
+      "ansteuern.1"
+    ],
+    "anstreben": [
+      "anstreben.1"
+    ],
+    "antworten": [
+      "antworten.1",
+      "antworten.2"
+    ],
+    "appellieren": [
+      "appellieren.1"
+    ],
+    "applaudieren": [
+      "applaudieren.1"
+    ],
+    "arbeiten": [
+      "arbeiten.1",
+      "arbeiten.2",
+      "arbeiten.3",
+      "arbeiten.4",
+      "arbeiten.5",
+      "arbeiten.6"
+    ],
+    "argumentieren": [
+      "argumentieren.1"
+    ],
+    "argw\u00f6hnen": [
+      "argw\u00f6hnen.1",
+      "argw\u00f6hnen.2"
+    ],
+    "attackieren": [
+      "attackieren.1"
+    ],
+    "attestieren": [
+      "attestieren.1"
+    ],
+    "auffallen": [
+      "auffallen.1",
+      "auffallen.2"
+    ],
+    "auffordern": [
+      "auffordern.1"
+    ],
+    "aufgeh\u00f6ren|aufh\u00f6ren": [
+      "aufh\u00f6ren.1"
+    ],
+    "aufh\u00f6ren": [
+      "aufh\u00f6ren.1"
+    ],
+    "aufrufen": [
+      "aufrufen.1",
+      "aufrufen.2",
+      "aufrufen.3"
+    ],
+    "aufschlagen": [
+      "aufschlagen.1",
+      "aufschlagen.2"
+    ],
+    "ausfallen": [
+      "ausfallen.1",
+      "ausfallen.2"
+    ],
+    "auslagern": [
+      "auslagern.1"
+    ],
+    "ausrotten": [
+      "ausrotten.1"
+    ],
+    "ausrufen": [
+      "ausrufen.1"
+    ],
+    "aussagen": [
+      "aussagen.1",
+      "aussagen.2"
+    ],
+    "ausschalten": [
+      "ausschalten.1"
+    ],
+    "ausschlagen": [
+      "ausschlagen.1",
+      "ausschlagen.2"
+    ],
+    "aussprechen": [
+      "aussprechen.1",
+      "aussprechen.2"
+    ],
+    "aussterben": [
+      "ausgestorben.1",
+      "aussterben.1"
+    ],
+    "ausweiten": [
+      "ausgeweitet.1",
+      "ausweiten.1",
+      "ausweiten.2"
+    ],
+    "ausw\u00e4hlen": [
+      "ausw\u00e4hlen.1"
+    ],
+    "avisieren": [
+      "avisieren.1"
+    ],
+    "bauen": [
+      "bauen.1",
+      "bauen.2"
+    ],
+    "beanspruchen": [
+      "beanspruchen.1",
+      "beanspruchen.2"
+    ],
+    "beantragen": [
+      "beantragen.1"
+    ],
+    "beauftragen": [
+      "beauftragen.1"
+    ],
+    "beauftragt": [
+      "beauftragen.1"
+    ],
+    "bedachen|bedenken": [
+      "bedenken.2",
+      "bedenken.3"
+    ],
+    "bedarf": [
+      "bed\u00fcrfen.1",
+      "bed\u00fcrfen.2",
+      "bed\u00fcrfen.3"
+    ],
+    "bedauern": [
+      "bedauern.1",
+      "bedauern.2",
+      "bedauern.3"
+    ],
+    "bedenken": [
+      "bedenken.1",
+      "bedenken.3"
+    ],
+    "bedeuten": [
+      "bedeuten.1",
+      "bedeuten.2",
+      "bedeuten.3",
+      "bedeuten.4",
+      "bedeuten.5",
+      "bedeuten.6",
+      "bedeuten.7"
+    ],
+    "bedrohen": [
+      "bedrohen.1",
+      "bedrohen.2",
+      "bedrohen.3",
+      "bedrohen.4"
+    ],
+    "bedroht": [
+      "bedrohen.1",
+      "bedrohen.3"
+    ],
+    "bedurft": [
+      "bed\u00fcrfen.2"
+    ],
+    "bedurfte": [
+      "bed\u00fcrfen.1",
+      "bed\u00fcrfen.3"
+    ],
+    "bed\u00fcrfe": [
+      "bed\u00fcrfen.1",
+      "bed\u00fcrfen.3"
+    ],
+    "bed\u00fcrfen": [
+      "bed\u00fcrfen.2",
+      "bed\u00fcrfen.3"
+    ],
+    "beeinflussen": [
+      "beeinflussen.1",
+      "beeinflussen.2"
+    ],
+    "befinden": [
+      "befinden.1",
+      "befinden.2",
+      "befinden.3",
+      "befinden.4",
+      "befinden.5"
+    ],
+    "befragen": [
+      "befragen.1"
+    ],
+    "bef\u00fcrchten": [
+      "bef\u00fcrchten.1"
+    ],
+    "bef\u00fcrworten": [
+      "bef\u00fcrworten.1"
+    ],
+    "beglaubigen": [
+      "beglaubigen.1"
+    ],
+    "begreifen": [
+      "begreifen.1",
+      "begreifen.2",
+      "begreifen.3"
+    ],
+    "begr\u00fcnden": [
+      "begr\u00fcnden.1",
+      "begr\u00fcnden.2",
+      "begr\u00fcnden.3",
+      "begr\u00fcnden.4"
+    ],
+    "begr\u00fc\u00dfen": [
+      "begr\u00fc\u00dfen.1",
+      "begr\u00fc\u00dfen.2",
+      "begr\u00fc\u00dfen.3"
+    ],
+    "begr\u00fc\u00dft": [
+      "begr\u00fc\u00dfen.1"
+    ],
+    "behandeln": [
+      "behandeln.1",
+      "behandeln.2",
+      "behandeln.3",
+      "behandeln.4"
+    ],
+    "behaupten": [
+      "behaupten.1",
+      "behaupten.2",
+      "behaupten.3"
+    ],
+    "behauptet": [
+      "behaupten.1"
+    ],
+    "bejahen": [
+      "bejahen.1",
+      "bejahen.2"
+    ],
+    "bejubele": [
+      "bejubele.1"
+    ],
+    "bekommen": [
+      "bekommen.1",
+      "bekommen.2",
+      "bekommen.3",
+      "bekommen.4",
+      "bekommen.6",
+      "bekommen.7"
+    ],
+    "bekr\u00e4ftigen": [
+      "bekr\u00e4ftigen.1"
+    ],
+    "belehren": [
+      "belehren.1"
+    ],
+    "bemerken": [
+      "bemerken.1",
+      "bemerken.2",
+      "bemerken.3"
+    ],
+    "bem\u00fchen": [
+      "bem\u00fchen.1",
+      "bem\u00fchen.2",
+      "bem\u00fchen.3",
+      "bem\u00fchen.4"
+    ],
+    "bem\u00fcht": [
+      "bem\u00fchen.1"
+    ],
+    "benachrichtigen": [
+      "benachrichtigen.1"
+    ],
+    "ben\u00f6tigen": [
+      "ben\u00f6tigen.1",
+      "ben\u00f6tigen.2",
+      "ben\u00f6tigen.3"
+    ],
+    "beobachten": [
+      "beobachten.1",
+      "beobachten.2",
+      "beobachten.3"
+    ],
+    "beobachtet": [
+      "beobachten.1"
+    ],
+    "berechnen": [
+      "berechnen.1",
+      "berechnen.2"
+    ],
+    "bereiten": [
+      "bereiten.1",
+      "bereiten.2"
+    ],
+    "berichten": [
+      "berichten.1"
+    ],
+    "berichtet": [
+      "berichten.1"
+    ],
+    "berufen": [
+      "berufen.1",
+      "berufen.2"
+    ],
+    "ber\u00fccksichtigen": [
+      "ber\u00fccksichtigen.1",
+      "ber\u00fccksichtigen.2"
+    ],
+    "beschie\u00dfen": [
+      "beschie\u00dfen.1"
+    ],
+    "beschleunigen": [
+      "beschleunigen.1",
+      "beschleunigen.2"
+    ],
+    "besichtigen": [
+      "besichtigen.1",
+      "besichtigen.2"
+    ],
+    "besichtigt": [
+      "besichtigen.2"
+    ],
+    "besitzen": [
+      "besitzen.1",
+      "besitzen.2"
+    ],
+    "bestaunen": [
+      "bestaunen.1"
+    ],
+    "besteigen": [
+      "besteigen.1"
+    ],
+    "beteiligen": [
+      "beteiligen.1",
+      "beteiligen.2",
+      "beteiligen.3"
+    ],
+    "beteuern": [
+      "beteuern.1"
+    ],
+    "betonen": [
+      "betonen.1",
+      "betonen.2"
+    ],
+    "betrachten": [
+      "betrachten.1",
+      "betrachten.2",
+      "betrachten.3",
+      "betrachten.4",
+      "betrachten.5"
+    ],
+    "betrachtet": [
+      "betrachten.3"
+    ],
+    "beurteilen": [
+      "beurteilen.1",
+      "beurteilen.2"
+    ],
+    "beurteilt": [
+      "beurteilen.1"
+    ],
+    "bevorstehen": [
+      "bevorstehen.1"
+    ],
+    "bewundern": [
+      "bewundern.1"
+    ],
+    "bew\u00e4ltigen": [
+      "bew\u00e4ltigen.1"
+    ],
+    "bezahlen": [
+      "bezahlen.1",
+      "bezahlen.2"
+    ],
+    "bezeugen": [
+      "bezeugen.1"
+    ],
+    "beziffern": [
+      "beziffern.1"
+    ],
+    "be\u00e4ugen": [
+      "be\u00e4ugen.1"
+    ],
+    "bieten": [
+      "bieten.1",
+      "bieten.2"
+    ],
+    "billigen": [
+      "billigen.1",
+      "billigen.2"
+    ],
+    "bitte": [
+      "bitten.1"
+    ],
+    "bitten": [
+      "bitten.1",
+      "bitten.2"
+    ],
+    "bitte|bitten": [
+      "bitten.1"
+    ],
+    "bleiben": [
+      "bleiben.1",
+      "bleiben.2",
+      "bleiben.3",
+      "bleiben.4",
+      "bleiben.5",
+      "bleiben.6",
+      "bleiben.7",
+      "bleiben.8",
+      "geblieben.1"
+    ],
+    "blicken": [
+      "blicken.1",
+      "blicken.2",
+      "blicken.3"
+    ],
+    "brauchen": [
+      "brauchen.1",
+      "brauchen.2",
+      "brauchen.3",
+      "brauchen.4",
+      "brauchen.5",
+      "brauchen.6"
+    ],
+    "brauchen|gebrauchen": [
+      "brauchen.1",
+      "brauchen.3",
+      "brauchen.5"
+    ],
+    "brechen": [
+      "brechen.1",
+      "brechen.10",
+      "brechen.2",
+      "brechen.3",
+      "brechen.4",
+      "brechen.5",
+      "brechen.6",
+      "brechen.7",
+      "brechen.8",
+      "brechen.9"
+    ],
+    "brennen": [
+      "brennen.1",
+      "brennen.2"
+    ],
+    "bringen": [
+      "bringen.1",
+      "bringen.10",
+      "bringen.11",
+      "bringen.12",
+      "bringen.13",
+      "bringen.14",
+      "bringen.15",
+      "bringen.16",
+      "bringen.17",
+      "bringen.18",
+      "bringen.19",
+      "bringen.2",
+      "bringen.20",
+      "bringen.21",
+      "bringen.22",
+      "bringen.3",
+      "bringen.4",
+      "bringen.5",
+      "bringen.6",
+      "bringen.7",
+      "bringen.8",
+      "bringen.9"
+    ],
+    "buchen": [
+      "buchen.1",
+      "buchen.2"
+    ],
+    "bummeln": [
+      "bummeln.1"
+    ],
+    "danken": [
+      "danken.1",
+      "danken.2"
+    ],
+    "darstellen": [
+      "darstellen.1",
+      "darstellen.10",
+      "darstellen.11",
+      "darstellen.12",
+      "darstellen.2",
+      "darstellen.3",
+      "darstellen.4",
+      "darstellen.5",
+      "darstellen.6",
+      "darstellen.7",
+      "darstellen.8",
+      "darstellen.9"
+    ],
+    "dauern": [
+      "dauern.1"
+    ],
+    "dementieren": [
+      "dementieren.1"
+    ],
+    "dementiert": [
+      "dementieren.1"
+    ],
+    "demonstrieren": [
+      "demonstrieren.1",
+      "demonstrieren.2",
+      "demonstrieren.3",
+      "demonstrieren.4"
+    ],
+    "denken": [
+      "denken.1",
+      "denken.10",
+      "denken.2",
+      "denken.3",
+      "denken.5",
+      "denken.6",
+      "denken.7"
+    ],
+    "denken|gedenken": [
+      "denken.1",
+      "denken.3",
+      "denken.4",
+      "denken.6",
+      "denken.8"
+    ],
+    "denunzieren": [
+      "denunzieren.1"
+    ],
+    "dienen": [
+      "dienen.1",
+      "dienen.2"
+    ],
+    "diskutieren": [
+      "diskutieren.1",
+      "diskutieren.2"
+    ],
+    "drohen": [
+      "drohen.1",
+      "drohen.2",
+      "drohen.3"
+    ],
+    "dr\u00f6hnen": [
+      "dr\u00f6hnen.1"
+    ],
+    "durchschlagen": [
+      "durchschlagen.1",
+      "durchschlagen.2",
+      "durchschlagen.3"
+    ],
+    "durchsetzen": [
+      "durchsetzen.1",
+      "durchsetzen.2",
+      "durchsetzen.3"
+    ],
+    "ehren": [
+      "ehren.1",
+      "ehren.2"
+    ],
+    "einf\u00fchren": [
+      "einf\u00fchren.1",
+      "einf\u00fchren.2",
+      "einf\u00fchren.3"
+    ],
+    "eingeschlossen": [
+      "einschlie\u00dfen.1",
+      "einschlie\u00dfen.2"
+    ],
+    "einige": [
+      "einigen.1"
+    ],
+    "einigen": [
+      "einigen.1"
+    ],
+    "einkaufen": [
+      "einkaufen.1"
+    ],
+    "einordnen": [
+      "einordnen.1"
+    ],
+    "einpflanzen": [
+      "einpflanzen.1"
+    ],
+    "einr\u00e4umen": [
+      "einr\u00e4umen.1",
+      "einr\u00e4umen.2",
+      "einr\u00e4umen.3"
+    ],
+    "einsacken": [
+      "einsacken.1"
+    ],
+    "einschlagen": [
+      "einschlagen.1",
+      "einschlagen.2"
+    ],
+    "einschlie\u00dfen": [
+      "einschlie\u00dfen.1",
+      "einschlie\u00dfen.3"
+    ],
+    "einspeisen": [
+      "einspeisen.1"
+    ],
+    "einspritzen": [
+      "einspritzen.1"
+    ],
+    "eintauchen": [
+      "eintauchen.1"
+    ],
+    "eintreffen": [
+      "eintreffen.1",
+      "eintreffen.2"
+    ],
+    "eintreffen|eintriefen": [
+      "eintreffen.1",
+      "eintreffen.2"
+    ],
+    "eliminieren": [
+      "eliminieren.1"
+    ],
+    "empfehlen": [
+      "empfehlen.1",
+      "empfehlen.2",
+      "empfehlen.3"
+    ],
+    "empfinden": [
+      "empfinden.1",
+      "empfinden.2",
+      "empfinden.3"
+    ],
+    "engagieren": [
+      "engagieren.1",
+      "engagieren.2",
+      "engagieren.3"
+    ],
+    "entdecken": [
+      "entdecken.1",
+      "entdecken.2",
+      "entdeckt.1"
+    ],
+    "entdeckt": [
+      "entdecken.1"
+    ],
+    "enthalten": [
+      "enthalten.1",
+      "enthalten.2",
+      "enthalten.3"
+    ],
+    "entstehen": [
+      "entstehen.1"
+    ],
+    "erblicken": [
+      "erblicken.1",
+      "erblicken.2"
+    ],
+    "erfassen": [
+      "erfassen.1",
+      "erfassen.2",
+      "erfassen.3",
+      "erfassen.4",
+      "erfassen.6"
+    ],
+    "erfordern": [
+      "erfordern.1",
+      "erfordern.2"
+    ],
+    "erfrieren": [
+      "erfrieren.1"
+    ],
+    "ergeben": [
+      "ergeben.1",
+      "ergeben.2",
+      "ergeben.3",
+      "ergeben.4"
+    ],
+    "erhalten": [
+      "erhalten.1",
+      "erhalten.2",
+      "erhalten.3",
+      "erhalten.4"
+    ],
+    "erhoffen": [
+      "erhoffen.1"
+    ],
+    "erh\u00f6hen": [
+      "erh\u00f6hen.1",
+      "erh\u00f6hen.2"
+    ],
+    "erkl\u00e4ren": [
+      "erkl\u00e4ren.1",
+      "erkl\u00e4ren.2",
+      "erkl\u00e4ren.3",
+      "erkl\u00e4ren.4",
+      "erkl\u00e4ren.5",
+      "erkl\u00e4ren.6",
+      "erkl\u00e4ren.7",
+      "erkl\u00e4ren.8"
+    ],
+    "erkl\u00e4rt": [
+      "erkl\u00e4ren.1"
+    ],
+    "erkundigen": [
+      "erkundigen.1"
+    ],
+    "erleben": [
+      "erleben.1",
+      "erleben.2"
+    ],
+    "erlernen": [
+      "erlernen.1"
+    ],
+    "erliegen": [
+      "erliegen.1"
+    ],
+    "erl\u00e4utern": [
+      "erl\u00e4utern.1",
+      "erl\u00e4utern.2"
+    ],
+    "ermitteln": [
+      "ermitteln.1",
+      "ermitteln.2"
+    ],
+    "ermorden": [
+      "ermorden.1"
+    ],
+    "erm\u00f6glichen": [
+      "erm\u00f6glichen.1"
+    ],
+    "erreichen": [
+      "erreichen.1",
+      "erreichen.2",
+      "erreichen.3",
+      "erreichen.4",
+      "erreichen.5"
+    ],
+    "erreicht": [
+      "erreichen.1",
+      "erreichen.2"
+    ],
+    "erschlagen": [
+      "erschlagen.1"
+    ],
+    "ersp\u00e4hen": [
+      "ersp\u00e4hen.1",
+      "ersp\u00e4hen.2"
+    ],
+    "ersticken": [
+      "ersticken.1",
+      "ersticken.2"
+    ],
+    "erwerben": [
+      "erwerben.1",
+      "erwerben.2"
+    ],
+    "erw\u00e4gen": [
+      "erw\u00e4gen.1"
+    ],
+    "erw\u00fcrgen": [
+      "erw\u00fcrgen.1"
+    ],
+    "exekutieren": [
+      "exekutieren.1"
+    ],
+    "existieren": [
+      "existieren.1"
+    ],
+    "explodieren": [
+      "explodieren.1"
+    ],
+    "fahren|f\u00fchren": [
+      "fahren.1"
+    ],
+    "fallen": [
+      "fallen.1",
+      "fallen.3",
+      "fallen.4",
+      "fallen.6"
+    ],
+    "fallen|f\u00e4llen": [
+      "fallen.1",
+      "fallen.2",
+      "fallen.3",
+      "fallen.5"
+    ],
+    "fehlen": [
+      "fehlen.1",
+      "fehlen.2"
+    ],
+    "fernsehen": [
+      "fernsehen.1"
+    ],
+    "festlegen": [
+      "festlegen.1",
+      "festlegen.2",
+      "festlegen.3",
+      "festlegen.4"
+    ],
+    "festnehmen": [
+      "festnehmen.1"
+    ],
+    "festsetzen": [
+      "festsetzen.1"
+    ],
+    "feststellen": [
+      "feststellen.1",
+      "feststellen.2",
+      "feststellen.3"
+    ],
+    "finanzieren": [
+      "finanzieren.1"
+    ],
+    "finden": [
+      "finden.1",
+      "finden.2",
+      "finden.3",
+      "finden.4"
+    ],
+    "fliegen": [
+      "fliegen.1",
+      "fliegen.2",
+      "fliegen.3",
+      "fliegen.4",
+      "fliegen.5",
+      "fliegen.6"
+    ],
+    "flirten": [
+      "flirten.1"
+    ],
+    "folgern": [
+      "folgern.1"
+    ],
+    "foltern": [
+      "foltern.1"
+    ],
+    "fordern": [
+      "fordern.1",
+      "fordern.2",
+      "fordern.3",
+      "fordern.4",
+      "fordern.5",
+      "fordern.6"
+    ],
+    "fortsetzen": [
+      "fortsetzen.1",
+      "fortsetzen.2",
+      "fortsetzen.3",
+      "fortsetzen.4",
+      "fortsetzen.5"
+    ],
+    "fragen": [
+      "fragen.1",
+      "fragen.2",
+      "fragen.3"
+    ],
+    "freuen": [
+      "freuen.1",
+      "freuen.2"
+    ],
+    "funktionieren": [
+      "funktionieren.1"
+    ],
+    "f\u00fchren": [
+      "f\u00fchren.1",
+      "f\u00fchren.2",
+      "f\u00fchren.3",
+      "f\u00fchren.4",
+      "f\u00fchren.5"
+    ],
+    "f\u00fcrchten": [
+      "f\u00fcrchten.1",
+      "f\u00fcrchten.2"
+    ],
+    "geben": [
+      "geben.1",
+      "geben.2",
+      "geben.3",
+      "geben.4",
+      "geben.5",
+      "geben.6",
+      "geben.7",
+      "geben.8",
+      "geben.9"
+    ],
+    "gebrauchen": [
+      "brauchen.1",
+      "brauchen.4"
+    ],
+    "gebraucht": [
+      "brauchen.1"
+    ],
+    "geb\u00e4ren": [
+      "geb\u00e4ren.1",
+      "geb\u00e4ren.2"
+    ],
+    "gef\u00e4hrden": [
+      "gef\u00e4hrden.1"
+    ],
+    "gehen": [
+      "gehen.1"
+    ],
+    "geh\u00f6ren": [
+      "geh\u00f6ren.1"
+    ],
+    "gei\u00dfeln": [
+      "gei\u00dfeln.1"
+    ],
+    "gelingen": [
+      "gelingen.1"
+    ],
+    "geloben": [
+      "loben.1"
+    ],
+    "geloben|loben": [
+      "loben.3"
+    ],
+    "gelten": [
+      "gelten.1",
+      "gelten.2",
+      "gelten.3",
+      "gelten.4",
+      "gelten.5"
+    ],
+    "geschehen": [
+      "geschehen.1",
+      "geschehen.2"
+    ],
+    "gewinnen": [
+      "gewinnen.1",
+      "gewinnen.2",
+      "gewinnen.3",
+      "gewinnen.4",
+      "gewinnen.5",
+      "gewinnen.6"
+    ],
+    "glauben": [
+      "glauben.1",
+      "glauben.2",
+      "glauben.3",
+      "glauben.4",
+      "glauben.5",
+      "glauben.6",
+      "glauben.7",
+      "glauben.8"
+    ],
+    "gleiten": [
+      "gleiten.1",
+      "gleiten.2"
+    ],
+    "glucksen": [
+      "glucksen.1"
+    ],
+    "greifen": [
+      "greifen.1",
+      "greifen.2",
+      "greifen.3"
+    ],
+    "gr\u00fcnden": [
+      "gr\u00fcnden.1",
+      "gr\u00fcnden.2"
+    ],
+    "gucken": [
+      "gucken.1"
+    ],
+    "guthei\u00dfen": [
+      "guthei\u00dfen.1"
+    ],
+    "hassen": [
+      "hassen.1"
+    ],
+    "hasten": [
+      "hasten.1"
+    ],
+    "hauen": [
+      "hauen.1"
+    ],
+    "heben": [
+      "heben.1",
+      "heben.2"
+    ],
+    "hei\u00dfen": [
+      "hei\u00dfen.1",
+      "hei\u00dfen.2",
+      "hei\u00dfen.3",
+      "hei\u00dfen.4",
+      "hei\u00dfen.5",
+      "hei\u00dfen.6",
+      "hei\u00dfen.7"
+    ],
+    "herausfinden": [
+      "herausfinden.1"
+    ],
+    "hereinkommen": [
+      "hereinkommen.1"
+    ],
+    "herfallen": [
+      "herfallen.1"
+    ],
+    "hergeben": [
+      "hergeben.1",
+      "hergeben.2"
+    ],
+    "herrschen": [
+      "herrschen.1"
+    ],
+    "herumreichen": [
+      "herumreichen.1"
+    ],
+    "hervorheben": [
+      "hervorheben.1",
+      "hervorheben.2"
+    ],
+    "hetzen": [
+      "hetzen.1"
+    ],
+    "hindern": [
+      "hindern.1"
+    ],
+    "hinnehmen": [
+      "hinnehmen.1"
+    ],
+    "hinrichten": [
+      "hinrichten.1"
+    ],
+    "hinterfragen": [
+      "hinterfragen.1"
+    ],
+    "hinzunehmen": [
+      "hinnehmen.1"
+    ],
+    "hinzurichten": [
+      "hinrichten.1"
+    ],
+    "hoffen": [
+      "hoffen.1",
+      "hoffen.2"
+    ],
+    "huschen": [
+      "huschen.1"
+    ],
+    "h\u00e4ngen": [
+      "h\u00e4ngen.1"
+    ],
+    "h\u00f6ren": [
+      "h\u00f6ren.1",
+      "h\u00f6ren.2",
+      "h\u00f6ren.3",
+      "h\u00f6ren.4",
+      "h\u00f6ren.5",
+      "h\u00f6ren.6",
+      "h\u00f6ren.7",
+      "h\u00f6ren.8",
+      "h\u00f6ren.9"
+    ],
+    "ignorieren": [
+      "ignorieren.1"
+    ],
+    "informieren": [
+      "informieren.1",
+      "informieren.2",
+      "informieren.3",
+      "informieren.4"
+    ],
+    "integrieren": [
+      "integrieren.1",
+      "integrieren.2",
+      "integrieren.3"
+    ],
+    "interpretieren": [
+      "interpretieren.1",
+      "interpretieren.2"
+    ],
+    "investieren": [
+      "investieren.1"
+    ],
+    "irren": [
+      "irren.1"
+    ],
+    "jubeln": [
+      "jubeln.1",
+      "jubeln.2"
+    ],
+    "kandidieren": [
+      "kandidieren.1"
+    ],
+    "kapitulieren": [
+      "kapitulieren.1"
+    ],
+    "kassieren": [
+      "kassieren.1"
+    ],
+    "kaufen": [
+      "kaufen.1"
+    ],
+    "kehren": [
+      "kehren.1"
+    ],
+    "kehrt": [
+      "kehren.1"
+    ],
+    "kennen": [
+      "kennen.1",
+      "kennen.2"
+    ],
+    "kippen": [
+      "kippen.1",
+      "kippen.2",
+      "kippen.3",
+      "kippen.4"
+    ],
+    "klagen": [
+      "klagen.1",
+      "klagen.2",
+      "klagen.3",
+      "klagen.4"
+    ],
+    "klettern": [
+      "klettern.1",
+      "klettern.2"
+    ],
+    "kommen": [
+      "kommen.1",
+      "kommen.10",
+      "kommen.11",
+      "kommen.12",
+      "kommen.13",
+      "kommen.14",
+      "kommen.15",
+      "kommen.16",
+      "kommen.17",
+      "kommen.18",
+      "kommen.19",
+      "kommen.2",
+      "kommen.20",
+      "kommen.21",
+      "kommen.22",
+      "kommen.23",
+      "kommen.24",
+      "kommen.25",
+      "kommen.26",
+      "kommen.27",
+      "kommen.28",
+      "kommen.3",
+      "kommen.4",
+      "kommen.5",
+      "kommen.6",
+      "kommen.7",
+      "kommen.8",
+      "kommen.9"
+    ],
+    "kommentieren": [
+      "kommentieren.1"
+    ],
+    "kontrollieren": [
+      "kontrollieren.1",
+      "kontrollieren.2"
+    ],
+    "krachen": [
+      "krachen.1",
+      "krachen.2"
+    ],
+    "kratzen": [
+      "kratzen.1",
+      "kratzen.2"
+    ],
+    "kreisen": [
+      "kreisen.1",
+      "kreisen.2",
+      "kreisen.3"
+    ],
+    "kriechen": [
+      "kriechen.1"
+    ],
+    "kritisieren": [
+      "kritisieren.1"
+    ],
+    "k\u00f6nnen": [
+      "k\u00f6nnen.1",
+      "k\u00f6nnen.2"
+    ],
+    "k\u00fcmmern": [
+      "k\u00fcmmern.1",
+      "k\u00fcmmern.2"
+    ],
+    "k\u00fcndigen": [
+      "k\u00fcndigen.1",
+      "k\u00fcndigen.2",
+      "k\u00fcndigen.3"
+    ],
+    "lagern": [
+      "lagern.1",
+      "lagern.2"
+    ],
+    "lassen": [
+      "lassen.1",
+      "lassen.2",
+      "lassen.3",
+      "lassen.4",
+      "lassen.5"
+    ],
+    "lauschen": [
+      "lauschen.1",
+      "lauschen.2"
+    ],
+    "legen": [
+      "legen.1",
+      "legen.2",
+      "legen.3",
+      "legen.4",
+      "legen.5",
+      "legen.7"
+    ],
+    "lehnen": [
+      "lehnen.1",
+      "lehnen.2"
+    ],
+    "leiten": [
+      "leiten.1"
+    ],
+    "lernen": [
+      "lernen.1",
+      "lernen.2"
+    ],
+    "lesen": [
+      "lesen.1",
+      "lesen.2",
+      "lesen.3",
+      "lesen.4",
+      "lesen.5",
+      "lesen.6",
+      "lesen.8"
+    ],
+    "lieb": [
+      "lieben.1"
+    ],
+    "lieben": [
+      "lieben.1"
+    ],
+    "liegen": [
+      "liegen.1"
+    ],
+    "loben": [
+      "loben.1",
+      "loben.2"
+    ],
+    "losschlagen": [
+      "losschlagen.1",
+      "losschlagen.2"
+    ],
+    "lynchen": [
+      "lynchen.1"
+    ],
+    "l\u00f6sen": [
+      "l\u00f6sen.1",
+      "l\u00f6sen.2"
+    ],
+    "machen": [
+      "machen.1"
+    ],
+    "mahnen": [
+      "mahnen.1",
+      "mahnen.2"
+    ],
+    "marschieren": [
+      "marschieren.1"
+    ],
+    "mein": [
+      "meinen.2",
+      "meinen.3"
+    ],
+    "meinen": [
+      "meinen.1",
+      "meinen.2",
+      "meinen.3",
+      "meinen.4",
+      "meinen.5",
+      "meinen.6",
+      "meint.1"
+    ],
+    "melden": [
+      "melden.1",
+      "melden.2",
+      "melden.3",
+      "melden.4",
+      "melden.5"
+    ],
+    "mieten": [
+      "mieten.1"
+    ],
+    "mitteilen": [
+      "mitteilen.1"
+    ],
+    "mitwirken": [
+      "mitwirken.1"
+    ],
+    "mi\u00dfbilligen": [
+      "mi\u00dfbilligen.1"
+    ],
+    "mi\u00dfhandeln": [
+      "mi\u00dfhandeln.1"
+    ],
+    "morden": [
+      "morden.1"
+    ],
+    "mutma\u00dfen": [
+      "mutma\u00dfen.1",
+      "mutma\u00dfen.2"
+    ],
+    "m\u00fcssen": [
+      "m\u00fcssen.1"
+    ],
+    "nachdenken": [
+      "nachdenken.1"
+    ],
+    "nachfragen": [
+      "nachfragen.1",
+      "nachfragen.2"
+    ],
+    "nachgeben": [
+      "nachgeben.1",
+      "nachgeben.2"
+    ],
+    "nahelegen": [
+      "nahelegen.1",
+      "nahelegen.2"
+    ],
+    "nehmen": [
+      "nehmen.1",
+      "nehmen.10",
+      "nehmen.11",
+      "nehmen.12",
+      "nehmen.13",
+      "nehmen.14",
+      "nehmen.15",
+      "nehmen.16",
+      "nehmen.17",
+      "nehmen.18",
+      "nehmen.19",
+      "nehmen.2",
+      "nehmen.20",
+      "nehmen.21",
+      "nehmen.22",
+      "nehmen.23",
+      "nehmen.24",
+      "nehmen.25",
+      "nehmen.3",
+      "nehmen.4",
+      "nehmen.5",
+      "nehmen.6",
+      "nehmen.7",
+      "nehmen.8",
+      "nehmen.9"
+    ],
+    "nennen": [
+      "nennen.1",
+      "nennen.2",
+      "nennen.3",
+      "nennen.4",
+      "nennen.5",
+      "nennen.6"
+    ],
+    "nutzen": [
+      "nutzen.1",
+      "nutzen.2",
+      "n\u00fctzen.1"
+    ],
+    "ordnen": [
+      "ordnen.1"
+    ],
+    "pachten": [
+      "pachten.1"
+    ],
+    "passieren": [
+      "passieren.1",
+      "passieren.2"
+    ],
+    "passiert": [
+      "passieren.1"
+    ],
+    "peitschen": [
+      "peitschen.1"
+    ],
+    "plazieren": [
+      "plazieren.1",
+      "plazieren.2"
+    ],
+    "pl\u00e4dieren": [
+      "pl\u00e4dieren.1",
+      "pl\u00e4dieren.2"
+    ],
+    "preis": [
+      "preisen.1"
+    ],
+    "preisen": [
+      "preisen.1"
+    ],
+    "probieren": [
+      "probieren.1",
+      "probieren.2"
+    ],
+    "produzieren": [
+      "produzieren.1",
+      "produzieren.2",
+      "produzieren.3",
+      "produzieren.4"
+    ],
+    "profitieren": [
+      "profitieren.1"
+    ],
+    "protestieren": [
+      "protestieren.1",
+      "protestieren.2",
+      "protestieren.3"
+    ],
+    "pr\u00e4sentieren": [
+      "pr\u00e4sentieren.1",
+      "pr\u00e4sentieren.2"
+    ],
+    "pr\u00fcgeln": [
+      "pr\u00fcgeln.1"
+    ],
+    "quetschen": [
+      "quetschen.1"
+    ],
+    "quietschen": [
+      "quietschen.1"
+    ],
+    "qu\u00e4len": [
+      "qu\u00e4len.2",
+      "qu\u00e4len.3",
+      "qu\u00e4len.4"
+    ],
+    "raten": [
+      "raten.1"
+    ],
+    "reagieren": [
+      "reagieren.1",
+      "reagieren.2"
+    ],
+    "reagiert": [
+      "reagieren.1"
+    ],
+    "rechnen": [
+      "rechnen.1",
+      "rechnen.2",
+      "rechnen.3",
+      "rechnen.4",
+      "rechnen.5",
+      "rechnen.6",
+      "rechnen.7"
+    ],
+    "rechtfertigen": [
+      "rechtfertigen.1",
+      "rechtfertigen.2"
+    ],
+    "reden": [
+      "reden.1",
+      "reden.10",
+      "reden.2",
+      "reden.3",
+      "reden.4",
+      "reden.5",
+      "reden.6",
+      "reden.7",
+      "reden.8"
+    ],
+    "rede|reden": [
+      "reden.1"
+    ],
+    "reduzieren": [
+      "reduzieren.1",
+      "reduzieren.2",
+      "reduzieren.3",
+      "reduzieren.4",
+      "reduzieren.5"
+    ],
+    "regieren": [
+      "regieren.1"
+    ],
+    "regnen": [
+      "regnen.1"
+    ],
+    "reichen": [
+      "reichen.1"
+    ],
+    "reisen": [
+      "reisen.1"
+    ],
+    "rei\u00dfen": [
+      "rei\u00dfen.1",
+      "rei\u00dfen.2",
+      "rei\u00dfen.3",
+      "rei\u00dfen.4"
+    ],
+    "rennen": [
+      "rennen.1"
+    ],
+    "respektieren": [
+      "respektieren.1",
+      "respektieren.2"
+    ],
+    "resultieren": [
+      "resultieren.1"
+    ],
+    "richten": [
+      "richten.1"
+    ],
+    "riechen": [
+      "riechen.1",
+      "riechen.2",
+      "riechen.3"
+    ],
+    "rollen": [
+      "rollen.1",
+      "rollen.2",
+      "rollen.3"
+    ],
+    "rotten": [
+      "rotten.1"
+    ],
+    "rufen": [
+      "rufen.1"
+    ],
+    "r\u00e4chen": [
+      "r\u00e4chen.1",
+      "r\u00e4chen.2"
+    ],
+    "r\u00e4umen": [
+      "r\u00e4umen.1",
+      "r\u00e4umen.2"
+    ],
+    "r\u00fccken": [
+      "r\u00fccken.1"
+    ],
+    "r\u00fcffeln": [
+      "r\u00fcffeln.1"
+    ],
+    "r\u00fcgen": [
+      "r\u00fcgen.1",
+      "r\u00fcgen.2"
+    ],
+    "r\u00fchmen": [
+      "r\u00fchmen.1"
+    ],
+    "sacken": [
+      "sacken.1"
+    ],
+    "sagen": [
+      "sagen.1",
+      "sagen.2",
+      "sagen.3",
+      "sagen.4",
+      "sagen.5",
+      "sagen.6",
+      "sagen.7"
+    ],
+    "sausen": [
+      "sausen.1"
+    ],
+    "schade": [
+      "schaden.1"
+    ],
+    "schaden": [
+      "schaden.1"
+    ],
+    "schaffen": [
+      "schaffen.1"
+    ],
+    "schauen": [
+      "schauen.1",
+      "schauen.2",
+      "schauen.3"
+    ],
+    "scheitern": [
+      "scheitern.1"
+    ],
+    "schenken": [
+      "schenken.1",
+      "schenken.2",
+      "schenken.3"
+    ],
+    "schlachten": [
+      "schlachten.2"
+    ],
+    "schlagen": [
+      "schlagen.1",
+      "schlagen.2",
+      "schlagen.3",
+      "schlagen.5",
+      "schlagen.7",
+      "schlagen.8",
+      "schlagen.9"
+    ],
+    "schleichen": [
+      "schleichen.1"
+    ],
+    "schlendern": [
+      "schlendern.1"
+    ],
+    "schlie\u00dfen": [
+      "schlie\u00dfen.1",
+      "schlie\u00dfen.2",
+      "schlie\u00dfen.3",
+      "schlie\u00dfen.4",
+      "schlie\u00dfen.5",
+      "schlie\u00dfen.6",
+      "schlie\u00dfen.7",
+      "schlie\u00dfen.8",
+      "schlie\u00dfen.9"
+    ],
+    "schlingern": [
+      "schlingern.1"
+    ],
+    "schmecken": [
+      "schmecken.1"
+    ],
+    "schm\u00e4lern": [
+      "schm\u00e4lern.1"
+    ],
+    "schm\u00fccken": [
+      "schm\u00fccken.1",
+      "schm\u00fccken.2"
+    ],
+    "schreiben": [
+      "schreiben.1",
+      "schreiben.2",
+      "schreiben.3",
+      "schreiben.4",
+      "schreiben.5"
+    ],
+    "schrumpfen": [
+      "schrumpfen.1",
+      "schrumpfen.2"
+    ],
+    "schwinden": [
+      "schwinden.1"
+    ],
+    "schwingen": [
+      "schwingen.1",
+      "schwingen.2",
+      "schwingen.3"
+    ],
+    "sch\u00e4tzen": [
+      "sch\u00e4tzen.1",
+      "sch\u00e4tzen.2",
+      "sch\u00e4tzen.3",
+      "sch\u00e4tzen.4"
+    ],
+    "sch\u00fctzen": [
+      "sch\u00fctzen.1"
+    ],
+    "sehen": [
+      "sehen.1",
+      "sehen.2",
+      "sehen.3",
+      "sehen.4",
+      "s\u00e4hen.1"
+    ],
+    "sein": [
+      "sein.1"
+    ],
+    "senken": [
+      "senken.1",
+      "senken.2"
+    ],
+    "setzen": [
+      "setzen.1",
+      "setzen.10",
+      "setzen.11",
+      "setzen.12",
+      "setzen.13",
+      "setzen.14",
+      "setzen.16",
+      "setzen.17",
+      "setzen.18",
+      "setzen.2",
+      "setzen.3",
+      "setzen.4",
+      "setzen.5",
+      "setzen.6",
+      "setzen.7",
+      "setzen.8",
+      "setzen.9"
+    ],
+    "signalisieren": [
+      "signalisieren.1",
+      "signalisieren.2"
+    ],
+    "sinken": [
+      "sinken.1",
+      "sinken.2",
+      "sinken.3"
+    ],
+    "sinnen": [
+      "sinnen.1"
+    ],
+    "sinnieren": [
+      "sinnieren.1"
+    ],
+    "sitzen": [
+      "sitzen.1",
+      "sitzen.2",
+      "sitzen.3",
+      "sitzen.4"
+    ],
+    "spazieren": [
+      "spazieren.1"
+    ],
+    "spenden": [
+      "spenden.1",
+      "spenden.2"
+    ],
+    "spotten": [
+      "spotten.1",
+      "spotten.2"
+    ],
+    "sprechen": [
+      "sprechen.1",
+      "sprechen.10",
+      "sprechen.11",
+      "sprechen.12",
+      "sprechen.13",
+      "sprechen.14",
+      "sprechen.15",
+      "sprechen.16",
+      "sprechen.17",
+      "sprechen.18",
+      "sprechen.19",
+      "sprechen.2",
+      "sprechen.20",
+      "sprechen.22",
+      "sprechen.3",
+      "sprechen.4",
+      "sprechen.5",
+      "sprechen.6",
+      "sprechen.7",
+      "sprechen.8",
+      "sprechen.9"
+    ],
+    "springen": [
+      "springen.1",
+      "springen.2",
+      "springen.3",
+      "springen.4",
+      "springen.5"
+    ],
+    "spr\u00fchen": [
+      "spr\u00fchen.2",
+      "spr\u00fchen.3"
+    ],
+    "spr\u00fchend": [
+      "spr\u00fchen.1"
+    ],
+    "sp\u00fcren": [
+      "sp\u00fcren.1"
+    ],
+    "starren": [
+      "starren.1"
+    ],
+    "starten": [
+      "starten.1",
+      "starten.2",
+      "starten.3",
+      "starten.4",
+      "starten.5"
+    ],
+    "stattfinden": [
+      "stattfinden.1"
+    ],
+    "stechen": [
+      "stechen.1"
+    ],
+    "stehen": [
+      "stehen.1"
+    ],
+    "steigen": [
+      "steigen.1",
+      "steigen.2"
+    ],
+    "stellen": [
+      "stellen.1",
+      "stellen.2",
+      "stellen.3",
+      "stellen.4",
+      "stellen.5",
+      "stellen.6",
+      "stellen.7",
+      "stellen.8"
+    ],
+    "sterben": [
+      "sterben.1",
+      "st\u00fcrben.1"
+    ],
+    "steuern": [
+      "steuern.1"
+    ],
+    "stiften": [
+      "stiften.1",
+      "stiften.2",
+      "stiften.3"
+    ],
+    "stimmen": [
+      "stimmen.1"
+    ],
+    "stinken": [
+      "stinken.1",
+      "stinken.2"
+    ],
+    "sto\u00dfen": [
+      "sto\u00dfen.1",
+      "sto\u00dfen.2",
+      "sto\u00dfen.3",
+      "sto\u00dfen.4",
+      "sto\u00dfen.5"
+    ],
+    "streben": [
+      "streben.1"
+    ],
+    "streichen": [
+      "streichen.1",
+      "streichen.2",
+      "streichen.3"
+    ],
+    "streiten": [
+      "streiten.1",
+      "streiten.2"
+    ],
+    "st\u00fcrzen": [
+      "st\u00fcrzen.1",
+      "st\u00fcrzen.2",
+      "st\u00fcrzen.3"
+    ],
+    "suchen": [
+      "suchen.1",
+      "suchen.2",
+      "suchen.3",
+      "suchen.4",
+      "suchen.5"
+    ],
+    "tadeln": [
+      "tadeln.1"
+    ],
+    "tanzen": [
+      "tanzen.1"
+    ],
+    "tauchen": [
+      "tauchen.1"
+    ],
+    "teilen": [
+      "mitteilen.1",
+      "teilen.1"
+    ],
+    "teilnehmen": [
+      "teilnehmen.1"
+    ],
+    "traktieren": [
+      "traktieren.1"
+    ],
+    "trampeln": [
+      "trampeln.1"
+    ],
+    "treffen": [
+      "treffen.1"
+    ],
+    "treiben": [
+      "treiben.1",
+      "treiben.2",
+      "treiben.3",
+      "treiben.4"
+    ],
+    "treten": [
+      "treten.1",
+      "treten.2",
+      "treten.3",
+      "treten.4",
+      "treten.5",
+      "treten.6",
+      "treten.8"
+    ],
+    "tun": [
+      "tun.1"
+    ],
+    "t\u00f6nen": [
+      "t\u00f6nen.1"
+    ],
+    "t\u00f6ten": [
+      "t\u00f6ten.1"
+    ],
+    "umbringen": [
+      "umbringen.1"
+    ],
+    "umfallen": [
+      "umfallen.1"
+    ],
+    "umkippen": [
+      "umkippen.1",
+      "umkippen.2"
+    ],
+    "untersagen": [
+      "untersagen.1"
+    ],
+    "unterst\u00fctzen": [
+      "unterst\u00fctzen.1",
+      "unterst\u00fctzen.2",
+      "unterst\u00fctzen.3"
+    ],
+    "unterst\u00fctzt": [
+      "unterst\u00fctzen.2"
+    ],
+    "untertauchen": [
+      "untertauchen.1"
+    ],
+    "unterzeichnen": [
+      "unterzeichnen.1"
+    ],
+    "unterzeichnet": [
+      "unterzeichnen.1"
+    ],
+    "verabschieden": [
+      "verabschieden.1",
+      "verabschieden.2"
+    ],
+    "verachten": [
+      "verachten.1"
+    ],
+    "verbessern": [
+      "verbessern.1",
+      "verbessern.2"
+    ],
+    "verbieten": [
+      "verbieten.1"
+    ],
+    "verbrannt": [
+      "verbrennen.1"
+    ],
+    "verbrauchen": [
+      "verbrauchen.1",
+      "verbrauchen.2"
+    ],
+    "verbrennen": [
+      "verbrennen.1",
+      "verbrennen.2",
+      "verbrennen.3"
+    ],
+    "verdammen": [
+      "verdammen.1"
+    ],
+    "verdoppeln": [
+      "verdoppeln.1",
+      "verdoppeln.2"
+    ],
+    "verehren": [
+      "verehren.2"
+    ],
+    "vereinbaren": [
+      "vereinbaren.1",
+      "vereinbaren.2"
+    ],
+    "vererben": [
+      "vererben.1"
+    ],
+    "vergessen": [
+      "vergessen.1"
+    ],
+    "vergewissern": [
+      "vergewissern.1"
+    ],
+    "vergleichen": [
+      "vergleichen.1"
+    ],
+    "verhaften": [
+      "verhaften.1"
+    ],
+    "verhandeln": [
+      "verhandeln.1",
+      "verhandeln.2",
+      "verhandeln.3"
+    ],
+    "verherrlichen": [
+      "verherrlichen.1"
+    ],
+    "verhungern": [
+      "verhungern.1"
+    ],
+    "verh\u00f6hnen": [
+      "verh\u00f6hnen.1",
+      "verh\u00f6hnen.2"
+    ],
+    "verh\u00f6ren": [
+      "verh\u00f6ren.1"
+    ],
+    "verh\u00f6rt": [
+      "verh\u00f6ren.1"
+    ],
+    "verkaufen": [
+      "verkaufen.1",
+      "verkaufen.2"
+    ],
+    "verlangen": [
+      "verlangen.1",
+      "verlangen.2",
+      "verlangen.3",
+      "verlangen.4",
+      "verlangen.5"
+    ],
+    "verlautbaren": [
+      "verlautbaren.1"
+    ],
+    "verleumden": [
+      "verleumden.1"
+    ],
+    "vermuten": [
+      "vermuten.1",
+      "vermuten.2",
+      "vermuten.3",
+      "vermuten.4"
+    ],
+    "vernehmen": [
+      "vernehmen.1"
+    ],
+    "vernichten": [
+      "vernichten.1",
+      "vernichten.2"
+    ],
+    "verpacken": [
+      "verpacken.1"
+    ],
+    "verpflichten": [
+      "verpflichten.1",
+      "verpflichten.2",
+      "verpflichten.3",
+      "verpflichten.4"
+    ],
+    "verschenken": [
+      "verschenken.1",
+      "verschenken.2"
+    ],
+    "versichern": [
+      "versichern.1",
+      "versichern.2",
+      "versichern.3"
+    ],
+    "versprechen": [
+      "versprechen.1",
+      "versprechen.2"
+    ],
+    "versp\u00fcren": [
+      "versp\u00fcren.1",
+      "versp\u00fcren.2"
+    ],
+    "verstehen": [
+      "verstehen.1",
+      "verstehen.2",
+      "verstehen.3",
+      "verstehen.4",
+      "verstehen.5",
+      "verstehen.6",
+      "verstehen.7"
+    ],
+    "versuchen": [
+      "versuchen.1",
+      "versuchen.2"
+    ],
+    "verteidigen": [
+      "verteidigen.1",
+      "verteidigen.2",
+      "verteidigen.3"
+    ],
+    "verteidigt": [
+      "verteidigen.1",
+      "verteidigen.2"
+    ],
+    "vertreiben": [
+      "vertreiben.1",
+      "vertreiben.2",
+      "vertreiben.3"
+    ],
+    "verurteilen": [
+      "verurteilen.1",
+      "verurteilen.2"
+    ],
+    "verurteilt": [
+      "verurteilen.2"
+    ],
+    "verwehren": [
+      "verwehren.1"
+    ],
+    "verweigern": [
+      "verweigern.1"
+    ],
+    "verwunden": [
+      "verwunden.1"
+    ],
+    "verzichten": [
+      "verzichten.1"
+    ],
+    "ver\u00e4ndern": [
+      "ver\u00e4ndern.1",
+      "ver\u00e4ndern.2"
+    ],
+    "vollstopfen": [
+      "vollstopfen.1"
+    ],
+    "vorbereiten": [
+      "vorbereiten.1",
+      "vorbereiten.2",
+      "vorbereitet.1",
+      "vorbereitet.2"
+    ],
+    "vorbereitet": [
+      "vorbereiten.1"
+    ],
+    "vorliegen": [
+      "vorliegen.1"
+    ],
+    "vorpreschen": [
+      "vorpreschen.1"
+    ],
+    "vorr\u00fccken": [
+      "vorr\u00fccken.1"
+    ],
+    "vorschlagen": [
+      "vorschlagen.1"
+    ],
+    "vorwerfen": [
+      "vorwerfen.1",
+      "vorwerfen.2"
+    ],
+    "votieren": [
+      "votieren.1"
+    ],
+    "wahrnehmen": [
+      "wahrnehmen.1",
+      "wahrnehmen.2"
+    ],
+    "wandeln": [
+      "wandeln.1",
+      "wandeln.2"
+    ],
+    "wandern": [
+      "wandern.1"
+    ],
+    "warnen": [
+      "warnen.1",
+      "warnen.2"
+    ],
+    "waten": [
+      "waten.1"
+    ],
+    "wecken": [
+      "wecken.1"
+    ],
+    "weggehen": [
+      "weggehen.1"
+    ],
+    "wehen": [
+      "wehen.1"
+    ],
+    "wehgetan": [
+      "wehtun.1"
+    ],
+    "wehtun": [
+      "wehtun.2"
+    ],
+    "weigern": [
+      "weigern.1"
+    ],
+    "weiten": [
+      "weiten.1",
+      "weiten.2"
+    ],
+    "weitergeben": [
+      "weitergeben.1",
+      "weitergeben.2"
+    ],
+    "wei\u00dfen": [
+      "wei\u00dfen.1",
+      "wissen.1"
+    ],
+    "werfen": [
+      "werfen.1",
+      "werfen.2"
+    ],
+    "widersprechen": [
+      "widersprechen.1",
+      "widersprechen.2",
+      "widersprechen.3"
+    ],
+    "wiederfinden": [
+      "wiederfinden.1",
+      "wiederfinden.2"
+    ],
+    "wissen": [
+      "wissen.1",
+      "wissen.2",
+      "wissen.3",
+      "wissen.4",
+      "wissen.5",
+      "wissen.6",
+      "wissen.7"
+    ],
+    "wollen": [
+      "wollen.1"
+    ],
+    "wundern": [
+      "wundern.1",
+      "wundern.2"
+    ],
+    "w\u00e4hlen": [
+      "w\u00e4hlen.1"
+    ],
+    "w\u00fcnschen": [
+      "w\u00fcnschen.1"
+    ],
+    "w\u00fcrdigen": [
+      "w\u00fcrdigen.1",
+      "w\u00fcrdigen.2",
+      "w\u00fcrdigen.3",
+      "w\u00fcrdigen.4"
+    ],
+    "zahlen": [
+      "zahlen.1",
+      "zahlen.2"
+    ],
+    "zeigen": [
+      "zeigen.1",
+      "zeigen.10",
+      "zeigen.11",
+      "zeigen.2",
+      "zeigen.3",
+      "zeigen.4",
+      "zeigen.5",
+      "zeigen.6",
+      "zeigen.7",
+      "zeigen.8",
+      "zeigen.9"
+    ],
+    "zeihen|ziehen": [
+      "zeihen.1",
+      "ziehen.1",
+      "ziehen.2",
+      "ziehen.3"
+    ],
+    "zermalmen": [
+      "zermalmen.1"
+    ],
+    "zerren": [
+      "zerren.1",
+      "zerren.2",
+      "zerren.3"
+    ],
+    "zerst\u00f6ren": [
+      "zerst\u00f6ren.1",
+      "zerst\u00f6ren.2"
+    ],
+    "zerst\u00f6rt": [
+      "zerst\u00f6ren.1"
+    ],
+    "ziehen": [
+      "ziehen.1",
+      "ziehen.2",
+      "ziehen.3"
+    ],
+    "zitieren": [
+      "zitieren.1",
+      "zitieren.2"
+    ],
+    "zitiert": [
+      "zitieren.1"
+    ],
+    "zuh\u00f6ren": [
+      "zuh\u00f6ren.1"
+    ],
+    "zunehmen": [
+      "zunehmen.1"
+    ],
+    "zur\u00fcckdenken": [
+      "zur\u00fcckdenken.1"
+    ],
+    "zur\u00fcckgeben": [
+      "zur\u00fcckgeben.1"
+    ],
+    "zur\u00fcckkehren": [
+      "zur\u00fcckkehren.1"
+    ],
+    "zur\u00fcckziehen": [
+      "zur\u00fcckziehen.1",
+      "zur\u00fcckziehen.2",
+      "zur\u00fcckziehen.3",
+      "zur\u00fcckziehen.4"
+    ],
+    "zusammenschlagen": [
+      "zusammenschlagen.1",
+      "zusammenschlagen.2"
+    ],
+    "zuschauen": [
+      "zuschauen.1"
+    ],
+    "zuschlagen": [
+      "zuschlagen.1",
+      "zuschlagen.2"
+    ],
+    "zusehen": [
+      "zusehen.1"
+    ],
+    "zustechen": [
+      "zustechen.1"
+    ],
+    "zusteuern": [
+      "zusteuern.1"
+    ],
+    "zustimmen": [
+      "zustimmen.1"
+    ],
+    "zwingen": [
+      "zwingen.1"
+    ],
+    "z\u00fcchtigen": [
+      "z\u00fcchtigen.1"
+    ],
+    "\u00e4ndern": [
+      "\u00e4ndern.1",
+      "\u00e4ndern.2",
+      "\u00e4ndern.3"
+    ],
+    "\u00e4u\u00dfern": [
+      "\u00e4u\u00dfern.1",
+      "\u00e4u\u00dfern.2"
+    ],
+    "\u00fcberdachen|\u00fcberdenken": [
+      "\u00fcberdachen.1"
+    ],
+    "\u00fcberdenken": [
+      "\u00fcberdenken.1"
+    ],
+    "\u00fcberfahren": [
+      "\u00fcberfahren.1"
+    ],
+    "\u00fcberfallen": [
+      "\u00fcberfallen.1"
+    ],
+    "\u00fcbergeben": [
+      "\u00fcbergeben.1",
+      "\u00fcbergeben.2",
+      "\u00fcbergeben.3"
+    ],
+    "\u00fcberlegen": [
+      "\u00fcberlegen.1",
+      "\u00fcberlegen.2"
+    ],
+    "\u00fcberlegt": [
+      "\u00fcberlegen.1"
+    ],
+    "\u00fcberraschen": [
+      "\u00fcberraschen.1",
+      "\u00fcberraschen.2",
+      "\u00fcberraschen.3",
+      "\u00fcberraschen.4"
+    ],
+    "\u00fcberrascht": [
+      "\u00fcberraschen.1"
+    ],
+    "\u00fcberreichen": [
+      "\u00fcberreichen.1"
+    ],
+    "\u00fcberzeugen": [
+      "\u00fcberzeugen.1",
+      "\u00fcberzeugen.2",
+      "\u00fcberzeugen.3",
+      "\u00fcberzeugen.4"
+    ],
+    "\u00fcberzeugt": [
+      "\u00fcberzeugen.1",
+      "\u00fcberzeugen.2",
+      "\u00fcberzeugt.1"
+    ]
+  },
+  "roles": {
+    "<UNK>": 1,
+    "A0": 2,
+    "A1": 5,
+    "A2": 4,
+    "A3": 3,
+    "A4": 6,
+    "A5": 7,
+    "A6": 8,
+    "A7": 11,
+    "A8": 9,
+    "A9": 10,
+    "_": 0
+  },
+  "senses": {
+    "<UNK>": 1,
+    "_": 0,
+    "abfragen.1": 943,
+    "abf\u00fcllen.1": 1020,
+    "abgeben.1": 705,
+    "abgeben.2": 67,
+    "abgeben.3": 782,
+    "abgeben.4": 1040,
+    "abgeben.5": 325,
+    "abh\u00e4ngen.1": 375,
+    "abh\u00e4ngen.2": 823,
+    "abh\u00f6ren.1": 1064,
+    "ablegen.1": 951,
+    "ablegen.2": 1094,
+    "ablegen.3": 961,
+    "ablehnen.1": 113,
+    "ableiten.1": 764,
+    "ableiten.2": 1210,
+    "abl\u00f6sen.1": 438,
+    "abl\u00f6sen.2": 1122,
+    "abl\u00f6sen.3": 427,
+    "abqualifizieren.1": 664,
+    "abqualifizieren.2": 1067,
+    "abraten.1": 788,
+    "abschaffen.1": 131,
+    "abschlachten.1": 1197,
+    "absterben.1": 1143,
+    "abwerten.1": 1093,
+    "achten.1": 620,
+    "achten.2": 931,
+    "achten.3": 547,
+    "ahnden.1": 822,
+    "ahnen.1": 682,
+    "akzeptieren.1": 343,
+    "akzeptieren.2": 146,
+    "anbieten.1": 60,
+    "anbieten.2": 1170,
+    "anblicken.1": 1212,
+    "anfahren.1": 723,
+    "anfahren.2": 952,
+    "anfahren.3": 1028,
+    "anfallen.1": 211,
+    "anfallen.2": 816,
+    "anf\u00fchren.1": 360,
+    "anf\u00fchren.2": 691,
+    "angeben.1": 318,
+    "angeben.2": 498,
+    "angeben.3": 1133,
+    "angeh\u00f6ren.1": 260,
+    "angreifen.1": 542,
+    "angreifen.2": 267,
+    "angreifen.3": 1207,
+    "angreifen.4": 826,
+    "angucken.1": 383,
+    "anh\u00e4ufen.1": 941,
+    "anh\u00f6ren.1": 651,
+    "anh\u00f6ren.2": 1065,
+    "anh\u00f6ren.3": 593,
+    "anh\u00f6ren.4": 510,
+    "anh\u00f6ren.5": 1075,
+    "anklagen.1": 345,
+    "anklagen.2": 1052,
+    "ankommen.1": 536,
+    "ankommen.2": 772,
+    "ankommen.3": 1082,
+    "ankommen.4": 729,
+    "ank\u00fcndigen.1": 665,
+    "annehmen.1": 667,
+    "annehmen.2": 64,
+    "annehmen.3": 530,
+    "annehmen.4": 173,
+    "annehmen.5": 993,
+    "annehmen.7": 986,
+    "anordnen.1": 425,
+    "ansagen.1": 1017,
+    "ansagen.2": 591,
+    "anschauen.1": 520,
+    "anschauen.2": 69,
+    "anschie\u00dfen.1": 350,
+    "ansehen.1": 179,
+    "ansehen.2": 156,
+    "ansehen.3": 1105,
+    "ansehen.4": 903,
+    "anstellen.1": 501,
+    "anstellen.2": 1250,
+    "anstellen.3": 1101,
+    "ansteuern.1": 659,
+    "anstreben.1": 311,
+    "antworten.1": 442,
+    "antworten.2": 523,
+    "appellieren.1": 298,
+    "applaudieren.1": 1151,
+    "arbeiten.1": 28,
+    "arbeiten.2": 185,
+    "arbeiten.3": 899,
+    "arbeiten.4": 685,
+    "arbeiten.5": 1226,
+    "arbeiten.6": 1139,
+    "argumentieren.1": 102,
+    "argw\u00f6hnen.1": 739,
+    "argw\u00f6hnen.2": 393,
+    "attackieren.1": 807,
+    "attestieren.1": 776,
+    "auffallen.1": 581,
+    "auffallen.2": 582,
+    "auffordern.1": 178,
+    "aufh\u00f6ren.1": 451,
+    "aufrufen.1": 94,
+    "aufrufen.2": 1136,
+    "aufrufen.3": 1272,
+    "aufschlagen.1": 1253,
+    "aufschlagen.2": 1031,
+    "ausfallen.1": 601,
+    "ausfallen.2": 1174,
+    "ausgestorben.1": 1213,
+    "ausgeweitet.1": 1224,
+    "auslagern.1": 1134,
+    "ausrotten.1": 1179,
+    "ausrufen.1": 958,
+    "aussagen.1": 615,
+    "aussagen.2": 1235,
+    "ausschalten.1": 531,
+    "ausschlagen.1": 276,
+    "ausschlagen.2": 1092,
+    "aussprechen.1": 5,
+    "aussprechen.2": 365,
+    "aussterben.1": 1124,
+    "ausweiten.1": 302,
+    "ausweiten.2": 1260,
+    "ausw\u00e4hlen.1": 804,
+    "avisieren.1": 1175,
+    "bauen.1": 118,
+    "bauen.2": 1110,
+    "beanspruchen.1": 790,
+    "beanspruchen.2": 489,
+    "beantragen.1": 353,
+    "beauftragen.1": 356,
+    "bedauern.1": 266,
+    "bedauern.2": 406,
+    "bedauern.3": 683,
+    "bedenken.1": 49,
+    "bedenken.2": 1019,
+    "bedenken.3": 848,
+    "bedeuten.1": 51,
+    "bedeuten.2": 206,
+    "bedeuten.3": 546,
+    "bedeuten.4": 567,
+    "bedeuten.5": 272,
+    "bedeuten.6": 934,
+    "bedeuten.7": 914,
+    "bedrohen.1": 698,
+    "bedrohen.2": 633,
+    "bedrohen.3": 587,
+    "bedrohen.4": 1269,
+    "bed\u00fcrfen.1": 640,
+    "bed\u00fcrfen.2": 1033,
+    "bed\u00fcrfen.3": 900,
+    "beeinflussen.1": 626,
+    "beeinflussen.2": 967,
+    "befinden.1": 288,
+    "befinden.2": 236,
+    "befinden.3": 575,
+    "befinden.4": 992,
+    "befinden.5": 239,
+    "befragen.1": 598,
+    "bef\u00fcrchten.1": 240,
+    "bef\u00fcrworten.1": 283,
+    "beglaubigen.1": 1236,
+    "begreifen.1": 221,
+    "begreifen.2": 168,
+    "begreifen.3": 1003,
+    "begr\u00fcnden.1": 171,
+    "begr\u00fcnden.2": 639,
+    "begr\u00fcnden.3": 985,
+    "begr\u00fcnden.4": 828,
+    "begr\u00fc\u00dfen.1": 305,
+    "begr\u00fc\u00dfen.2": 514,
+    "begr\u00fc\u00dfen.3": 392,
+    "behandeln.1": 56,
+    "behandeln.2": 420,
+    "behandeln.3": 306,
+    "behandeln.4": 1176,
+    "behaupten.1": 86,
+    "behaupten.2": 721,
+    "behaupten.3": 809,
+    "bejahen.1": 852,
+    "bejahen.2": 746,
+    "bejubele.1": 1072,
+    "bekommen.1": 157,
+    "bekommen.2": 203,
+    "bekommen.3": 855,
+    "bekommen.4": 398,
+    "bekommen.6": 850,
+    "bekommen.7": 930,
+    "bekr\u00e4ftigen.1": 304,
+    "belehren.1": 978,
+    "bemerken.1": 439,
+    "bemerken.2": 913,
+    "bemerken.3": 1015,
+    "bem\u00fchen.1": 281,
+    "bem\u00fchen.2": 954,
+    "bem\u00fchen.3": 1199,
+    "bem\u00fchen.4": 1254,
+    "benachrichtigen.1": 955,
+    "ben\u00f6tigen.1": 759,
+    "ben\u00f6tigen.2": 836,
+    "ben\u00f6tigen.3": 1034,
+    "beobachten.1": 595,
+    "beobachten.2": 500,
+    "beobachten.3": 1142,
+    "berechnen.1": 273,
+    "berechnen.2": 781,
+    "bereiten.1": 227,
+    "bereiten.2": 937,
+    "berichten.1": 65,
+    "berufen.1": 246,
+    "berufen.2": 177,
+    "ber\u00fccksichtigen.1": 55,
+    "ber\u00fccksichtigen.2": 658,
+    "beschie\u00dfen.1": 361,
+    "beschleunigen.1": 307,
+    "beschleunigen.2": 731,
+    "besichtigen.1": 1004,
+    "besichtigen.2": 1128,
+    "besitzen.1": 162,
+    "besitzen.2": 623,
+    "bestaunen.1": 970,
+    "besteigen.1": 916,
+    "beteiligen.1": 176,
+    "beteiligen.2": 430,
+    "beteiligen.3": 220,
+    "beteuern.1": 396,
+    "betonen.1": 93,
+    "betonen.2": 261,
+    "betrachten.1": 606,
+    "betrachten.2": 984,
+    "betrachten.3": 969,
+    "betrachten.4": 775,
+    "betrachten.5": 1135,
+    "beurteilen.1": 637,
+    "beurteilen.2": 714,
+    "bevorstehen.1": 652,
+    "bewundern.1": 585,
+    "bew\u00e4ltigen.1": 515,
+    "bezahlen.1": 415,
+    "bezahlen.2": 551,
+    "bezeugen.1": 849,
+    "beziffern.1": 429,
+    "be\u00e4ugen.1": 1130,
+    "bieten.1": 230,
+    "bieten.2": 982,
+    "billigen.1": 483,
+    "billigen.2": 693,
+    "bitten.1": 234,
+    "bitten.2": 485,
+    "bleiben.1": 212,
+    "bleiben.2": 187,
+    "bleiben.3": 89,
+    "bleiben.4": 277,
+    "bleiben.5": 424,
+    "bleiben.6": 629,
+    "bleiben.7": 104,
+    "bleiben.8": 1062,
+    "blicken.1": 1099,
+    "blicken.2": 1021,
+    "blicken.3": 662,
+    "brauchen.1": 53,
+    "brauchen.2": 192,
+    "brauchen.3": 481,
+    "brauchen.4": 622,
+    "brauchen.5": 762,
+    "brauchen.6": 384,
+    "brechen.1": 517,
+    "brechen.10": 1025,
+    "brechen.2": 800,
+    "brechen.3": 1159,
+    "brechen.4": 388,
+    "brechen.5": 470,
+    "brechen.6": 649,
+    "brechen.7": 699,
+    "brechen.8": 1183,
+    "brechen.9": 1160,
+    "brennen.1": 389,
+    "brennen.2": 1061,
+    "bringen.1": 29,
+    "bringen.10": 1132,
+    "bringen.11": 966,
+    "bringen.12": 1012,
+    "bringen.13": 1237,
+    "bringen.14": 1054,
+    "bringen.15": 973,
+    "bringen.16": 1252,
+    "bringen.17": 991,
+    "bringen.18": 472,
+    "bringen.19": 884,
+    "bringen.2": 215,
+    "bringen.20": 988,
+    "bringen.21": 1123,
+    "bringen.22": 1103,
+    "bringen.3": 189,
+    "bringen.4": 301,
+    "bringen.5": 141,
+    "bringen.6": 912,
+    "bringen.7": 745,
+    "bringen.8": 753,
+    "bringen.9": 564,
+    "buchen.1": 482,
+    "buchen.2": 1214,
+    "bummeln.1": 878,
+    "danken.1": 528,
+    "danken.2": 493,
+    "darstellen.1": 147,
+    "darstellen.10": 1048,
+    "darstellen.11": 1206,
+    "darstellen.12": 1167,
+    "darstellen.2": 101,
+    "darstellen.3": 655,
+    "darstellen.4": 963,
+    "darstellen.5": 1186,
+    "darstellen.6": 1022,
+    "darstellen.7": 1145,
+    "darstellen.8": 831,
+    "darstellen.9": 627,
+    "dauern.1": 191,
+    "dementieren.1": 330,
+    "demonstrieren.1": 122,
+    "demonstrieren.2": 953,
+    "demonstrieren.3": 34,
+    "demonstrieren.4": 830,
+    "denken.1": 109,
+    "denken.10": 331,
+    "denken.2": 74,
+    "denken.3": 653,
+    "denken.4": 509,
+    "denken.5": 323,
+    "denken.6": 700,
+    "denken.7": 607,
+    "denken.8": 322,
+    "denunzieren.1": 151,
+    "dienen.1": 103,
+    "dienen.2": 1005,
+    "diskutieren.1": 61,
+    "diskutieren.2": 1265,
+    "drohen.1": 200,
+    "drohen.2": 183,
+    "drohen.3": 340,
+    "dr\u00f6hnen.1": 1180,
+    "durchschlagen.1": 716,
+    "durchschlagen.2": 907,
+    "durchschlagen.3": 1008,
+    "durchsetzen.1": 421,
+    "durchsetzen.2": 1222,
+    "durchsetzen.3": 1247,
+    "ehren.1": 1011,
+    "ehren.2": 1074,
+    "einf\u00fchren.1": 204,
+    "einf\u00fchren.2": 417,
+    "einf\u00fchren.3": 895,
+    "einigen.1": 401,
+    "einkaufen.1": 196,
+    "einordnen.1": 909,
+    "einpflanzen.1": 1047,
+    "einr\u00e4umen.1": 35,
+    "einr\u00e4umen.2": 996,
+    "einr\u00e4umen.3": 394,
+    "einsacken.1": 1173,
+    "einschlagen.1": 453,
+    "einschlagen.2": 458,
+    "einschlie\u00dfen.1": 722,
+    "einschlie\u00dfen.2": 524,
+    "einschlie\u00dfen.3": 1227,
+    "einspeisen.1": 1104,
+    "einspritzen.1": 838,
+    "eintauchen.1": 844,
+    "eintreffen.1": 335,
+    "eintreffen.2": 908,
+    "eliminieren.1": 480,
+    "empfehlen.1": 199,
+    "empfehlen.2": 275,
+    "empfehlen.3": 810,
+    "empfinden.1": 608,
+    "empfinden.2": 1081,
+    "empfinden.3": 840,
+    "engagieren.1": 166,
+    "engagieren.2": 750,
+    "engagieren.3": 1111,
+    "entdecken.1": 289,
+    "entdecken.2": 795,
+    "entdeckt.1": 566,
+    "enthalten.1": 223,
+    "enthalten.2": 1229,
+    "enthalten.3": 976,
+    "entstehen.1": 92,
+    "erblicken.1": 1088,
+    "erblicken.2": 1038,
+    "erfassen.1": 1077,
+    "erfassen.2": 853,
+    "erfassen.3": 879,
+    "erfassen.4": 1219,
+    "erfassen.6": 1242,
+    "erfordern.1": 533,
+    "erfordern.2": 860,
+    "erfrieren.1": 880,
+    "ergeben.1": 143,
+    "ergeben.2": 91,
+    "ergeben.3": 866,
+    "ergeben.4": 886,
+    "erhalten.1": 214,
+    "erhalten.2": 208,
+    "erhalten.3": 73,
+    "erhalten.4": 474,
+    "erhoffen.1": 486,
+    "erh\u00f6hen.1": 364,
+    "erh\u00f6hen.2": 940,
+    "erkl\u00e4ren.1": 11,
+    "erkl\u00e4ren.2": 125,
+    "erkl\u00e4ren.3": 504,
+    "erkl\u00e4ren.4": 619,
+    "erkl\u00e4ren.5": 842,
+    "erkl\u00e4ren.6": 270,
+    "erkl\u00e4ren.7": 560,
+    "erkl\u00e4ren.8": 594,
+    "erkundigen.1": 512,
+    "erleben.1": 110,
+    "erleben.2": 785,
+    "erlernen.1": 1114,
+    "erliegen.1": 894,
+    "erl\u00e4utern.1": 207,
+    "erl\u00e4utern.2": 571,
+    "ermitteln.1": 309,
+    "ermitteln.2": 710,
+    "ermorden.1": 263,
+    "erm\u00f6glichen.1": 134,
+    "erreichen.1": 416,
+    "erreichen.2": 111,
+    "erreichen.3": 559,
+    "erreichen.4": 1201,
+    "erreichen.5": 1138,
+    "erschlagen.1": 610,
+    "ersp\u00e4hen.1": 1023,
+    "ersp\u00e4hen.2": 1117,
+    "ersticken.1": 82,
+    "ersticken.2": 920,
+    "erwerben.1": 334,
+    "erwerben.2": 144,
+    "erw\u00e4gen.1": 861,
+    "erw\u00fcrgen.1": 815,
+    "exekutieren.1": 1196,
+    "existieren.1": 436,
+    "explodieren.1": 492,
+    "fahren.1": 217,
+    "fallen.1": 339,
+    "fallen.2": 614,
+    "fallen.3": 989,
+    "fallen.4": 1046,
+    "fallen.5": 1195,
+    "fallen.6": 616,
+    "fehlen.1": 370,
+    "fehlen.2": 1248,
+    "fernsehen.1": 1238,
+    "festlegen.1": 316,
+    "festlegen.2": 554,
+    "festlegen.3": 329,
+    "festlegen.4": 1090,
+    "festnehmen.1": 81,
+    "festsetzen.1": 857,
+    "feststellen.1": 672,
+    "feststellen.2": 413,
+    "feststellen.3": 473,
+    "finanzieren.1": 385,
+    "finden.1": 299,
+    "finden.2": 713,
+    "finden.3": 924,
+    "finden.4": 1172,
+    "fliegen.1": 506,
+    "fliegen.2": 285,
+    "fliegen.3": 1255,
+    "fliegen.4": 877,
+    "fliegen.5": 1223,
+    "fliegen.6": 553,
+    "flirten.1": 932,
+    "folgern.1": 97,
+    "foltern.1": 333,
+    "fordern.1": 198,
+    "fordern.2": 324,
+    "fordern.3": 799,
+    "fordern.4": 117,
+    "fordern.5": 367,
+    "fordern.6": 635,
+    "fortsetzen.1": 219,
+    "fortsetzen.2": 407,
+    "fortsetzen.3": 337,
+    "fortsetzen.4": 737,
+    "fortsetzen.5": 846,
+    "fragen.1": 70,
+    "fragen.2": 618,
+    "fragen.3": 468,
+    "freuen.1": 238,
+    "freuen.2": 925,
+    "funktionieren.1": 544,
+    "f\u00fchren.1": 241,
+    "f\u00fchren.2": 1087,
+    "f\u00fchren.3": 1050,
+    "f\u00fchren.4": 467,
+    "f\u00fchren.5": 885,
+    "f\u00fcrchten.1": 153,
+    "f\u00fcrchten.2": 964,
+    "geben.1": 491,
+    "geben.2": 715,
+    "geben.3": 1041,
+    "geben.4": 535,
+    "geben.5": 381,
+    "geben.6": 1217,
+    "geben.7": 796,
+    "geben.8": 935,
+    "geben.9": 1141,
+    "geblieben.1": 1182,
+    "geb\u00e4ren.1": 572,
+    "geb\u00e4ren.2": 939,
+    "gef\u00e4hrden.1": 216,
+    "gehen.1": 284,
+    "geh\u00f6ren.1": 552,
+    "gei\u00dfeln.1": 386,
+    "gelingen.1": 22,
+    "gelten.1": 32,
+    "gelten.2": 249,
+    "gelten.3": 126,
+    "gelten.4": 20,
+    "gelten.5": 1263,
+    "geschehen.1": 106,
+    "geschehen.2": 972,
+    "gewinnen.1": 264,
+    "gewinnen.2": 7,
+    "gewinnen.3": 503,
+    "gewinnen.4": 414,
+    "gewinnen.5": 1106,
+    "gewinnen.6": 756,
+    "glauben.1": 16,
+    "glauben.2": 6,
+    "glauben.3": 734,
+    "glauben.4": 188,
+    "glauben.5": 540,
+    "glauben.6": 686,
+    "glauben.7": 159,
+    "glauben.8": 707,
+    "gleiten.1": 1127,
+    "gleiten.2": 965,
+    "glucksen.1": 892,
+    "greifen.1": 519,
+    "greifen.2": 300,
+    "greifen.3": 1014,
+    "gr\u00fcnden.1": 18,
+    "gr\u00fcnden.2": 632,
+    "gucken.1": 85,
+    "guthei\u00dfen.1": 488,
+    "hassen.1": 690,
+    "hasten.1": 456,
+    "hauen.1": 980,
+    "heben.1": 812,
+    "heben.2": 870,
+    "hei\u00dfen.1": 41,
+    "hei\u00dfen.2": 57,
+    "hei\u00dfen.3": 195,
+    "hei\u00dfen.4": 766,
+    "hei\u00dfen.5": 38,
+    "hei\u00dfen.6": 643,
+    "hei\u00dfen.7": 1098,
+    "herausfinden.1": 100,
+    "hereinkommen.1": 1016,
+    "herfallen.1": 1125,
+    "hergeben.1": 741,
+    "hergeben.2": 671,
+    "herrschen.1": 149,
+    "herumreichen.1": 1107,
+    "hervorheben.1": 497,
+    "hervorheben.2": 747,
+    "hetzen.1": 1051,
+    "hindern.1": 484,
+    "hinnehmen.1": 132,
+    "hinrichten.1": 128,
+    "hinterfragen.1": 845,
+    "hoffen.1": 232,
+    "hoffen.2": 1001,
+    "huschen.1": 1239,
+    "h\u00e4ngen.1": 625,
+    "h\u00f6ren.1": 382,
+    "h\u00f6ren.2": 193,
+    "h\u00f6ren.3": 687,
+    "h\u00f6ren.4": 490,
+    "h\u00f6ren.5": 1079,
+    "h\u00f6ren.6": 998,
+    "h\u00f6ren.7": 1144,
+    "h\u00f6ren.8": 1137,
+    "h\u00f6ren.9": 1261,
+    "ignorieren.1": 52,
+    "informieren.1": 428,
+    "informieren.2": 437,
+    "informieren.3": 355,
+    "informieren.4": 645,
+    "integrieren.1": 433,
+    "integrieren.2": 600,
+    "integrieren.3": 599,
+    "interpretieren.1": 576,
+    "interpretieren.2": 778,
+    "investieren.1": 190,
+    "irren.1": 692,
+    "jubeln.1": 678,
+    "jubeln.2": 257,
+    "kandidieren.1": 8,
+    "kapitulieren.1": 859,
+    "kassieren.1": 119,
+    "kaufen.1": 210,
+    "kehren.1": 732,
+    "kennen.1": 15,
+    "kennen.2": 158,
+    "kippen.1": 949,
+    "kippen.2": 814,
+    "kippen.3": 1165,
+    "kippen.4": 1233,
+    "klagen.1": 112,
+    "klagen.2": 328,
+    "klagen.3": 971,
+    "klagen.4": 950,
+    "klettern.1": 494,
+    "klettern.2": 521,
+    "kommen.1": 58,
+    "kommen.10": 233,
+    "kommen.11": 321,
+    "kommen.12": 765,
+    "kommen.13": 1161,
+    "kommen.14": 1205,
+    "kommen.15": 1171,
+    "kommen.16": 906,
+    "kommen.17": 1126,
+    "kommen.18": 889,
+    "kommen.19": 1153,
+    "kommen.2": 87,
+    "kommen.20": 447,
+    "kommen.21": 397,
+    "kommen.22": 511,
+    "kommen.23": 1042,
+    "kommen.24": 669,
+    "kommen.25": 1225,
+    "kommen.26": 1035,
+    "kommen.27": 1158,
+    "kommen.28": 724,
+    "kommen.3": 137,
+    "kommen.4": 445,
+    "kommen.5": 431,
+    "kommen.6": 703,
+    "kommen.7": 202,
+    "kommen.8": 829,
+    "kommen.9": 867,
+    "kommentieren.1": 253,
+    "kontrollieren.1": 231,
+    "kontrollieren.2": 175,
+    "krachen.1": 1070,
+    "krachen.2": 1257,
+    "kratzen.1": 1244,
+    "kratzen.2": 740,
+    "kreisen.1": 904,
+    "kreisen.2": 1039,
+    "kreisen.3": 929,
+    "kriechen.1": 1185,
+    "kritisieren.1": 154,
+    "k\u00f6nnen.1": 496,
+    "k\u00f6nnen.2": 742,
+    "k\u00fcmmern.1": 446,
+    "k\u00fcmmern.2": 1241,
+    "k\u00fcndigen.1": 182,
+    "k\u00fcndigen.2": 120,
+    "k\u00fcndigen.3": 873,
+    "lagern.1": 975,
+    "lagern.2": 1060,
+    "lassen.1": 423,
+    "lassen.2": 479,
+    "lassen.3": 744,
+    "lassen.4": 827,
+    "lassen.5": 1049,
+    "lauschen.1": 675,
+    "lauschen.2": 1044,
+    "legen.1": 541,
+    "legen.2": 702,
+    "legen.3": 319,
+    "legen.4": 1140,
+    "legen.5": 768,
+    "legen.7": 310,
+    "lehnen.1": 354,
+    "lehnen.2": 2,
+    "leiten.1": 936,
+    "lernen.1": 562,
+    "lernen.2": 399,
+    "lesen.1": 813,
+    "lesen.2": 461,
+    "lesen.3": 529,
+    "lesen.4": 928,
+    "lesen.5": 1006,
+    "lesen.6": 1203,
+    "lesen.8": 358,
+    "lieben.1": 647,
+    "liegen.1": 341,
+    "loben.1": 83,
+    "loben.2": 864,
+    "loben.3": 820,
+    "losschlagen.1": 237,
+    "losschlagen.2": 140,
+    "lynchen.1": 1084,
+    "l\u00f6sen.1": 858,
+    "l\u00f6sen.2": 556,
+    "machen.1": 368,
+    "mahnen.1": 114,
+    "mahnen.2": 1120,
+    "marschieren.1": 390,
+    "meinen.1": 30,
+    "meinen.2": 10,
+    "meinen.3": 630,
+    "meinen.4": 586,
+    "meinen.5": 1146,
+    "meinen.6": 628,
+    "meint.1": 77,
+    "melden.1": 296,
+    "melden.2": 405,
+    "melden.3": 129,
+    "melden.4": 160,
+    "melden.5": 709,
+    "mieten.1": 791,
+    "mitteilen.1": 228,
+    "mitwirken.1": 704,
+    "mi\u00dfbilligen.1": 1228,
+    "mi\u00dfhandeln.1": 617,
+    "morden.1": 681,
+    "mutma\u00dfen.1": 443,
+    "mutma\u00dfen.2": 395,
+    "m\u00fcssen.1": 80,
+    "nachdenken.1": 250,
+    "nachfragen.1": 1089,
+    "nachfragen.2": 717,
+    "nachgeben.1": 862,
+    "nachgeben.2": 887,
+    "nahelegen.1": 660,
+    "nahelegen.2": 1063,
+    "nehmen.1": 597,
+    "nehmen.10": 422,
+    "nehmen.11": 605,
+    "nehmen.12": 926,
+    "nehmen.13": 313,
+    "nehmen.14": 798,
+    "nehmen.15": 968,
+    "nehmen.16": 719,
+    "nehmen.17": 871,
+    "nehmen.18": 1010,
+    "nehmen.19": 1221,
+    "nehmen.2": 268,
+    "nehmen.20": 1270,
+    "nehmen.21": 1187,
+    "nehmen.22": 1115,
+    "nehmen.23": 1024,
+    "nehmen.24": 962,
+    "nehmen.25": 286,
+    "nehmen.3": 464,
+    "nehmen.4": 280,
+    "nehmen.5": 351,
+    "nehmen.6": 891,
+    "nehmen.7": 346,
+    "nehmen.8": 754,
+    "nehmen.9": 767,
+    "nennen.1": 121,
+    "nennen.2": 27,
+    "nennen.3": 9,
+    "nennen.4": 648,
+    "nennen.5": 138,
+    "nennen.6": 922,
+    "nutzen.1": 116,
+    "nutzen.2": 811,
+    "n\u00fctzen.1": 1152,
+    "ordnen.1": 532,
+    "pachten.1": 205,
+    "passieren.1": 409,
+    "passieren.2": 604,
+    "peitschen.1": 821,
+    "plazieren.1": 997,
+    "plazieren.2": 805,
+    "pl\u00e4dieren.1": 54,
+    "pl\u00e4dieren.2": 1181,
+    "preisen.1": 787,
+    "probieren.1": 1027,
+    "probieren.2": 636,
+    "produzieren.1": 369,
+    "produzieren.2": 786,
+    "produzieren.3": 688,
+    "produzieren.4": 927,
+    "profitieren.1": 44,
+    "protestieren.1": 338,
+    "protestieren.2": 181,
+    "protestieren.3": 1262,
+    "pr\u00e4sentieren.1": 526,
+    "pr\u00e4sentieren.2": 434,
+    "pr\u00fcgeln.1": 349,
+    "quetschen.1": 463,
+    "quietschen.1": 243,
+    "qu\u00e4len.2": 882,
+    "qu\u00e4len.3": 1231,
+    "qu\u00e4len.4": 847,
+    "raten.1": 802,
+    "reagieren.1": 46,
+    "reagieren.2": 419,
+    "rechnen.1": 40,
+    "rechnen.2": 327,
+    "rechnen.3": 577,
+    "rechnen.4": 380,
+    "rechnen.5": 1109,
+    "rechnen.6": 974,
+    "rechnen.7": 833,
+    "rechtfertigen.1": 167,
+    "rechtfertigen.2": 695,
+    "reden.1": 71,
+    "reden.10": 1266,
+    "reden.2": 476,
+    "reden.3": 758,
+    "reden.4": 634,
+    "reden.5": 613,
+    "reden.6": 1267,
+    "reden.7": 408,
+    "reden.8": 1240,
+    "reduzieren.1": 545,
+    "reduzieren.2": 696,
+    "reduzieren.3": 371,
+    "reduzieren.4": 145,
+    "reduzieren.5": 1156,
+    "regieren.1": 400,
+    "regnen.1": 911,
+    "reichen.1": 806,
+    "reisen.1": 527,
+    "rei\u00dfen.1": 736,
+    "rei\u00dfen.2": 589,
+    "rei\u00dfen.3": 694,
+    "rei\u00dfen.4": 1192,
+    "rennen.1": 673,
+    "respektieren.1": 63,
+    "respektieren.2": 1055,
+    "resultieren.1": 90,
+    "richten.1": 1073,
+    "riechen.1": 749,
+    "riechen.2": 733,
+    "riechen.3": 1245,
+    "rollen.1": 957,
+    "rollen.2": 450,
+    "rollen.3": 956,
+    "rotten.1": 254,
+    "rufen.1": 291,
+    "r\u00e4chen.1": 990,
+    "r\u00e4chen.2": 1036,
+    "r\u00e4umen.1": 130,
+    "r\u00e4umen.2": 784,
+    "r\u00fccken.1": 539,
+    "r\u00fcffeln.1": 789,
+    "r\u00fcgen.1": 376,
+    "r\u00fcgen.2": 588,
+    "r\u00fchmen.1": 403,
+    "sacken.1": 1251,
+    "sagen.1": 24,
+    "sagen.2": 525,
+    "sagen.3": 1000,
+    "sagen.4": 602,
+    "sagen.5": 944,
+    "sagen.6": 803,
+    "sagen.7": 910,
+    "sausen.1": 888,
+    "schaden.1": 312,
+    "schaffen.1": 13,
+    "schauen.1": 378,
+    "schauen.2": 59,
+    "schauen.3": 1147,
+    "scheitern.1": 213,
+    "schenken.1": 670,
+    "schenken.2": 644,
+    "schenken.3": 1234,
+    "schlachten.2": 959,
+    "schlagen.1": 79,
+    "schlagen.2": 336,
+    "schlagen.3": 981,
+    "schlagen.5": 995,
+    "schlagen.7": 1258,
+    "schlagen.8": 448,
+    "schlagen.9": 621,
+    "schleichen.1": 994,
+    "schlendern.1": 1232,
+    "schlie\u00dfen.1": 568,
+    "schlie\u00dfen.2": 43,
+    "schlie\u00dfen.3": 580,
+    "schlie\u00dfen.4": 919,
+    "schlie\u00dfen.5": 726,
+    "schlie\u00dfen.6": 265,
+    "schlie\u00dfen.7": 874,
+    "schlie\u00dfen.8": 508,
+    "schlie\u00dfen.9": 499,
+    "schlingern.1": 1246,
+    "schmecken.1": 1154,
+    "schm\u00e4lern.1": 661,
+    "schm\u00fccken.1": 684,
+    "schm\u00fccken.2": 901,
+    "schreiben.1": 379,
+    "schreiben.2": 66,
+    "schreiben.3": 1086,
+    "schreiben.4": 244,
+    "schreiben.5": 1202,
+    "schrumpfen.1": 478,
+    "schrumpfen.2": 730,
+    "schwinden.1": 235,
+    "schwingen.1": 808,
+    "schwingen.2": 387,
+    "schwingen.3": 1102,
+    "sch\u00e4tzen.1": 186,
+    "sch\u00e4tzen.2": 161,
+    "sch\u00e4tzen.3": 538,
+    "sch\u00e4tzen.4": 1116,
+    "sch\u00fctzen.1": 107,
+    "sehen.1": 863,
+    "sehen.2": 457,
+    "sehen.3": 752,
+    "sehen.4": 818,
+    "sein.1": 680,
+    "senken.1": 290,
+    "senken.2": 1163,
+    "setzen.1": 657,
+    "setzen.10": 1157,
+    "setzen.11": 654,
+    "setzen.12": 945,
+    "setzen.13": 534,
+    "setzen.14": 609,
+    "setzen.16": 495,
+    "setzen.17": 624,
+    "setzen.18": 1071,
+    "setzen.2": 96,
+    "setzen.3": 548,
+    "setzen.4": 449,
+    "setzen.5": 170,
+    "setzen.6": 48,
+    "setzen.7": 487,
+    "setzen.8": 918,
+    "setzen.9": 555,
+    "signalisieren.1": 505,
+    "signalisieren.2": 477,
+    "sinken.1": 36,
+    "sinken.2": 706,
+    "sinken.3": 1191,
+    "sinnen.1": 1190,
+    "sinnieren.1": 1058,
+    "sitzen.1": 14,
+    "sitzen.2": 819,
+    "sitzen.3": 999,
+    "sitzen.4": 977,
+    "spazieren.1": 679,
+    "spenden.1": 1131,
+    "spenden.2": 1220,
+    "spotten.1": 1078,
+    "spotten.2": 1032,
+    "sprechen.1": 78,
+    "sprechen.10": 668,
+    "sprechen.11": 1026,
+    "sprechen.12": 1066,
+    "sprechen.13": 718,
+    "sprechen.14": 411,
+    "sprechen.15": 642,
+    "sprechen.16": 898,
+    "sprechen.17": 875,
+    "sprechen.18": 314,
+    "sprechen.19": 921,
+    "sprechen.2": 292,
+    "sprechen.20": 1178,
+    "sprechen.22": 1268,
+    "sprechen.3": 76,
+    "sprechen.4": 454,
+    "sprechen.5": 373,
+    "sprechen.6": 777,
+    "sprechen.7": 242,
+    "sprechen.8": 573,
+    "sprechen.9": 760,
+    "springen.1": 763,
+    "springen.2": 516,
+    "springen.3": 1080,
+    "springen.4": 1162,
+    "springen.5": 1013,
+    "spr\u00fchen.1": 1256,
+    "spr\u00fchen.2": 611,
+    "spr\u00fchen.3": 1164,
+    "sp\u00fcren.1": 152,
+    "starren.1": 902,
+    "starten.1": 579,
+    "starten.2": 558,
+    "starten.3": 1129,
+    "starten.4": 751,
+    "starten.5": 1037,
+    "stattfinden.1": 62,
+    "stechen.1": 1112,
+    "stehen.1": 68,
+    "steigen.1": 37,
+    "steigen.2": 590,
+    "stellen.1": 404,
+    "stellen.2": 247,
+    "stellen.3": 197,
+    "stellen.4": 1030,
+    "stellen.5": 832,
+    "stellen.6": 1096,
+    "stellen.7": 1155,
+    "stellen.8": 1204,
+    "sterben.1": 279,
+    "steuern.1": 1209,
+    "stiften.1": 735,
+    "stiften.2": 1177,
+    "stiften.3": 1029,
+    "stimmen.1": 222,
+    "stinken.1": 738,
+    "stinken.2": 872,
+    "sto\u00dfen.1": 95,
+    "sto\u00dfen.2": 550,
+    "sto\u00dfen.3": 748,
+    "sto\u00dfen.4": 466,
+    "sto\u00dfen.5": 1166,
+    "streben.1": 366,
+    "streichen.1": 165,
+    "streichen.2": 465,
+    "streichen.3": 1200,
+    "streiten.1": 201,
+    "streiten.2": 792,
+    "st\u00fcrben.1": 1119,
+    "st\u00fcrzen.1": 163,
+    "st\u00fcrzen.2": 569,
+    "st\u00fcrzen.3": 793,
+    "suchen.1": 88,
+    "suchen.2": 287,
+    "suchen.3": 229,
+    "suchen.4": 1043,
+    "suchen.5": 1097,
+    "s\u00e4hen.1": 1259,
+    "tadeln.1": 1069,
+    "tanzen.1": 348,
+    "tauchen.1": 896,
+    "teilen.1": 225,
+    "teilnehmen.1": 245,
+    "traktieren.1": 979,
+    "trampeln.1": 1068,
+    "treffen.1": 271,
+    "treiben.1": 139,
+    "treiben.2": 933,
+    "treiben.3": 869,
+    "treiben.4": 770,
+    "treten.1": 295,
+    "treten.2": 391,
+    "treten.3": 459,
+    "treten.4": 856,
+    "treten.5": 666,
+    "treten.6": 712,
+    "treten.8": 1149,
+    "tun.1": 155,
+    "t\u00f6nen.1": 689,
+    "t\u00f6ten.1": 294,
+    "umbringen.1": 357,
+    "umfallen.1": 603,
+    "umkippen.1": 923,
+    "umkippen.2": 1193,
+    "untersagen.1": 441,
+    "unterst\u00fctzen.1": 226,
+    "unterst\u00fctzen.2": 17,
+    "unterst\u00fctzen.3": 769,
+    "untertauchen.1": 948,
+    "unterzeichnen.1": 308,
+    "verabschieden.1": 297,
+    "verabschieden.2": 773,
+    "verachten.1": 1100,
+    "verbessern.1": 26,
+    "verbessern.2": 865,
+    "verbieten.1": 352,
+    "verbrauchen.1": 725,
+    "verbrauchen.2": 915,
+    "verbrennen.1": 418,
+    "verbrennen.2": 1085,
+    "verbrennen.3": 1059,
+    "verdammen.1": 783,
+    "verdoppeln.1": 303,
+    "verdoppeln.2": 801,
+    "verehren.2": 646,
+    "vereinbaren.1": 293,
+    "vereinbaren.2": 561,
+    "vererben.1": 133,
+    "vergessen.1": 45,
+    "vergewissern.1": 983,
+    "vergleichen.1": 711,
+    "verhaften.1": 549,
+    "verhandeln.1": 209,
+    "verhandeln.2": 471,
+    "verhandeln.3": 824,
+    "verherrlichen.1": 641,
+    "verhungern.1": 1208,
+    "verh\u00f6hnen.1": 663,
+    "verh\u00f6hnen.2": 1198,
+    "verh\u00f6ren.1": 881,
+    "verkaufen.1": 21,
+    "verkaufen.2": 1188,
+    "verlangen.1": 23,
+    "verlangen.2": 631,
+    "verlangen.3": 780,
+    "verlangen.4": 42,
+    "verlangen.5": 105,
+    "verlautbaren.1": 942,
+    "verleumden.1": 938,
+    "vermuten.1": 172,
+    "vermuten.2": 12,
+    "vermuten.3": 578,
+    "vermuten.4": 987,
+    "vernehmen.1": 728,
+    "vernichten.1": 362,
+    "vernichten.2": 893,
+    "verpacken.1": 1118,
+    "verpflichten.1": 224,
+    "verpflichten.2": 363,
+    "verpflichten.3": 757,
+    "verpflichten.4": 440,
+    "verschenken.1": 837,
+    "verschenken.2": 727,
+    "versichern.1": 39,
+    "versichern.2": 1095,
+    "versichern.3": 1215,
+    "versprechen.1": 317,
+    "versprechen.2": 410,
+    "versp\u00fcren.1": 612,
+    "versp\u00fcren.2": 502,
+    "verstehen.1": 262,
+    "verstehen.2": 50,
+    "verstehen.3": 218,
+    "verstehen.4": 697,
+    "verstehen.5": 774,
+    "verstehen.6": 843,
+    "verstehen.7": 1216,
+    "versuchen.1": 47,
+    "versuchen.2": 522,
+    "verteidigen.1": 444,
+    "verteidigen.2": 761,
+    "verteidigen.3": 584,
+    "vertreiben.1": 574,
+    "vertreiben.2": 1002,
+    "vertreiben.3": 1249,
+    "verurteilen.1": 127,
+    "verurteilen.2": 452,
+    "verwehren.1": 359,
+    "verweigern.1": 150,
+    "verwunden.1": 342,
+    "verzichten.1": 255,
+    "ver\u00e4ndern.1": 72,
+    "ver\u00e4ndern.2": 432,
+    "vollstopfen.1": 412,
+    "vorbereiten.1": 136,
+    "vorbereiten.2": 135,
+    "vorbereitet.1": 960,
+    "vorbereitet.2": 1189,
+    "vorliegen.1": 148,
+    "vorpreschen.1": 701,
+    "vorr\u00fccken.1": 1148,
+    "vorschlagen.1": 1057,
+    "vorwerfen.1": 180,
+    "vorwerfen.2": 332,
+    "votieren.1": 315,
+    "wahrnehmen.1": 638,
+    "wahrnehmen.2": 771,
+    "wandeln.1": 1045,
+    "wandeln.2": 905,
+    "wandern.1": 1211,
+    "warnen.1": 251,
+    "warnen.2": 258,
+    "waten.1": 1264,
+    "wecken.1": 650,
+    "weggehen.1": 1168,
+    "wehen.1": 817,
+    "wehtun.1": 1218,
+    "wehtun.2": 1184,
+    "weigern.1": 98,
+    "weiten.1": 1150,
+    "weiten.2": 518,
+    "weitergeben.1": 557,
+    "weitergeben.2": 1083,
+    "wei\u00dfen.1": 462,
+    "werfen.1": 252,
+    "werfen.2": 897,
+    "widersprechen.1": 537,
+    "widersprechen.2": 677,
+    "widersprechen.3": 565,
+    "wiederfinden.1": 851,
+    "wiederfinden.2": 1230,
+    "wissen.1": 33,
+    "wissen.2": 84,
+    "wissen.3": 1007,
+    "wissen.4": 256,
+    "wissen.5": 917,
+    "wissen.6": 794,
+    "wissen.7": 184,
+    "wollen.1": 1056,
+    "wundern.1": 743,
+    "wundern.2": 1271,
+    "w\u00e4hlen.1": 1091,
+    "w\u00fcnschen.1": 4,
+    "w\u00fcrdigen.1": 592,
+    "w\u00fcrdigen.2": 583,
+    "w\u00fcrdigen.3": 883,
+    "w\u00fcrdigen.4": 890,
+    "zahlen.1": 99,
+    "zahlen.2": 326,
+    "zeigen.1": 169,
+    "zeigen.10": 946,
+    "zeigen.11": 269,
+    "zeigen.2": 194,
+    "zeigen.3": 19,
+    "zeigen.4": 75,
+    "zeigen.5": 164,
+    "zeigen.6": 142,
+    "zeigen.7": 31,
+    "zeigen.8": 841,
+    "zeigen.9": 755,
+    "zeihen.1": 825,
+    "zermalmen.1": 124,
+    "zerren.1": 674,
+    "zerren.2": 460,
+    "zerren.3": 596,
+    "zerst\u00f6ren.1": 282,
+    "zerst\u00f6ren.2": 377,
+    "ziehen.1": 834,
+    "ziehen.2": 570,
+    "ziehen.3": 563,
+    "zitieren.1": 513,
+    "zitieren.2": 868,
+    "zuh\u00f6ren.1": 1121,
+    "zunehmen.1": 115,
+    "zur\u00fcckdenken.1": 676,
+    "zur\u00fcckgeben.1": 259,
+    "zur\u00fcckkehren.1": 320,
+    "zur\u00fcckziehen.1": 779,
+    "zur\u00fcckziehen.2": 507,
+    "zur\u00fcckziehen.3": 426,
+    "zur\u00fcckziehen.4": 947,
+    "zusammenschlagen.1": 1169,
+    "zusammenschlagen.2": 854,
+    "zuschauen.1": 839,
+    "zuschlagen.1": 720,
+    "zuschlagen.2": 708,
+    "zusehen.1": 1018,
+    "zustechen.1": 543,
+    "zusteuern.1": 1053,
+    "zustimmen.1": 344,
+    "zwingen.1": 174,
+    "z\u00fcchtigen.1": 475,
+    "\u00e4ndern.1": 372,
+    "\u00e4ndern.2": 274,
+    "\u00e4ndern.3": 455,
+    "\u00e4u\u00dfern.1": 25,
+    "\u00e4u\u00dfern.2": 1243,
+    "\u00fcberdachen.1": 1076,
+    "\u00fcberdenken.1": 278,
+    "\u00fcberfahren.1": 123,
+    "\u00fcberfallen.1": 347,
+    "\u00fcbergeben.1": 435,
+    "\u00fcbergeben.2": 248,
+    "\u00fcbergeben.3": 1194,
+    "\u00fcberlegen.1": 108,
+    "\u00fcberlegen.2": 876,
+    "\u00fcberraschen.1": 656,
+    "\u00fcberraschen.2": 402,
+    "\u00fcberraschen.3": 1108,
+    "\u00fcberraschen.4": 1113,
+    "\u00fcberreichen.1": 1009,
+    "\u00fcberzeugen.1": 3,
+    "\u00fcberzeugen.2": 374,
+    "\u00fcberzeugen.3": 835,
+    "\u00fcberzeugen.4": 469,
+    "\u00fcberzeugt.1": 797
+  }
+}

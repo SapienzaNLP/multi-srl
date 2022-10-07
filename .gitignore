@@ -1,13 +1,34 @@
-*.txt
-*.tsv
-*.json
-*.bin
-*.vec
+# Data
+data/original/conll2009/**/*.txt
+data/original/conll2012/**/*.txt
+data/original/ontonotes/**/*.txt
+data/original/united/**/*.conllu
 
-.DS_Store
+data/preprocessed/conll2009/**/CoNLL2009*.json
+data/preprocessed/conll2012/**/CoNLL2012*.json
+data/preprocessed/ontonotes/**/ontonotes*.json
+data/preprocessed/united/**/united*.json
 
-.vscode/
+# Resources
+data/resources/*
 
-lightning_logs/
-checkpoints/*/*ckpt
+# Extras
+extras/**/*
 
+# Logs
+logs/conll2009/**/*
+logs/conll2012/**/*
+logs/ontonotes/**/*
+logs/united/**/*
+
+# Predictions
+predictions/**/*.txt
+predictions/**/*.conll*
+
+# Misc
+.vscode/*
+**/.DS_Store
+
+# Python
+*.py[cod]
+**/__pycache__/

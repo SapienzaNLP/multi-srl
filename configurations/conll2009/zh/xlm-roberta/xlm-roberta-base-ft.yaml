@@ -1,0 +1,39 @@
+# Customize every aspect of training via flags
+trainer:
+
+  # Accumulates grads every k batches or as set up in the dict.
+  # Default: ``None``. (type: Union[int, Dict[int, int], null], default: null)
+  accumulate_grad_batches: 4
+
+# <class 'srl.model.srl_parser.SrlParser'>
+model:
+
+  #   (type: str)
+  vocabulary_path: data/preprocessed/conll2009/zh/vocabulary.json
+
+  #   (type: bool, default: False)
+  language_model_fine_tuning: true
+
+  #   (type: bool, default: False)
+  use_sense_candidates: true
+
+# <class 'srl.data.dependency_srl_data_module.DependencySrlDataModule'>
+data:
+
+  #   (type: str)
+  vocabulary_path: data/preprocessed/conll2009/zh/vocabulary.json
+
+  #   (type: Union[str, null], default: null)
+  train_path: data/preprocessed/conll2009/zh/CoNLL2009_train.json
+
+  #   (type: Union[str, null], default: null)
+  dev_path: data/preprocessed/conll2009/zh/CoNLL2009_dev.json
+
+  #   (type: Union[str, null], default: null)
+  test_path: data/preprocessed/conll2009/zh/CoNLL2009_test.json
+
+  #   (type: str, default: bert-base-cased)
+  language_model_name: xlm-roberta-base
+
+  #   (type: int, default: 32)
+  batch_size: 8
