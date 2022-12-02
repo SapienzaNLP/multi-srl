@@ -48,7 +48,7 @@ This is the repository for the paper [*Bridging the Gap in Multilingual Semantic
 If you use any part of this work, please consider citing the paper as follows:
 
 ```
-@inproceedings{conia-navigli-2022-probing,
+@inproceedings{conia-navigli-2020-multilingual-srl,
     title     = "Bridging the Gap in Multilingual {S}emantic {R}ole {L}abeling: {A} Language-Agnostic Approach",
     author    = "Conia, Simone and Navigli, Roberto",
     booktitle = "Proceedings of the 28th International Conference on Computational Linguistics, COLING 2020",
